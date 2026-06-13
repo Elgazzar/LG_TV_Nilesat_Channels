@@ -10,790 +10,790 @@
 | 6 | MBC Masr HD | 20 |
 | 7 | MBC Masr 2 | 1106 |
 | 8 | MBC Action | 10 |
-| 9 | MBC Bollywood | 8 |
-| 10 | Sada El Balad | 1114 |
-| 11 | Sada El Balad 2 | 1115 |
-| 12 | Sada ElBalad 3 | 1113 |
-| 13 | Al Kahera Wal Nas | 490 |
-| 14 | Al Kahera Wal Nas +2 | 1301 |
-| 15 | Nile Drama | 606 |
-| 16 | Nile Cinema | 614 |
-| 17 | Nile Comedy | 604 |
-| 18 | Nile Sport | 607 |
-| 19 | Al-Nahar One | 1801 |
-| 20 | Al-Nahar Drama | 1802 |
-| 21 | CBC | 1803 |
-| 22 | AL Oula HD | 502 |
-| 23 | beIN SPORTS | 2106 |
-| 24 | ONTIME SPORTS2 HD | 201 |
-| 25 | Mazzika | 1605 |
-| 26 | CBC Sofra | 1804 |
-| 27 | dmc drama | 4905 |
-| 28 | CBC Drama | 1805 |
-| 29 | Alhayat Muslsalat | 1807 |
-| 30 | ZEE ALWAN. | 6 |
-| 31 | Alhayat 2 | 1311 |
-| 32 | AlHayat HD | 3208 |
-| 33 | Nawader TV | 8021 |
-| 34 | Panorama Drama 2 | 2208 |
-| 35 | MBC Drama | 6 |
-| 36 | MBC MASR | 1306 |
-| 37 | TeN TV | 601 |
-| 38 | ALFATH TV | 1602 |
-| 39 | ELMEHWAR-HD | 7308 |
-| 40 | Misr ElBald | 18 |
-| 41 | Rotana Classic | 2104 |
-| 42 | Rotana Khalijia | 2103 |
-| 43 | Rotana Drama | 2105 |
-| 44 | Rotana Music | 2101 |
-| 45 | Rotana Clip | 2102 |
-| 46 | Rotana Cinema EGY | 2106 |
-| 47 | Rotana Cinema KSA | 2107 |
-| 48 | Rotana Cinema EGY HD | 2110 |
-| 49 | ZEE ALWAN Egypt | 7 |
-| 50 | ZEE AFLAM | 5 |
-| 51 | One Movies | 6610 |
-| 52 | MBC MASR HD | 101 |
-| 53 | MBC MASR 2 HD | 102 |
-| 54 | MBC IRAQ HD | 105 |
-| 55 | MBC 4 | 5 |
-| 56 | MBC 2 | 9 |
-| 57 | MBC 1 | 4 |
-| 58 | Moga Drama | 3830 |
-| 59 | Maspero Zaman | 615 |
-| 60 | thmanyah.1 | 107 |
-| 61 | thmanyah.2 | 108 |
-| 62 | thmanyah.3 | 109 |
-| 63 | Nile News HD | 612 |
-| 64 | Nile TV | 2205 |
-| 65 | Nile Family | 505 |
-| 66 | Nile Culture | 506 |
-| 67 | Nile Life | 605 |
-| 68 | Panorama Drama | 2207 |
-| 69 | Al Jazeera HD | 501 |
-| 70 | Mix One | 630 |
-| 71 | Cima | 701 |
-| 72 | Panorama Film | 2209 |
-| 73 | Panorama Food | 2210 |
-| 74 | SPACETOON ARABIC | 1808 |
-| 75 | ELMOLED | 8033 |
-| 76 | ONTIME SPORTS | 207 |
-| 77 | dmc masraheyat | 4908 |
-| 78 | Al Ostoura | 224 |
-| 79 | Telefzyon Zaman | 14 |
-| 80 | Al Masryia HD | 2204 |
-| 81 | MBC 3 | 11 |
-| 82 | Extra News HD | 2301 |
-| 83 | Egyptian TV HD | 1105 |
-| 84 | Al Nas | 2212 |
-| 85 | AL Resala | 2109 |
-| 86 | Al Fath Sonnah TV | 1607 |
-| 87 | AL NADA TV | 2213 |
-| 88 | Palestine Today | 8031 |
-| 89 | AL Shams | 2201 |
-| 90 | EL MAHROUSA TV | 8012 |
-| 91 | Alhara | 211 |
-| 92 | AL SABAH | 2811 |
-| 93 | CN ARABIA | 12 |
-| 94 | AL RAHMA | 8001 |
-| 95 | Saudi CH For Quran | 5601 |
-| 96 | Madrastna 1 | 2304 |
-| 97 | ALKAHERA | 7401 |
-| 98 | Outdoor Channel | 503 |
-| 99 | Misr Al Zera3eya | 1603 |
-| 100 | Tunisia Nat1 HD | 8007 |
-| 101 | TRT KURDI | 8006 |
-| 102 | AL Masryia SD | 7407 |
-| 103 | Test | 618 |
-| 104 | etc | 1314 |
-| 105 | Altahoona | 218 |
-| 106 | Test | 101 |
-| 107 | ONTIME SPORTS HD | 203 |
-| 108 | beIN SPORTS XTRA 8 | 2202 |
-| 109 | France 24 (in Arabic) | 5940 |
-| 110 | Iraq EDU 5 | 705 |
-| 111 | Saudi CH For Sunnah | 5602 |
-| 112 | MDEEH | 109 |
-| 113 | Althanya | 2206 |
-| 114 | ALMAYADEEN PLUS | 8 |
-| 115 | Ayozat TV | 512 |
-| 116 | Azhari | 515 |
-| 117 | Test | 112 |
-| 118 | Beity TV | 700 |
-| 119 | Madah | 235 |
-| 120 | Elkholasa mosalsalat | 8004 |
-| 121 | Drama Be Alaraby | 234 |
-| 122 | Layali Zaman | 209 |
-| 123 | ALKANAL | 7402 |
-| 124 | Hikayh TV | 241 |
-| 125 | ALASKANDRIA | 7403 |
-| 126 | ALDELTA | 7404 |
-| 127 | ALSA3EED | 7405 |
-| 128 | TEBA | 7406 |
-| 129 | One America News Network | 501 |
-| 130 | ELMEHWAR | 1111 |
-| 131 | ALFA HEKAYAT | 232 |
-| 132 | MVMT Movement of Culture | 508 |
-| 133 | Time Zaman TV | 231 |
-| 134 | Iraq EDU 4 | 704 |
-| 135 | Madrastna 3 | 3216 |
-| 136 | Nefertiti | 202 |
-| 137 | Al Dawaar | 221 |
-| 138 | Wild TV | 511 |
-| 139 | Dahab drama tv | 229 |
-| 140 | Baywatch | 510 |
-| 141 | Iraq EDU 2 | 702 |
-| 142 | Nogoum FM TV | 1616 |
-| 143 | World Fishing Network | 507 |
-| 144 | Mix Bel Araby | 2812 |
-| 145 | Sports First | 509 |
-| 146 | Iraq EDU 1 | 701 |
-| 147 | Almasrawya TV | 8023 |
-| 148 | Iraq EDU 6 | 706 |
-| 149 | ALS3YDA MADEEH | 236 |
-| 150 | ALFA CINEMA | 240 |
-| 151 | Drama Alyoom | 225 |
-| 152 | Iraq EDU 3 | 703 |
-| 153 | Oscar TV | 2202 |
-| 154 | Samira TV | 2039 |
-| 155 | Al3ylh TV | 206 |
-| 156 | Cleopatra TV | 247 |
-| 157 | Hala mosr3a | 245 |
-| 158 | AlHayat 3 | 3209 |
-| 159 | Al Jazeera Documentary HD | 504 |
-| 160 | Mix | 1809 |
-| 161 | El Khoulasa Classic | 230 |
-| 162 | Dubai One | 4719 |
-| 163 | Iraq EDU 7 | 707 |
-| 164 | Home TV | 207 |
-| 165 | AlHayat Sport | 3211 |
-| 166 | Hogan TV | 219 |
-| 167 | B4U PLUS | 8 |
-| 168 | Test | 2307 |
-| 169 | Zamalek Sports | 4904 |
-| 170 | Al Wathaeqya | 2306 |
-| 171 | Dubai TV | 4710 |
-| 172 | Dubai Sports 2 | 4713 |
-| 173 | Dubai Sports 3 | 4714 |
-| 174 | Dubai Racing 2 | 4715 |
-| 175 | Dubai Racing 3 | 4716 |
-| 176 | LIBYA SPORT 1 HD | 525 |
-| 177 | Libya Sport 2 HD | 2302 |
-| 178 | Alkass one HD | 2501 |
-| 179 | Alkass two HD | 2502 |
-| 180 | Alkass three HD | 2503 |
-| 181 | Alkass four HD | 2507 |
-| 182 | SBC | 2603 |
-| 183 | Thikrayatt | 2602 |
-| 184 | Sky News Arabia | 2005 |
-| 185 | Iraqia Sport HD | 7207 |
-| 186 | Oman TV Sport HD | 1202 |
-| 187 | Al Jazeera English HD | 503 |
-| 188 | Al Jazeera Mubasher 2 HD | 505 |
-| 189 | Al Jazeera Mubasher HD | 502 |
-| 190 | Qatar TV HD | 4 |
-| 191 | Qatar 2 | 2 |
-| 192 | Tunisia Nat2 HD | 8044 |
-| 193 | IMAM HUSSEIN TV 2 | 4010 |
-| 194 | MANU CHAT | 4013 |
-| 195 | ALAMAL TV | 8020 |
-| 196 | Sharjah HD | 1 |
-| 197 | Sharjah SD | 2 |
-| 198 | Sharqiya from Kalba HD | 3 |
-| 199 | Al Wousta from Al Dhaid HD | 5 |
-| 200 | Sharjah Sport HD | 6 |
-| 201 | Sharjah Quran TV | 8 |
-| 202 | Sharjah Sport 2 HD | 13 |
-| 203 | Kuwait TV 1 | 1101 |
-| 204 | Al-AKHBAR | 1102 |
-| 205 | Kuwait TV 2 | 1103 |
-| 206 | Kuwait Sports | 1104 |
-| 207 | Kuwait Sport plus | 1105 |
-| 208 | MUSIC IRAQ | 4022 |
-| 209 | Iraqi Drama | 4035 |
-| 210 | AL SALAM TV | 4036 |
-| 211 | CSAT | 5911 |
-| 212 | Sama Dubai | 4711 |
-| 213 | Dubai Sports 1 | 4712 |
-| 214 | Al Mawsleya HD | 7301 |
-| 215 | Al Basra | 7302 |
-| 216 | Libya Almustaqbal | 7303 |
-| 217 | LIBYA ALMOKHTAR | 7304 |
-| 218 | BIN OTHAIMEEN | 7305 |
-| 219 | Eriteria TV | 7306 |
-| 220 | Test | 7307 |
-| 221 | TANASUH TV | 7309 |
-| 222 | Alerth-Alnbawi | 7310 |
-| 223 | LIBYA IFTA TV | 7311 |
-| 224 | TANASUH EDUCATION TV | 7312 |
-| 225 | Kaifa | 7313 |
-| 226 | Misk Syria | 7314 |
-| 227 | Test | 7315 |
-| 228 | Al Forat HD | 7316 |
-| 229 | CNBC ARABIYA | 7317 |
-| 230 | Nilesat Feed | 7318 |
-| 231 | Test | 7319 |
-| 232 | CNN | 7320 |
-| 233 | ISC | 7321 |
-| 234 | Test | 7322 |
-| 235 | Cartoon Network | 7323 |
-| 236 | Diwan | 7408 |
-| 237 | Madrastna 2 | 7409 |
-| 238 | EDUC 1 | 7410 |
-| 239 | Sudan Basic Edu | 7411 |
-| 240 | Learning passport SD1 | 7412 |
-| 241 | Learning passport SD2 | 7413 |
-| 242 | ALASSEMA | 7414 |
-| 243 | LTV | 9 |
-| 244 | ZAD TV | 10 |
-| 245 | KBS WORLD | 14 |
-| 246 | AL SHARQIYA HD | 1 |
-| 247 | AL RASHEED TV HD | 4 |
-| 248 | AL SUMARIA HD | 5 |
-| 249 | IRAQ 24 | 6 |
-| 250 | CHADA TV | 8 |
-| 251 | CATV | 16 |
-| 252 | BAGHDAD TV | 12 |
-| 253 | TEST_CB | 25 |
-| 254 | Asharq News  Channel | 17 |
-| 255 | AVA TV | 1001 |
-| 256 | UTV Iraq HD | 1002 |
-| 257 | K24 HD | 1005 |
-| 258 | KURDISTAN TV | 1007 |
-| 259 | ZAGROS TV HD | 1009 |
-| 260 | CIRA TV | 1010 |
-| 261 | Ronahi TV | 1011 |
-| 262 | PAYAM TV HD | 1012 |
-| 263 | BANGAWAZ TV | 1013 |
-| 264 | SAT-7 KIDS | 1015 |
-| 265 | SAT-7 ARABIC | 1016 |
-| 266 | AlKarma Praise | 1017 |
-| 267 | Aryen TV | 1019 |
-| 268 | ZAROK TV HD | 1021 |
-| 269 | YEMEN SHABAB | 7000 |
-| 270 | Alkarma Discipleship | 7002 |
-| 271 | AL MAYADEEN TV | 7003 |
-| 272 | Al Hayat | 7006 |
-| 273 | BELQEES | 7008 |
-| 274 | SBN Global | 7009 |
-| 275 | MTA3 | 7010 |
-| 276 | Aliman TV | 7012 |
-| 277 | TRT Arabi | 7025 |
-| 278 | ALWATAN TV | 7026 |
-| 279 | Karameesh TV | 1201 |
-| 280 | ZAYTOONA | 1204 |
-| 281 | AL-MUSTAKILA | 1205 |
-| 282 | Wanasat Baby | 1206 |
-| 283 | M24 MAROC | 1208 |
-| 284 | Aden Almustakilla | 1210 |
-| 285 | Eutelsat Data 1 | 1290 |
-| 286 | Al Hadath | 2 |
-| 287 | Al Arabiya | 3 |
-| 288 | TEST | 7 |
-| 289 | Al Arabiya Business | 12 |
-| 290 | Shopping 3 | 22 |
-| 291 | Test | 23 |
-| 292 | OTA | 6660 |
-| 293 | OTA 2 | 6661 |
-| 294 | OTA 1 | 6662 |
-| 295 | Hooosh TV | 37 |
-| 296 | MAKAN | 51 |
-| 297 | Speda TV HD | 1 |
-| 298 | Alkarma ME 1 | 2 |
-| 299 | JIN TV HD | 2 |
-| 300 | Imam Ali TV | 5 |
-| 301 | Med Music | 8 |
-| 302 | Mereja TV | 10 |
-| 303 | STERK TV HD | 11 |
-| 304 | Africa TV 1 | 13 |
-| 305 | Africa TV 1 Quran | 15 |
-| 306 | TV ISLAAMA | 19 |
-| 307 | NRT HD | 20 |
-| 308 | Amozhgary TV | 21 |
-| 309 | DAEWA TV | 22 |
-| 310 | Hamiltan TV | 25 |
-| 311 | Kurdsat HD | 29 |
-| 312 | Kurdsat News | 30 |
-| 313 | Al Karama News | 32 |
-| 314 | NRT 2 HD | 33 |
-| 315 | Al Khaleej 24 | 14 |
-| 316 | Al Watania 24 | 43 |
-| 317 | Suroyo TV | 46 |
-| 318 | Rojava HD | 23 |
-| 319 | Sukariya hekayat | 6440 |
-| 320 | AL SHASHA CINEMA | 6460 |
-| 321 | AL SHASHA MOSLSLAT | 6470 |
-| 322 | Sukariya cinema | 6480 |
-| 323 | Fox Be Elaraby TV | 6490 |
-| 324 | Dabanga TV | 6111 |
-| 325 | beIN 4K | 2201 |
-| 326 | Sukariya zaman | 6500 |
-| 327 | Fox Movies | 6510 |
-| 328 | West Elbalad Zaman | 6520 |
-| 329 | Beirut Aflam | 6530 |
-| 330 | Beirut Alyoom | 6540 |
-| 331 | Beirut Cinema | 6550 |
-| 332 | El Omda Al yom | 6560 |
-| 333 | Beirut Drama | 6570 |
-| 334 | AL SHASHA  ALWAN | 6580 |
-| 335 | West Elbalad Drama | 6590 |
-| 336 | Alking Drama TV | 6600 |
-| 337 | Melody Drama | 6660 |
-| 338 | Alrai TV | 6670 |
-| 339 | Al Sukariya Classic | 6690 |
-| 340 | Melody Aflam | 7010 |
-| 341 | Dolly Mosalsalat | 7060 |
-| 342 | Cookies Kids TV | 7070 |
-| 343 | BaBy Kids TV | 7090 |
-| 344 | AL SHASHA  DRAMA | 8020 |
-| 345 | AL SHASHA  HEKAYAT | 8030 |
-| 346 | AL SHASHA  FILM | 8060 |
-| 347 | Elzaeem Drama | 8070 |
-| 348 | Sukariya drama | 8080 |
-| 349 | Elzaeem Cinema | 8090 |
-| 350 | Alking Aflam | 8110 |
-| 351 | El Omda Aflam | 8140 |
-| 352 | El Omda Drama | 8150 |
-| 353 | One Drama | 8160 |
-| 354 | beIN SPORTS XTRA 9 | 2203 |
-| 355 | Cairo Plus Cinema | 6640 |
-| 356 | CHANNEL8 | 6620 |
-| 357 | Cairo Plus Drama | 6650 |
-| 358 | M classic | 7000 |
-| 359 | Dolly Drama | 7050 |
-| 360 | beIN SPORTS MAX 4 | 2204 |
-| 361 | Dolly Alyoom | 7080 |
-| 362 | Dolly cinema | 8040 |
-| 363 | Dolly movies | 8100 |
-| 364 | Cairo Plus Alyoum | 8130 |
-| 365 | Al Sahat | 4 |
-| 366 | Mahdi has appeared TV | 5 |
-| 367 | beIN SPORTS XTRA 6 | 2205 |
-| 368 | spare | 2206 |
-| 369 | spare | 2207 |
-| 370 | spare | 2208 |
-| 371 | Asharq Documentary | 18 |
-| 372 | Iraqia News HD | 7201 |
-| 373 | Iraqia Turkuman | 7205 |
-| 374 | Iraqia Kurd | 7206 |
-| 375 | programme nationale HD | 1 |
-| 376 | 5 KIDS | 1592 |
-| 377 | TV5 | 1601 |
-| 378 | Al Kawthar HD | 1604 |
-| 379 | AlSaeedah | 1608 |
-| 380 | Test | 1609 |
-| 381 | Test | 1610 |
-| 382 | I Film Arabic | 1611 |
-| 383 | Al Ghad HD | 1617 |
-| 384 | Al Fath Al3amh | 1618 |
-| 385 | Al Alam HD | 1619 |
-| 386 | Test | 2801 |
-| 387 | Press TV HD | 2802 |
-| 388 | Test | 2803 |
-| 389 | LJBC | 2804 |
-| 390 | Test | 2805 |
-| 391 | Test | 2813 |
-| 392 | BAGHDAD TV | 2819 |
-| 393 | LIBYA ALHADATH HD | 2821 |
-| 394 | Syria News HD | 2822 |
-| 395 | AlAraby2 | 2823 |
-| 396 | Test | 2824 |
-| 397 | Test | 2825 |
-| 398 | Al Thania | 2826 |
-| 399 | Syria TV 01 | 2827 |
-| 400 | Test | 2828 |
-| 401 | Test | 600 |
-| 402 | Test | 602 |
-| 403 | Nile News | 603 |
-| 404 | Test | 1102 |
-| 405 | Extra News | 1806 |
-| 406 | HYA | 1810 |
-| 407 | Test | 489 |
-| 408 | CGTN | 1302 |
-| 409 | Sahar Kurdi | 1303 |
-| 410 | Libya Alrasmia | 1304 |
-| 411 | Lebanon TV | 1305 |
-| 412 | HADRAMAUT TV | 1307 |
-| 413 | 2M Maroc | 1308 |
-| 414 | Aden TV | 1309 |
-| 415 | CGTN-Arabic | 1310 |
-| 416 | Al Shams Drama | 1312 |
-| 417 | Test | 1313 |
-| 418 | Test | 1315 |
-| 419 | Test | 491 |
-| 420 | AL oula | 501 |
-| 421 | Test | 503 |
-| 422 | Test | 507 |
-| 423 | Test | 508 |
-| 424 | SABA HD | 510 |
-| 425 | BBC News TV | 522 |
-| 426 | Libya Alwataniya | 524 |
-| 427 | ALHAWYAH TV | 6 |
-| 428 | beIN SPORTS EN 1 | 2301 |
-| 429 | beIN SPORTS EN 2 | 2302 |
-| 430 | beIN SPORTS FR 2 | 2304 |
-| 431 | beIN SPORTS FR 1 | 2303 |
-| 432 | beIN SPORTS MAX 2 | 2305 |
-| 433 | beIN SPORTS XTRA 7 | 2306 |
-| 434 | beIN 4K | 2401 |
-| 435 | Asharq News Channel HD | 101 |
-| 436 | Asharq Documentary HD | 102 |
-| 437 | Asharq Discovery HD | 103 |
-| 438 | Alkarma New Generation | 250 |
-| 439 | Iraqia Ent HD | 7209 |
-| 440 | Radio AL-Iraqia | 7210 |
-| 441 | Radio AI-Forqan | 7211 |
-| 442 | Radio Baghdad | 7212 |
-| 443 | Iraqia Syriac HD | 7220 |
-| 444 | Iraqi interior radio | 7227 |
-| 445 | DAHAB MOSALSALAT | 249 |
-| 446 | Elkhoulasa Drama | 208 |
-| 447 | SSBC (News &amp; MEDIA) | 251 |
-| 448 | ALFA DRAMA | 239 |
-| 449 | Altamselia | 222 |
-| 450 | Al Rayyan HD | 510 |
-| 451 | Al Rayyan Al Qadeem HD | 511 |
-| 452 | BN TV | 590 |
-| 453 | AL-GEZIRA TV | 600 |
-| 454 | Ashorooq TV | 630 |
-| 455 | Kanon TV Sudan | 640 |
-| 456 | Alzrga | 670 |
-| 457 | Shamalia TV | 680 |
-| 458 | Khartoum-TV | 790 |
-| 459 | Ahwas State TV | 800 |
-| 460 | Kassala TV | 840 |
-| 461 | Samarra tv | 1010 |
-| 462 | Huna Aliraq | 1020 |
-| 463 | Barq TV | 1030 |
-| 464 | Zoom TV | 1040 |
-| 465 | iKA TV | 1050 |
-| 466 | Salahden TV | 1060 |
-| 467 | Al-Bawadi | 1070 |
-| 468 | Marina TV HD | 1080 |
-| 469 | Al-Shahed TV HD | 1100 |
-| 470 | YEMENIA TV | 1110 |
-| 471 | ALMADANIAH TV | 1130 |
-| 472 | falestinona TV | 1140 |
-| 473 | Awazna1 | 1150 |
-| 474 | ALWESAM  TV | 1160 |
-| 475 | Nabd | 1170 |
-| 476 | Albalad TV | 1190 |
-| 477 | River Nile TV | 540 |
-| 478 | ABC-ALKhalijia TV | 500 |
-| 479 | Asil TV | 4730 |
-| 480 | WAAR HD | 4740 |
-| 481 | UTV Iraq | 4750 |
-| 482 | Alnajaf Alashraf tv | 4800 |
-| 483 | Saout alaqila | 4900 |
-| 484 | Palestine | 4910 |
-| 485 | MASSAYA TV | 5000 |
-| 486 | AL MALAKOOT SATTHE KINGDOM SAT | 5920 |
-| 487 | ALWAQIE TV HD | 5950 |
-| 488 | Al-Awhad TV | 6450 |
-| 489 | Kidsy | 4850 |
-| 490 | Reef Alyemen | 3 |
-| 491 | AGHAPY TV | 4 |
-| 492 | Top Drama | 5 |
-| 493 | TOP Zaman | 7 |
-| 494 | Libya al Ahrar HD | 11 |
-| 495 | Hawa Baghdad Drama | 19 |
-| 496 | beIN SPORTS 1 | 2001 |
-| 497 | beIN SPORTS 2 | 2002 |
-| 498 | Libya Al Hedaya TV | 2303 |
-| 499 | Libya Radio Quran Karem | 2305 |
-| 500 | Syria News SD | 2308 |
-| 501 | LBC SAT | 2108 |
-| 502 | Almagd TV | 22 |
-| 503 | Al Karma Family | 27 |
-| 504 | TCTT | 36 |
-| 505 | Alkalema | 41 |
-| 506 | The Grace TV | 49 |
-| 507 | Alsay3da | 50 |
-| 508 | Noursat | 54 |
-| 509 | Beit ElDrama | 56 |
-| 510 | Al Quds Al Yawm | 6 |
-| 511 | Alatawla Cinema | 2 |
-| 512 | El Khoulasa Cinema | 9 |
-| 513 | Alatwla Drama | 12 |
-| 514 | Alatawla Hekayat | 15 |
-| 515 | Almasirah HD | 13 |
-| 516 | Noursat AlChabab | 38 |
-| 517 | Alhwanem Drama | 34 |
-| 518 | Al Basira | 16 |
-| 519 | AB IRAQ TV | 10 |
-| 520 | EL WAHA DRAMA | 46 |
-| 521 | Test | 2111 |
-| 522 | Saudi TV | 2601 |
-| 523 | Al Ekhbaria | 2604 |
-| 524 | Saudia Alaan TV | 2605 |
-| 525 | AL NAHRAIN TV | 703 |
-| 526 |  | 705 |
-| 527 | Al Araby 2 HD | 706 |
-| 528 | Test | 708 |
-| 529 |  | 709 |
-| 530 | Jordan Sport HD | 714 |
-| 531 | Iraq Now | 738 |
-| 532 | a Konoz Alhayat | 805 |
-| 533 | RT ARABIC SD | 828 |
-| 534 | ARZKR! | 721 |
-| 535 | kirkuk alan | 809 |
-| 536 | beIN SPORTS 3 | 2003 |
-| 537 | beIN SPORTS 5 | 2004 |
-| 538 | beIN SPORTS MAX 3 | 2005 |
-| 539 | beIN SPORTS MAX 2 | 2006 |
-| 540 | beIN SPORTS MAX 2 | 2007 |
-| 541 | beIN SPORTS XTRA 5 | 2008 |
-| 542 | beIN SPORTS 6 | 2101 |
-| 543 | beIN SPORTS 4 | 2102 |
-| 544 | beIN SPORTS 8 | 2103 |
-| 545 | beIN SPORTS XTRA 3 | 2104 |
-| 546 | beIN SPORTS 7 | 2105 |
-| 547 |  | 10031 |
-| 548 |  | 10032 |
-| 549 | Horus  Drama | 8 |
-| 550 | Alfady | 14 |
-| 551 | Al Horreya | 15 |
-| 552 | Almasirah Mubashar | 16 |
-| 553 | AnwarTV2 | 17 |
-| 554 | ALLAHDAH TV | 21 |
-| 555 | Logos TV | 23 |
-| 556 | Koogi | 26 |
-| 557 | Libya WTV HD | 28 |
-| 558 | ALMASIRAH TV | 32 |
-| 559 | Iraq Future | 35 |
-| 560 | Nour Mariam | 38 |
-| 561 | Al Ons TV | 40 |
-| 562 | Nour Al Sharq | 44 |
-| 563 | Nour Koddass | 45 |
-| 564 | SALVATION TV MENA | 3 |
-| 565 | Loveworld Arabic | 1 |
-| 566 | Yemen TV HD | 7 |
-| 567 | North Africa | 10 |
-| 568 | Al Ghadeer | 4 |
-| 569 | ALNOJABA TV | 12 |
-| 570 | AL SHARQIYA NEWS HD | 33 |
-| 571 | RUDAW TV | 36 |
-| 572 | AL AYAM HD | 44 |
-| 573 | Yemen Documentary | 2718 |
-| 574 | Sheba | 2719 |
-| 575 | Al Eman | 2720 |
-| 576 | Aden | 2721 |
-| 577 | Sat.tv demo loop | 2798 |
-| 578 | Al Yawm | 2701 |
-| 579 | Al Safwa | 2702 |
-| 580 | Cinema 1 | 2703 |
-| 581 | Cinema 2 | 2704 |
-| 582 | Series +2 HD | 2705 |
-| 583 | Series Channel HD | 2706 |
-| 584 | Fann | 2707 |
-| 585 | Music Now | 2708 |
-| 586 | Tarabiyat Radio | 2709 |
-| 587 | Alfa Khalijiyat Radio | 2710 |
-| 588 | World Fashion Channel | 101 |
-| 589 | Al Qamar HD | 103 |
-| 590 | Kartoon channel | 107 |
-| 591 | Al3elaj Alrohany TV | 109 |
-| 592 | GB News | 110 |
-| 593 | Music India | 111 |
-| 594 | BERBERE TV | 1503 |
-| 595 | Eutelsat Data 1 | 1590 |
-| 596 | Al Rabiaa TV | 49 |
-| 597 | SABA WORLD PROMO | 50 |
-| 598 | AL AHAD HD | 51 |
-| 599 | AL AHAD VOICE | 52 |
-| 600 | Vatican Radio | 53 |
-| 601 | Test 1 | 54 |
-| 602 | Iraq Al Hadath HD | 55 |
-| 603 | beIN SPORTS XTRA 7 | 2009 |
-| 604 | Monawaat Radio | 2711 |
-| 605 | DW Arabia HD | 2712 |
-| 606 | Test | 1001 |
-| 607 | Test | 1002 |
-| 608 | Test | 1003 |
-| 609 | Test | 1004 |
-| 610 | Test | 1005 |
-| 611 | Test | 1006 |
-| 612 | Test | 1007 |
-| 613 | Test | 1008 |
-| 614 | Test | 1009 |
-| 615 | Test | 1010 |
-| 616 | KSA SPORTS 1 | 5603 |
-| 617 | KSA SPORTS 2 | 5604 |
-| 618 | KSA SPORTS 3 | 5605 |
-| 619 | dmc | 4902 |
-| 620 | CBC HD | 4903 |
-| 621 | Extra Live SD | 4906 |
-| 622 | Alkass two HD | 2402 |
-| 623 | Alkass three HD | 2403 |
-| 624 | beIN SPORTS MAX 6 | 2415 |
-| 625 | Spare | 2409 |
-| 626 | beIN SPORTS 9 | 2410 |
-| 627 | beIN SPORTS NEWS | 2411 |
-| 628 | Test-3 | 2407 |
-| 629 | N Africa | 712 |
-| 630 | beIN SPORTS XTRA 4 | 2408 |
-| 631 | Test | 2002 |
-| 632 | Al Qahera News SD | 102 |
-| 633 | Asharq Discovery | 19 |
-| 634 | Test | 4907 |
-| 635 | Energy FM | 4921 |
-| 636 | Test | 2003 |
-| 637 | SAT.TV | 2716 |
-| 638 | Eutelsat Data 1 | 2799 |
-| 639 | Al joumhouriya | 2203 |
-| 640 | Test | 2211 |
-| 641 | Test | 2214 |
-| 642 | AL-Anbar | 2217 |
-| 643 | Test | 2009 |
-| 644 | Colorbars1 | 1 |
-| 645 | Colorbars | 100 |
-| 646 | Palestine | 1103 |
-| 647 | Modern Mti | 1104 |
-| 648 | Test | 2012 |
-| 649 | Test | 2013 |
-| 650 | Test | 2014 |
-| 651 | Sky News Arabia HD | 2015 |
-| 652 | Test | 1107 |
-| 653 | Test | 2806 |
-| 654 | Test | 1108 |
-| 655 | MUSAWA | 2980 |
-| 656 | Palestine News | 2990 |
-| 657 | Maan TV | 3320 |
-| 658 | Palestine Live | 3330 |
-| 659 | Palestine | 3350 |
-| 660 | Awdeh | 3370 |
-| 661 | Palestine Sport | 3430 |
-| 662 | AL ARABY TV HD | 3800 |
-| 663 | Moga Cinema | 3820 |
-| 664 | Elfadjer drama Dz | 3840 |
-| 665 | Moga Today | 3880 |
-| 666 | Gulfsat | 3890 |
-| 667 | AL KERAZA TV | 3850 |
-| 668 | El Sharq TV | 1430 |
-| 669 | NHK World-Japan | 1440 |
-| 670 | Mekameleen TV | 1450 |
-| 671 | Yemen Education | 1460 |
-| 672 | Shams TV | 1470 |
-| 673 | Alyaum TV | 1480 |
-| 674 | France 24 English | 1490 |
-| 675 | AVA TV | 1500 |
-| 676 | Nu TV | 1510 |
-| 677 | WATAN TV | 1540 |
-| 678 | i24 News Arabic | 1570 |
-| 679 | ERISAT | 1590 |
-| 680 | Anewz | 1600 |
-| 681 | AlQanat9 | 1640 |
-| 682 | CTV EGYPT | 1650 |
-| 683 | RUDAW | 1660 |
-| 684 | Echorouk News | 2021 |
-| 685 | Echorouk TV | 2022 |
-| 686 | ONE TV | 2023 |
-| 687 | Bahia TV | 2024 |
-| 688 | El Watania TV | 2025 |
-| 689 | El Hayat TV Algerie | 2026 |
-| 690 | El Heddaf TV | 2028 |
-| 691 | Test | 1110 |
-| 692 | AlHadath Alyoum | 1112 |
-| 693 | Test | 1811 |
-| 694 | Test | 1812 |
-| 695 | Test | 1813 |
-| 696 | AL SHARQIYA HD | 1814 |
-| 697 | Test | 1815 |
-| 698 | Test | 1816 |
-| 699 | Yemen | 104 |
-| 700 | BBC Arabic | 3203 |
-| 701 | ALhayat | 3204 |
-| 702 | Test | 3205 |
-| 703 | France 24 | 3206 |
-| 704 | Alhayat We Alnas | 3207 |
-| 705 | Al Aoula inter | 3210 |
-| 706 | A TV | 3212 |
-| 707 | Al Alam Syria | 3213 |
-| 708 | ALSahraa HD | 3214 |
-| 709 | Salam TV Algeria | 2029 |
-| 710 | Eldjazair N1 | 2030 |
-| 711 | AL24 News | 2032 |
-| 712 | El Bilad TV | 2034 |
-| 713 | Ennahar TV Algerie | 2040 |
-| 714 | Zahra TV | 2042 |
-| 715 | Algerian 4Kids | 2043 |
-| 716 | Al Arabiya | 107 |
-| 717 | ALhayah ALaan | 3215 |
-| 718 | D IRAQ | 4037 |
-| 719 | Al-Arabiya Alhadath | 108 |
-| 720 | Yemen Today | 111 |
-| 721 | Al Ahly HD | 106 |
-| 722 | Al Ahly SD | 113 |
-| 723 | LIBYA ALMASAR TV | 8045 |
-| 724 | SMTV | 204 |
-| 725 | TCHAD TV HD | 222 |
-| 726 | AL SIRAT TV | 223 |
-| 727 | ALHOUDA | 232 |
-| 728 | Alwilayah TV | 2220 |
-| 729 | Hawa Baghdad | 2230 |
-| 730 | HAQ TV | 2260 |
-| 731 | Nesiha TV | 2270 |
-| 732 | Alhujja TV | 2280 |
-| 733 | ALNAHAR ALJADID | 2290 |
-| 734 | ALWAAI ALSHIRAZI | 2300 |
-| 735 | SHAM FM PLUS | 2310 |
-| 736 | Al-Ahvaz | 2350 |
-| 737 | atv-ALADALAH | 2360 |
-| 738 | Al-Sabah TV | 2410 |
-| 739 | Al-Mahdi | 2420 |
-| 740 | Al-Falloja | 2470 |
-| 741 | OM-AlBaneen TV | 2510 |
-| 742 | AL SAYEDAH TV | 2520 |
-| 743 | ALHIJAZ TV | 2540 |
-| 744 | Arara TV | 2630 |
-| 745 | Amman TV | 800 |
-| 746 | Jordan Sport | 802 |
-| 747 | ALISTIQAMA TV | 824 |
-| 748 | RT ARABIC HD | 827 |
-| 749 | ROYA HD | 831 |
-| 750 | Jordan HD | 832 |
-| 751 | Almamlaka TV | 837 |
-| 752 | RT English | 839 |
-| 753 | AL HAQEQA AL DAWLIAH | 665 |
-| 754 | Jordan Amen | 666 |
-| 755 | TUNISIA SHOP | 667 |
-| 756 | Almahriah HD | 241 |
-| 757 | Ennahar rokia | 668 |
-| 758 | ALRAHMAN | 669 |
-| 759 | Angel TV Arabia | 603 |
-| 760 | ERIPM | 604 |
-| 761 | Sawt Alitra | 606 |
-| 762 | SUHAIL TV | 609 |
-| 763 | TAHA | 610 |
-| 764 | ADEN TV | 611 |
-| 765 | KTO | 612 |
-| 766 | MESat | 613 |
-| 767 | Oman TV General HD | 1201 |
-| 768 | Oman TV Live HD | 1203 |
-| 769 | Oman TV Culture HD | 1204 |
-| 770 | Oman TV General SD | 1205 |
-| 771 | Test | 120 |
-| 772 | Wedo TV | 500 |
-| 773 | World Poker Tour | 504 |
-| 774 | Sudan TV | 103 |
-| 775 | Al Qahera News | 105 |
-| 776 | Al-Nahar Nour | 110 |
-| 777 | ETIHAD TV | 302 |
-| 778 | Al Mayadeen HD | 303 |
-| 779 | AL THAQALAYN TV | 304 |
-| 780 | HodHod  TV | 306 |
-| 781 | Aljanub TV | 312 |
-| 782 | AL ESHRAQ TV | 313 |
-| 783 | DUA CHANNEL | 314 |
-| 784 | NABA TV | 318 |
-| 785 | ALNAEEM TV | 329 |
-| 786 | Almaaref TV HD | 403 |
-| 787 | Menhag Alnabowe | 405 |
-| 788 | Chebab TV | 1504 |
-| 789 | Cricket Gold | 505 |
-| 790 | Bare Knuckle Fighting | 506 |
-| 791 | Test | 7415 |
-| 792 | MBC MASR DRAMA HD | 103 |
+| 9 | Sada El Balad | 1114 |
+| 10 | Sada El Balad 2 | 1115 |
+| 11 | Sada ElBalad 3 | 1113 |
+| 12 | Al Kahera Wal Nas | 490 |
+| 13 | Al Kahera Wal Nas +2 | 1301 |
+| 14 | Nile Drama | 606 |
+| 15 | Nile Cinema | 614 |
+| 16 | Nile Comedy | 604 |
+| 17 | Nile Sport | 607 |
+| 18 | Al-Nahar One | 1801 |
+| 19 | CBC | 1803 |
+| 20 | AL Oula HD | 502 |
+| 21 | beIN SPORTS | 2106 |
+| 22 | ONTIME SPORTS2 HD | 201 |
+| 23 | Mazzika | 1605 |
+| 24 | CBC Sofra | 1804 |
+| 25 | dmc drama | 4905 |
+| 26 | CBC Drama | 1805 |
+| 27 | Alhayat Muslsalat | 1807 |
+| 28 | Al-Nahar Drama | 1802 |
+| 29 | MBC MASR DRAMA HD | 103 |
+| 30 | MBC Drama | 6 |
+| 31 | MBC Bollywood | 8 |
+| 32 | ZEE ALWAN. | 6 |
+| 33 | Alhayat 2 | 1311 |
+| 34 | AlHayat HD | 3208 |
+| 35 | Nawader TV | 8021 |
+| 36 | Panorama Drama 2 | 2208 |
+| 37 | MBC MASR | 1306 |
+| 38 | TeN TV | 601 |
+| 39 | ALFATH TV | 1602 |
+| 40 | ELMEHWAR-HD | 7308 |
+| 41 | Misr ElBald | 18 |
+| 42 | Rotana Classic | 2104 |
+| 43 | Rotana Khalijia | 2103 |
+| 44 | Rotana Drama | 2105 |
+| 45 | Rotana Music | 2101 |
+| 46 | Rotana Clip | 2102 |
+| 47 | Rotana Cinema EGY | 2106 |
+| 48 | Rotana Cinema KSA | 2107 |
+| 49 | Rotana Cinema EGY HD | 2110 |
+| 50 | ZEE ALWAN Egypt | 7 |
+| 51 | ZEE AFLAM | 5 |
+| 52 | One Movies | 6610 |
+| 53 | MBC MASR HD | 101 |
+| 54 | MBC MASR 2 HD | 102 |
+| 55 | MBC IRAQ HD | 105 |
+| 56 | MBC 4 | 5 |
+| 57 | MBC 2 | 9 |
+| 58 | MBC 1 | 4 |
+| 59 | Moga Drama | 3830 |
+| 60 | Maspero Zaman | 615 |
+| 61 | thmanyah.1 | 107 |
+| 62 | thmanyah.2 | 108 |
+| 63 | thmanyah.3 | 109 |
+| 64 | Nile News HD | 612 |
+| 65 | Nile TV | 2205 |
+| 66 | Nile Family | 505 |
+| 67 | Nile Culture | 506 |
+| 68 | Nile Life | 605 |
+| 69 | Panorama Drama | 2207 |
+| 70 | Al Jazeera HD | 501 |
+| 71 | Mix One | 630 |
+| 72 | Cima | 701 |
+| 73 | Panorama Film | 2209 |
+| 74 | Panorama Food | 2210 |
+| 75 | SPACETOON ARABIC | 1808 |
+| 76 | ELMOLED | 8033 |
+| 77 | ONTIME SPORTS | 207 |
+| 78 | dmc masraheyat | 4908 |
+| 79 | Al Ostoura | 224 |
+| 80 | Telefzyon Zaman | 14 |
+| 81 | Al Masryia HD | 2204 |
+| 82 | MBC 3 | 11 |
+| 83 | Extra News HD | 2301 |
+| 84 | Egyptian TV HD | 1105 |
+| 85 | Al Nas | 2212 |
+| 86 | AL Resala | 2109 |
+| 87 | Al Fath Sonnah TV | 1607 |
+| 88 | AL NADA TV | 2213 |
+| 89 | Palestine Today | 8031 |
+| 90 | AL Shams | 2201 |
+| 91 | EL MAHROUSA TV | 8012 |
+| 92 | Alhara | 211 |
+| 93 | AL SABAH | 2811 |
+| 94 | CN ARABIA | 12 |
+| 95 | AL RAHMA | 8001 |
+| 96 | Saudi CH For Quran | 5601 |
+| 97 | Madrastna 1 | 2304 |
+| 98 | ALKAHERA | 7401 |
+| 99 | Outdoor Channel | 503 |
+| 100 | Misr Al Zera3eya | 1603 |
+| 101 | Tunisia Nat1 HD | 8007 |
+| 102 | TRT KURDI | 8006 |
+| 103 | AL Masryia SD | 7407 |
+| 104 | Test | 618 |
+| 105 | etc | 1314 |
+| 106 | Altahoona | 218 |
+| 107 | Test | 101 |
+| 108 | ONTIME SPORTS HD | 203 |
+| 109 | beIN SPORTS XTRA 8 | 2202 |
+| 110 | France 24 (in Arabic) | 5940 |
+| 111 | Iraq EDU 5 | 705 |
+| 112 | Saudi CH For Sunnah | 5602 |
+| 113 | MDEEH | 109 |
+| 114 | Althanya | 2206 |
+| 115 | ALMAYADEEN PLUS | 8 |
+| 116 | Ayozat TV | 512 |
+| 117 | Azhari | 515 |
+| 118 | Test | 112 |
+| 119 | Beity TV | 700 |
+| 120 | Madah | 235 |
+| 121 | Elkholasa mosalsalat | 8004 |
+| 122 | Drama Be Alaraby | 234 |
+| 123 | Layali Zaman | 209 |
+| 124 | ALKANAL | 7402 |
+| 125 | Hikayh TV | 241 |
+| 126 | ALASKANDRIA | 7403 |
+| 127 | ALDELTA | 7404 |
+| 128 | ALSA3EED | 7405 |
+| 129 | TEBA | 7406 |
+| 130 | One America News Network | 501 |
+| 131 | ELMEHWAR | 1111 |
+| 132 | ALFA HEKAYAT | 232 |
+| 133 | MVMT Movement of Culture | 508 |
+| 134 | Time Zaman TV | 231 |
+| 135 | Iraq EDU 4 | 704 |
+| 136 | Madrastna 3 | 3216 |
+| 137 | Nefertiti | 202 |
+| 138 | Al Dawaar | 221 |
+| 139 | Wild TV | 511 |
+| 140 | Dahab drama tv | 229 |
+| 141 | Baywatch | 510 |
+| 142 | Iraq EDU 2 | 702 |
+| 143 | Nogoum FM TV | 1616 |
+| 144 | World Fishing Network | 507 |
+| 145 | Mix Bel Araby | 2812 |
+| 146 | Sports First | 509 |
+| 147 | Iraq EDU 1 | 701 |
+| 148 | Almasrawya TV | 8023 |
+| 149 | Iraq EDU 6 | 706 |
+| 150 | ALS3YDA MADEEH | 236 |
+| 151 | ALFA CINEMA | 240 |
+| 152 | Drama Alyoom | 225 |
+| 153 | Iraq EDU 3 | 703 |
+| 154 | Oscar TV | 2202 |
+| 155 | Samira TV | 2039 |
+| 156 | Al3ylh TV | 206 |
+| 157 | Cleopatra TV | 247 |
+| 158 | Hala mosr3a | 245 |
+| 159 | AlHayat 3 | 3209 |
+| 160 | Al Jazeera Documentary HD | 504 |
+| 161 | Mix | 1809 |
+| 162 | El Khoulasa Classic | 230 |
+| 163 | Dubai One | 4719 |
+| 164 | Iraq EDU 7 | 707 |
+| 165 | Home TV | 207 |
+| 166 | AlHayat Sport | 3211 |
+| 167 | Hogan TV | 219 |
+| 168 | B4U PLUS | 8 |
+| 169 | Test | 2307 |
+| 170 | Zamalek Sports | 4904 |
+| 171 | Al Wathaeqya | 2306 |
+| 172 | Dubai TV | 4710 |
+| 173 | Dubai Sports 2 | 4713 |
+| 174 | Dubai Sports 3 | 4714 |
+| 175 | Dubai Racing 2 | 4715 |
+| 176 | Dubai Racing 3 | 4716 |
+| 177 | LIBYA SPORT 1 HD | 525 |
+| 178 | Libya Sport 2 HD | 2302 |
+| 179 | Alkass one HD | 2501 |
+| 180 | Alkass two HD | 2502 |
+| 181 | Alkass three HD | 2503 |
+| 182 | Alkass four HD | 2507 |
+| 183 | SBC | 2603 |
+| 184 | Thikrayatt | 2602 |
+| 185 | Sky News Arabia | 2005 |
+| 186 | Iraqia Sport HD | 7207 |
+| 187 | Oman TV Sport HD | 1202 |
+| 188 | Al Jazeera English HD | 503 |
+| 189 | Al Jazeera Mubasher 2 HD | 505 |
+| 190 | Al Jazeera Mubasher HD | 502 |
+| 191 | Qatar TV HD | 4 |
+| 192 | Qatar 2 | 2 |
+| 193 | Tunisia Nat2 HD | 8044 |
+| 194 | IMAM HUSSEIN TV 2 | 4010 |
+| 195 | MANU CHAT | 4013 |
+| 196 | ALAMAL TV | 8020 |
+| 197 | Sharjah HD | 1 |
+| 198 | Sharjah SD | 2 |
+| 199 | Sharqiya from Kalba HD | 3 |
+| 200 | Al Wousta from Al Dhaid HD | 5 |
+| 201 | Sharjah Sport HD | 6 |
+| 202 | Sharjah Quran TV | 8 |
+| 203 | Sharjah Sport 2 HD | 13 |
+| 204 | Kuwait TV 1 | 1101 |
+| 205 | Al-AKHBAR | 1102 |
+| 206 | Kuwait TV 2 | 1103 |
+| 207 | Kuwait Sports | 1104 |
+| 208 | Kuwait Sport plus | 1105 |
+| 209 | MUSIC IRAQ | 4022 |
+| 210 | Iraqi Drama | 4035 |
+| 211 | AL SALAM TV | 4036 |
+| 212 | CSAT | 5911 |
+| 213 | Sama Dubai | 4711 |
+| 214 | Dubai Sports 1 | 4712 |
+| 215 | Al Mawsleya HD | 7301 |
+| 216 | Al Basra | 7302 |
+| 217 | Libya Almustaqbal | 7303 |
+| 218 | LIBYA ALMOKHTAR | 7304 |
+| 219 | BIN OTHAIMEEN | 7305 |
+| 220 | Eriteria TV | 7306 |
+| 221 | Test | 7307 |
+| 222 | TANASUH TV | 7309 |
+| 223 | Alerth-Alnbawi | 7310 |
+| 224 | LIBYA IFTA TV | 7311 |
+| 225 | TANASUH EDUCATION TV | 7312 |
+| 226 | Kaifa | 7313 |
+| 227 | Misk Syria | 7314 |
+| 228 | Test | 7315 |
+| 229 | Al Forat HD | 7316 |
+| 230 | CNBC ARABIYA | 7317 |
+| 231 | Nilesat Feed | 7318 |
+| 232 | Test | 7319 |
+| 233 | CNN | 7320 |
+| 234 | ISC | 7321 |
+| 235 | Test | 7322 |
+| 236 | Cartoon Network | 7323 |
+| 237 | Diwan | 7408 |
+| 238 | Madrastna 2 | 7409 |
+| 239 | EDUC 1 | 7410 |
+| 240 | Sudan Basic Edu | 7411 |
+| 241 | Learning passport SD1 | 7412 |
+| 242 | Learning passport SD2 | 7413 |
+| 243 | ALASSEMA | 7414 |
+| 244 | LTV | 9 |
+| 245 | ZAD TV | 10 |
+| 246 | KBS WORLD | 14 |
+| 247 | AL SHARQIYA HD | 1 |
+| 248 | AL RASHEED TV HD | 4 |
+| 249 | AL SUMARIA HD | 5 |
+| 250 | IRAQ 24 | 6 |
+| 251 | CHADA TV | 8 |
+| 252 | CATV | 16 |
+| 253 | BAGHDAD TV | 12 |
+| 254 | TEST_CB | 25 |
+| 255 | Asharq News  Channel | 17 |
+| 256 | AVA TV | 1001 |
+| 257 | UTV Iraq HD | 1002 |
+| 258 | K24 HD | 1005 |
+| 259 | KURDISTAN TV | 1007 |
+| 260 | ZAGROS TV HD | 1009 |
+| 261 | CIRA TV | 1010 |
+| 262 | Ronahi TV | 1011 |
+| 263 | PAYAM TV HD | 1012 |
+| 264 | BANGAWAZ TV | 1013 |
+| 265 | SAT-7 KIDS | 1015 |
+| 266 | SAT-7 ARABIC | 1016 |
+| 267 | AlKarma Praise | 1017 |
+| 268 | Aryen TV | 1019 |
+| 269 | ZAROK TV HD | 1021 |
+| 270 | YEMEN SHABAB | 7000 |
+| 271 | Alkarma Discipleship | 7002 |
+| 272 | AL MAYADEEN TV | 7003 |
+| 273 | Al Hayat | 7006 |
+| 274 | BELQEES | 7008 |
+| 275 | SBN Global | 7009 |
+| 276 | MTA3 | 7010 |
+| 277 | Aliman TV | 7012 |
+| 278 | TRT Arabi | 7025 |
+| 279 | ALWATAN TV | 7026 |
+| 280 | Karameesh TV | 1201 |
+| 281 | ZAYTOONA | 1204 |
+| 282 | AL-MUSTAKILA | 1205 |
+| 283 | Wanasat Baby | 1206 |
+| 284 | M24 MAROC | 1208 |
+| 285 | Aden Almustakilla | 1210 |
+| 286 | Eutelsat Data 1 | 1290 |
+| 287 | Al Hadath | 2 |
+| 288 | Al Arabiya | 3 |
+| 289 | TEST | 7 |
+| 290 | Al Arabiya Business | 12 |
+| 291 | Shopping 3 | 22 |
+| 292 | Test | 23 |
+| 293 | OTA | 6660 |
+| 294 | OTA 2 | 6661 |
+| 295 | OTA 1 | 6662 |
+| 296 | Hooosh TV | 37 |
+| 297 | MAKAN | 51 |
+| 298 | Speda TV HD | 1 |
+| 299 | Alkarma ME 1 | 2 |
+| 300 | JIN TV HD | 2 |
+| 301 | Imam Ali TV | 5 |
+| 302 | Med Music | 8 |
+| 303 | Mereja TV | 10 |
+| 304 | STERK TV HD | 11 |
+| 305 | Africa TV 1 | 13 |
+| 306 | Africa TV 1 Quran | 15 |
+| 307 | TV ISLAAMA | 19 |
+| 308 | NRT HD | 20 |
+| 309 | Amozhgary TV | 21 |
+| 310 | DAEWA TV | 22 |
+| 311 | Hamiltan TV | 25 |
+| 312 | Kurdsat HD | 29 |
+| 313 | Kurdsat News | 30 |
+| 314 | Al Karama News | 32 |
+| 315 | NRT 2 HD | 33 |
+| 316 | Al Khaleej 24 | 14 |
+| 317 | Al Watania 24 | 43 |
+| 318 | Suroyo TV | 46 |
+| 319 | Rojava HD | 23 |
+| 320 | Sukariya hekayat | 6440 |
+| 321 | AL SHASHA CINEMA | 6460 |
+| 322 | AL SHASHA MOSLSLAT | 6470 |
+| 323 | Sukariya cinema | 6480 |
+| 324 | Fox Be Elaraby TV | 6490 |
+| 325 | Dabanga TV | 6111 |
+| 326 | beIN 4K | 2201 |
+| 327 | Sukariya zaman | 6500 |
+| 328 | Fox Movies | 6510 |
+| 329 | West Elbalad Zaman | 6520 |
+| 330 | Beirut Aflam | 6530 |
+| 331 | Beirut Alyoom | 6540 |
+| 332 | Beirut Cinema | 6550 |
+| 333 | El Omda Al yom | 6560 |
+| 334 | Beirut Drama | 6570 |
+| 335 | AL SHASHA  ALWAN | 6580 |
+| 336 | West Elbalad Drama | 6590 |
+| 337 | Alking Drama TV | 6600 |
+| 338 | Melody Drama | 6660 |
+| 339 | Alrai TV | 6670 |
+| 340 | Al Sukariya Classic | 6690 |
+| 341 | Melody Aflam | 7010 |
+| 342 | Dolly Mosalsalat | 7060 |
+| 343 | Cookies Kids TV | 7070 |
+| 344 | BaBy Kids TV | 7090 |
+| 345 | AL SHASHA  DRAMA | 8020 |
+| 346 | AL SHASHA  HEKAYAT | 8030 |
+| 347 | AL SHASHA  FILM | 8060 |
+| 348 | Elzaeem Drama | 8070 |
+| 349 | Sukariya drama | 8080 |
+| 350 | Elzaeem Cinema | 8090 |
+| 351 | Alking Aflam | 8110 |
+| 352 | El Omda Aflam | 8140 |
+| 353 | El Omda Drama | 8150 |
+| 354 | One Drama | 8160 |
+| 355 | beIN SPORTS XTRA 9 | 2203 |
+| 356 | Cairo Plus Cinema | 6640 |
+| 357 | CHANNEL8 | 6620 |
+| 358 | Cairo Plus Drama | 6650 |
+| 359 | M classic | 7000 |
+| 360 | Dolly Drama | 7050 |
+| 361 | beIN SPORTS MAX 4 | 2204 |
+| 362 | Dolly Alyoom | 7080 |
+| 363 | Dolly cinema | 8040 |
+| 364 | Dolly movies | 8100 |
+| 365 | Cairo Plus Alyoum | 8130 |
+| 366 | Al Sahat | 4 |
+| 367 | Mahdi has appeared TV | 5 |
+| 368 | beIN SPORTS XTRA 6 | 2205 |
+| 369 | spare | 2206 |
+| 370 | spare | 2207 |
+| 371 | spare | 2208 |
+| 372 | Asharq Documentary | 18 |
+| 373 | Iraqia News HD | 7201 |
+| 374 | Iraqia Turkuman | 7205 |
+| 375 | Iraqia Kurd | 7206 |
+| 376 | programme nationale HD | 1 |
+| 377 | 5 KIDS | 1592 |
+| 378 | TV5 | 1601 |
+| 379 | Al Kawthar HD | 1604 |
+| 380 | AlSaeedah | 1608 |
+| 381 | Test | 1609 |
+| 382 | Test | 1610 |
+| 383 | I Film Arabic | 1611 |
+| 384 | Al Ghad HD | 1617 |
+| 385 | Al Fath Al3amh | 1618 |
+| 386 | Al Alam HD | 1619 |
+| 387 | Test | 2801 |
+| 388 | Press TV HD | 2802 |
+| 389 | Test | 2803 |
+| 390 | LJBC | 2804 |
+| 391 | Test | 2805 |
+| 392 | Test | 2813 |
+| 393 | BAGHDAD TV | 2819 |
+| 394 | LIBYA ALHADATH HD | 2821 |
+| 395 | Syria News HD | 2822 |
+| 396 | AlAraby2 | 2823 |
+| 397 | Test | 2824 |
+| 398 | Test | 2825 |
+| 399 | Al Thania | 2826 |
+| 400 | Syria TV 01 | 2827 |
+| 401 | Test | 2828 |
+| 402 | Test | 600 |
+| 403 | Test | 602 |
+| 404 | Nile News | 603 |
+| 405 | Test | 1102 |
+| 406 | Extra News | 1806 |
+| 407 | HYA | 1810 |
+| 408 | Test | 489 |
+| 409 | CGTN | 1302 |
+| 410 | Sahar Kurdi | 1303 |
+| 411 | Libya Alrasmia | 1304 |
+| 412 | Lebanon TV | 1305 |
+| 413 | HADRAMAUT TV | 1307 |
+| 414 | 2M Maroc | 1308 |
+| 415 | Aden TV | 1309 |
+| 416 | CGTN-Arabic | 1310 |
+| 417 | Al Shams Drama | 1312 |
+| 418 | Test | 1313 |
+| 419 | Test | 1315 |
+| 420 | Test | 491 |
+| 421 | AL oula | 501 |
+| 422 | Test | 503 |
+| 423 | Test | 507 |
+| 424 | Test | 508 |
+| 425 | SABA HD | 510 |
+| 426 | BBC News TV | 522 |
+| 427 | Libya Alwataniya | 524 |
+| 428 | ALHAWYAH TV | 6 |
+| 429 | beIN SPORTS EN 1 | 2301 |
+| 430 | beIN SPORTS EN 2 | 2302 |
+| 431 | beIN SPORTS FR 2 | 2304 |
+| 432 | beIN SPORTS FR 1 | 2303 |
+| 433 | beIN SPORTS MAX 2 | 2305 |
+| 434 | beIN SPORTS XTRA 7 | 2306 |
+| 435 | beIN 4K | 2401 |
+| 436 | Asharq News Channel HD | 101 |
+| 437 | Asharq Documentary HD | 102 |
+| 438 | Asharq Discovery HD | 103 |
+| 439 | Alkarma New Generation | 250 |
+| 440 | Iraqia Ent HD | 7209 |
+| 441 | Radio AL-Iraqia | 7210 |
+| 442 | Radio AI-Forqan | 7211 |
+| 443 | Radio Baghdad | 7212 |
+| 444 | Iraqia Syriac HD | 7220 |
+| 445 | Iraqi interior radio | 7227 |
+| 446 | DAHAB MOSALSALAT | 249 |
+| 447 | Elkhoulasa Drama | 208 |
+| 448 | SSBC (News &amp; MEDIA) | 251 |
+| 449 | ALFA DRAMA | 239 |
+| 450 | Altamselia | 222 |
+| 451 | Al Rayyan HD | 510 |
+| 452 | Al Rayyan Al Qadeem HD | 511 |
+| 453 | BN TV | 590 |
+| 454 | AL-GEZIRA TV | 600 |
+| 455 | Ashorooq TV | 630 |
+| 456 | Kanon TV Sudan | 640 |
+| 457 | Alzrga | 670 |
+| 458 | Shamalia TV | 680 |
+| 459 | Khartoum-TV | 790 |
+| 460 | Ahwas State TV | 800 |
+| 461 | Kassala TV | 840 |
+| 462 | Samarra tv | 1010 |
+| 463 | Huna Aliraq | 1020 |
+| 464 | Barq TV | 1030 |
+| 465 | Zoom TV | 1040 |
+| 466 | iKA TV | 1050 |
+| 467 | Salahden TV | 1060 |
+| 468 | Al-Bawadi | 1070 |
+| 469 | Marina TV HD | 1080 |
+| 470 | Al-Shahed TV HD | 1100 |
+| 471 | YEMENIA TV | 1110 |
+| 472 | ALMADANIAH TV | 1130 |
+| 473 | falestinona TV | 1140 |
+| 474 | Awazna1 | 1150 |
+| 475 | ALWESAM  TV | 1160 |
+| 476 | Nabd | 1170 |
+| 477 | Albalad TV | 1190 |
+| 478 | River Nile TV | 540 |
+| 479 | ABC-ALKhalijia TV | 500 |
+| 480 | Asil TV | 4730 |
+| 481 | WAAR HD | 4740 |
+| 482 | UTV Iraq | 4750 |
+| 483 | Alnajaf Alashraf tv | 4800 |
+| 484 | Saout alaqila | 4900 |
+| 485 | Palestine | 4910 |
+| 486 | MASSAYA TV | 5000 |
+| 487 | AL MALAKOOT SATTHE KINGDOM SAT | 5920 |
+| 488 | ALWAQIE TV HD | 5950 |
+| 489 | Al-Awhad TV | 6450 |
+| 490 | Kidsy | 4850 |
+| 491 | Reef Alyemen | 3 |
+| 492 | AGHAPY TV | 4 |
+| 493 | Top Drama | 5 |
+| 494 | TOP Zaman | 7 |
+| 495 | Libya al Ahrar HD | 11 |
+| 496 | Hawa Baghdad Drama | 19 |
+| 497 | beIN SPORTS 1 | 2001 |
+| 498 | beIN SPORTS 2 | 2002 |
+| 499 | Libya Al Hedaya TV | 2303 |
+| 500 | Libya Radio Quran Karem | 2305 |
+| 501 | Syria News SD | 2308 |
+| 502 | LBC SAT | 2108 |
+| 503 | Almagd TV | 22 |
+| 504 | Al Karma Family | 27 |
+| 505 | TCTT | 36 |
+| 506 | Alkalema | 41 |
+| 507 | The Grace TV | 49 |
+| 508 | Alsay3da | 50 |
+| 509 | Noursat | 54 |
+| 510 | Beit ElDrama | 56 |
+| 511 | Al Quds Al Yawm | 6 |
+| 512 | Alatawla Cinema | 2 |
+| 513 | El Khoulasa Cinema | 9 |
+| 514 | Alatwla Drama | 12 |
+| 515 | Alatawla Hekayat | 15 |
+| 516 | Almasirah HD | 13 |
+| 517 | Noursat AlChabab | 38 |
+| 518 | Alhwanem Drama | 34 |
+| 519 | Al Basira | 16 |
+| 520 | AB IRAQ TV | 10 |
+| 521 | EL WAHA DRAMA | 46 |
+| 522 | Test | 2111 |
+| 523 | Saudi TV | 2601 |
+| 524 | Al Ekhbaria | 2604 |
+| 525 | Saudia Alaan TV | 2605 |
+| 526 | AL NAHRAIN TV | 703 |
+| 527 |  | 705 |
+| 528 | Al Araby 2 HD | 706 |
+| 529 | Test | 708 |
+| 530 |  | 709 |
+| 531 | Jordan Sport HD | 714 |
+| 532 | Iraq Now | 738 |
+| 533 | a Konoz Alhayat | 805 |
+| 534 | RT ARABIC SD | 828 |
+| 535 | ARZKR! | 721 |
+| 536 | kirkuk alan | 809 |
+| 537 | beIN SPORTS 3 | 2003 |
+| 538 | beIN SPORTS 5 | 2004 |
+| 539 | beIN SPORTS MAX 3 | 2005 |
+| 540 | beIN SPORTS MAX 2 | 2006 |
+| 541 | beIN SPORTS MAX 2 | 2007 |
+| 542 | beIN SPORTS XTRA 5 | 2008 |
+| 543 | beIN SPORTS 6 | 2101 |
+| 544 | beIN SPORTS 4 | 2102 |
+| 545 | beIN SPORTS 8 | 2103 |
+| 546 | beIN SPORTS XTRA 3 | 2104 |
+| 547 | beIN SPORTS 7 | 2105 |
+| 548 |  | 10031 |
+| 549 |  | 10032 |
+| 550 | Horus  Drama | 8 |
+| 551 | Alfady | 14 |
+| 552 | Al Horreya | 15 |
+| 553 | Almasirah Mubashar | 16 |
+| 554 | AnwarTV2 | 17 |
+| 555 | ALLAHDAH TV | 21 |
+| 556 | Logos TV | 23 |
+| 557 | Koogi | 26 |
+| 558 | Libya WTV HD | 28 |
+| 559 | ALMASIRAH TV | 32 |
+| 560 | Iraq Future | 35 |
+| 561 | Nour Mariam | 38 |
+| 562 | Al Ons TV | 40 |
+| 563 | Nour Al Sharq | 44 |
+| 564 | Nour Koddass | 45 |
+| 565 | SALVATION TV MENA | 3 |
+| 566 | Loveworld Arabic | 1 |
+| 567 | Yemen TV HD | 7 |
+| 568 | North Africa | 10 |
+| 569 | Al Ghadeer | 4 |
+| 570 | ALNOJABA TV | 12 |
+| 571 | AL SHARQIYA NEWS HD | 33 |
+| 572 | RUDAW TV | 36 |
+| 573 | AL AYAM HD | 44 |
+| 574 | Yemen Documentary | 2718 |
+| 575 | Sheba | 2719 |
+| 576 | Al Eman | 2720 |
+| 577 | Aden | 2721 |
+| 578 | Sat.tv demo loop | 2798 |
+| 579 | Al Yawm | 2701 |
+| 580 | Al Safwa | 2702 |
+| 581 | Cinema 1 | 2703 |
+| 582 | Cinema 2 | 2704 |
+| 583 | Series +2 HD | 2705 |
+| 584 | Series Channel HD | 2706 |
+| 585 | Fann | 2707 |
+| 586 | Music Now | 2708 |
+| 587 | Tarabiyat Radio | 2709 |
+| 588 | Alfa Khalijiyat Radio | 2710 |
+| 589 | World Fashion Channel | 101 |
+| 590 | Al Qamar HD | 103 |
+| 591 | Kartoon channel | 107 |
+| 592 | Al3elaj Alrohany TV | 109 |
+| 593 | GB News | 110 |
+| 594 | Music India | 111 |
+| 595 | BERBERE TV | 1503 |
+| 596 | Eutelsat Data 1 | 1590 |
+| 597 | Al Rabiaa TV | 49 |
+| 598 | SABA WORLD PROMO | 50 |
+| 599 | AL AHAD HD | 51 |
+| 600 | AL AHAD VOICE | 52 |
+| 601 | Vatican Radio | 53 |
+| 602 | Test 1 | 54 |
+| 603 | Iraq Al Hadath HD | 55 |
+| 604 | beIN SPORTS XTRA 7 | 2009 |
+| 605 | Monawaat Radio | 2711 |
+| 606 | DW Arabia HD | 2712 |
+| 607 | Test | 1001 |
+| 608 | Test | 1002 |
+| 609 | Test | 1003 |
+| 610 | Test | 1004 |
+| 611 | Test | 1005 |
+| 612 | Test | 1006 |
+| 613 | Test | 1007 |
+| 614 | Test | 1008 |
+| 615 | Test | 1009 |
+| 616 | Test | 1010 |
+| 617 | KSA SPORTS 1 | 5603 |
+| 618 | KSA SPORTS 2 | 5604 |
+| 619 | KSA SPORTS 3 | 5605 |
+| 620 | dmc | 4902 |
+| 621 | CBC HD | 4903 |
+| 622 | Extra Live SD | 4906 |
+| 623 | Alkass two HD | 2402 |
+| 624 | Alkass three HD | 2403 |
+| 625 | beIN SPORTS MAX 6 | 2415 |
+| 626 | Spare | 2409 |
+| 627 | beIN SPORTS 9 | 2410 |
+| 628 | beIN SPORTS NEWS | 2411 |
+| 629 | Test-3 | 2407 |
+| 630 | N Africa | 712 |
+| 631 | beIN SPORTS XTRA 4 | 2408 |
+| 632 | Test | 2002 |
+| 633 | Al Qahera News SD | 102 |
+| 634 | Asharq Discovery | 19 |
+| 635 | Test | 4907 |
+| 636 | Energy FM | 4921 |
+| 637 | Test | 2003 |
+| 638 | SAT.TV | 2716 |
+| 639 | Eutelsat Data 1 | 2799 |
+| 640 | Al joumhouriya | 2203 |
+| 641 | Test | 2211 |
+| 642 | Test | 2214 |
+| 643 | AL-Anbar | 2217 |
+| 644 | Test | 2009 |
+| 645 | Colorbars1 | 1 |
+| 646 | Colorbars | 100 |
+| 647 | Palestine | 1103 |
+| 648 | Modern Mti | 1104 |
+| 649 | Test | 2012 |
+| 650 | Test | 2013 |
+| 651 | Test | 2014 |
+| 652 | Sky News Arabia HD | 2015 |
+| 653 | Test | 1107 |
+| 654 | Test | 2806 |
+| 655 | Test | 1108 |
+| 656 | MUSAWA | 2980 |
+| 657 | Palestine News | 2990 |
+| 658 | Maan TV | 3320 |
+| 659 | Palestine Live | 3330 |
+| 660 | Palestine | 3350 |
+| 661 | Awdeh | 3370 |
+| 662 | Palestine Sport | 3430 |
+| 663 | AL ARABY TV HD | 3800 |
+| 664 | Moga Cinema | 3820 |
+| 665 | Elfadjer drama Dz | 3840 |
+| 666 | Moga Today | 3880 |
+| 667 | Gulfsat | 3890 |
+| 668 | AL KERAZA TV | 3850 |
+| 669 | El Sharq TV | 1430 |
+| 670 | NHK World-Japan | 1440 |
+| 671 | Mekameleen TV | 1450 |
+| 672 | Yemen Education | 1460 |
+| 673 | Shams TV | 1470 |
+| 674 | Alyaum TV | 1480 |
+| 675 | France 24 English | 1490 |
+| 676 | AVA TV | 1500 |
+| 677 | Nu TV | 1510 |
+| 678 | WATAN TV | 1540 |
+| 679 | i24 News Arabic | 1570 |
+| 680 | ERISAT | 1590 |
+| 681 | Anewz | 1600 |
+| 682 | AlQanat9 | 1640 |
+| 683 | CTV EGYPT | 1650 |
+| 684 | RUDAW | 1660 |
+| 685 | Echorouk News | 2021 |
+| 686 | Echorouk TV | 2022 |
+| 687 | ONE TV | 2023 |
+| 688 | Bahia TV | 2024 |
+| 689 | El Watania TV | 2025 |
+| 690 | El Hayat TV Algerie | 2026 |
+| 691 | El Heddaf TV | 2028 |
+| 692 | Test | 1110 |
+| 693 | AlHadath Alyoum | 1112 |
+| 694 | Test | 1811 |
+| 695 | Test | 1812 |
+| 696 | Test | 1813 |
+| 697 | AL SHARQIYA HD | 1814 |
+| 698 | Test | 1815 |
+| 699 | Test | 1816 |
+| 700 | Yemen | 104 |
+| 701 | BBC Arabic | 3203 |
+| 702 | ALhayat | 3204 |
+| 703 | Test | 3205 |
+| 704 | France 24 | 3206 |
+| 705 | Alhayat We Alnas | 3207 |
+| 706 | Al Aoula inter | 3210 |
+| 707 | A TV | 3212 |
+| 708 | Al Alam Syria | 3213 |
+| 709 | ALSahraa HD | 3214 |
+| 710 | Salam TV Algeria | 2029 |
+| 711 | Eldjazair N1 | 2030 |
+| 712 | AL24 News | 2032 |
+| 713 | El Bilad TV | 2034 |
+| 714 | Ennahar TV Algerie | 2040 |
+| 715 | Zahra TV | 2042 |
+| 716 | Algerian 4Kids | 2043 |
+| 717 | Al Arabiya | 107 |
+| 718 | ALhayah ALaan | 3215 |
+| 719 | D IRAQ | 4037 |
+| 720 | Al-Arabiya Alhadath | 108 |
+| 721 | Yemen Today | 111 |
+| 722 | Al Ahly HD | 106 |
+| 723 | Al Ahly SD | 113 |
+| 724 | LIBYA ALMASAR TV | 8045 |
+| 725 | SMTV | 204 |
+| 726 | TCHAD TV HD | 222 |
+| 727 | AL SIRAT TV | 223 |
+| 728 | ALHOUDA | 232 |
+| 729 | Alwilayah TV | 2220 |
+| 730 | Hawa Baghdad | 2230 |
+| 731 | HAQ TV | 2260 |
+| 732 | Nesiha TV | 2270 |
+| 733 | Alhujja TV | 2280 |
+| 734 | ALNAHAR ALJADID | 2290 |
+| 735 | ALWAAI ALSHIRAZI | 2300 |
+| 736 | SHAM FM PLUS | 2310 |
+| 737 | Al-Ahvaz | 2350 |
+| 738 | atv-ALADALAH | 2360 |
+| 739 | Al-Sabah TV | 2410 |
+| 740 | Al-Mahdi | 2420 |
+| 741 | Al-Falloja | 2470 |
+| 742 | OM-AlBaneen TV | 2510 |
+| 743 | AL SAYEDAH TV | 2520 |
+| 744 | ALHIJAZ TV | 2540 |
+| 745 | Arara TV | 2630 |
+| 746 | Amman TV | 800 |
+| 747 | Jordan Sport | 802 |
+| 748 | ALISTIQAMA TV | 824 |
+| 749 | RT ARABIC HD | 827 |
+| 750 | ROYA HD | 831 |
+| 751 | Jordan HD | 832 |
+| 752 | Almamlaka TV | 837 |
+| 753 | RT English | 839 |
+| 754 | AL HAQEQA AL DAWLIAH | 665 |
+| 755 | Jordan Amen | 666 |
+| 756 | TUNISIA SHOP | 667 |
+| 757 | Almahriah HD | 241 |
+| 758 | Ennahar rokia | 668 |
+| 759 | ALRAHMAN | 669 |
+| 760 | Angel TV Arabia | 603 |
+| 761 | ERIPM | 604 |
+| 762 | Sawt Alitra | 606 |
+| 763 | SUHAIL TV | 609 |
+| 764 | TAHA | 610 |
+| 765 | ADEN TV | 611 |
+| 766 | KTO | 612 |
+| 767 | MESat | 613 |
+| 768 | Oman TV General HD | 1201 |
+| 769 | Oman TV Live HD | 1203 |
+| 770 | Oman TV Culture HD | 1204 |
+| 771 | Oman TV General SD | 1205 |
+| 772 | Test | 120 |
+| 773 | Wedo TV | 500 |
+| 774 | World Poker Tour | 504 |
+| 775 | Sudan TV | 103 |
+| 776 | Al Qahera News | 105 |
+| 777 | Al-Nahar Nour | 110 |
+| 778 | ETIHAD TV | 302 |
+| 779 | Al Mayadeen HD | 303 |
+| 780 | AL THAQALAYN TV | 304 |
+| 781 | HodHod  TV | 306 |
+| 782 | Aljanub TV | 312 |
+| 783 | AL ESHRAQ TV | 313 |
+| 784 | DUA CHANNEL | 314 |
+| 785 | NABA TV | 318 |
+| 786 | ALNAEEM TV | 329 |
+| 787 | Almaaref TV HD | 403 |
+| 788 | Menhag Alnabowe | 405 |
+| 789 | Chebab TV | 1504 |
+| 790 | Cricket Gold | 505 |
+| 791 | Bare Knuckle Fighting | 506 |
+| 792 | Test | 7415 |
 | 793 | Al Thaqafiya HD | 104 |
 | 794 | beIN SPORTS XTRA 1 | 2412 |
 | 795 | beIN SPORTS XTRA 2 | 2413 |
