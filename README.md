@@ -24,7 +24,6 @@ The channel list is carefully organized into distinct groups to make navigation 
 5. Select "USB to TV" and choose the `.TLL` file.
 6. The TV will reboot and the new channel list will be applied.
 
-
 ## Channel Groups Overview
 
 Below is the complete list of channels grouped by their category. Click on each section to expand it.
@@ -41,7 +40,7 @@ Below is the complete list of channels grouped by their category. Click on each 
 </details>
 
 <details>
-<summary><b>Premium & General (20 channels)</b></summary>
+<summary><b>Premium & General (21 channels)</b></summary>
 
 - 6: Al Kahera Wal Nas
 - 7: Al Kahera Wal Nas +2
@@ -63,6 +62,7 @@ Below is the complete list of channels grouped by their category. Click on each 
 - 23: Sada El Balad 2
 - 24: SAUDI TV HD
 - 25: TeN TV
+- 33: OSN
 
 </details>
 
@@ -80,165 +80,162 @@ Below is the complete list of channels grouped by their category. Click on each 
 </details>
 
 <details>
-<summary><b>Arabic Movies & Cinema (23 channels)</b></summary>
+<summary><b>Series & Drama (37 channels)</b></summary>
 
-- 33: OSN
-- 34: AL SHASHA  FILM
-- 35: AL SHASHA CINEMA
-- 36: Alking Aflam
-- 37: Beirut Aflam
-- 38: Beirut Cinema
-- 39: Cinema 1
-- 40: Dream Cinema
-- 41: El Khoulasa Cinema
-- 42: Elzaeem Cinema
-- 43: I Film Arabic
-- 44: MAJESTIC AFLAM
-- 45: MAJESTIC CINEMA
-- 46: Melody Aflam
-- 47: Mix Bel Araby
-- 48: Oscar TV
-- 49: Panorama Film
-- 50: Rotana Cinema EGY HD
-- 51: Rotana Cinema KSA
-- 52: Nile Cinema
-- 53: Nile Comedy
-- 54: Rotana Classic
-- 55: Zee Aflam
+- 34: 1 IRAQ Drama
+- 35: Al Assema Alwan
+- 36: Al Assema Drama
+- 37: Al Shams Drama
+- 38: AL SHASHA  ALWAN
+- 39: AL SHASHA  DRAMA
+- 40: AL SHASHA  HEKAYAT
+- 41: Alatwla Drama
+- 42: Alhwanem Drama
+- 43: ALIRAQI DRAMA PLUS
+- 44: Alking Drama TV
+- 45: Beirut Drama
+- 46: Dream Hekayat
+- 47: Dream Mosalsalat
+- 48: EL WAHA DRAMA
+- 49: Elfadjer drama Dz
+- 50: Elzaeem Drama
+- 51: Hawa Baghdad Drama
+- 52: MAJESTIC DRAMA
+- 53: MAJESTIC MOSALSALAT
+- 54: Melody Drama
+- 55: New Drama
+- 56: One Drama
+- 57: Rotana Drama
+- 58: Top Drama
+- 59: ZEE ALWAN Egypt
+- 60: dmc drama
+- 61: CBC Drama
+- 62: Alhayat Muslsalat
+- 63: Al-Nahar Drama
+- 64: MBC MASR DRAMA HD
+- 65: MBC Drama
+- 66: MBC Bollywood
+- 67: ON Drama
+- 68: Nile Drama
+- 69: Panorama Drama
+- 70: ZEE ALWAN.
+
+</details>
+
+<details>
+<summary><b>Arabic Movies & Cinema (22 channels)</b></summary>
+
+- 71: AL SHASHA  FILM
+- 72: AL SHASHA CINEMA
+- 73: Alking Aflam
+- 74: Beirut Aflam
+- 75: Beirut Cinema
+- 76: Cinema 1
+- 77: Dream Cinema
+- 78: El Khoulasa Cinema
+- 79: Elzaeem Cinema
+- 80: I Film Arabic
+- 81: MAJESTIC AFLAM
+- 82: MAJESTIC CINEMA
+- 83: Melody Aflam
+- 84: Mix Bel Araby
+- 85: Oscar TV
+- 86: Panorama Film
+- 87: Rotana Cinema EGY HD
+- 88: Rotana Cinema KSA
+- 89: Nile Cinema
+- 90: Nile Comedy
+- 91: Rotana Classic
+- 92: Zee Aflam
 
 </details>
 
 <details>
 <summary><b>Music (8 channels)</b></summary>
 
-- 56: CHADA TV
-- 57: ELMOLED
-- 58: Mazzika
-- 59: Med Music
-- 60: Music 1
-- 61: Music India
-- 62: Rotana Clip
-- 63: Rotana Music
+- 93: CHADA TV
+- 94: ELMOLED
+- 95: Mazzika
+- 96: Med Music
+- 97: Music 1
+- 98: Music India
+- 99: Rotana Clip
+- 100: Rotana Music
 
 </details>
 
 <details>
 <summary><b>News (26 channels)</b></summary>
 
-- 64: AL HADATH HD
-- 65: Al Jazeera 2 HD
-- 66: Al Jazeera Documentary HD
-- 67: Al Jazeera English HD
-- 68: Al Jazeera HD
-- 69: Al Jazeera Mubasher HD
-- 70: Al Karama News
-- 71: Al Qahera News
-- 72: AL SHARQIYA NEWS HD
-- 73: AL24 News
-- 74: Asharq Discovery HD
-- 75: Asharq Documentary HD
-- 76: Asharq News Channel HD
-- 77: BBC Arabic
-- 78: BBC News TV
-- 79: CNBC ARABIYA
-- 80: DW Arabia HD
-- 81: Echorouk News
-- 82: Extra News HD
-- 83: France 24
-- 84: France 24 (in Arabic)
-- 85: GB News
-- 86: i24 News Arabic
-- 87: Nile News HD
-- 88: RT ARABIC HD
-- 89: Sky News Arabia HD
+- 101: AL HADATH HD
+- 102: Al Jazeera 2 HD
+- 103: Al Jazeera Documentary HD
+- 104: Al Jazeera English HD
+- 105: Al Jazeera HD
+- 106: Al Jazeera Mubasher HD
+- 107: Al Karama News
+- 108: Al Qahera News
+- 109: AL SHARQIYA NEWS HD
+- 110: AL24 News
+- 111: Asharq Discovery HD
+- 112: Asharq Documentary HD
+- 113: Asharq News Channel HD
+- 114: BBC Arabic
+- 115: BBC News TV
+- 116: CNBC ARABIYA
+- 117: DW Arabia HD
+- 118: Echorouk News
+- 119: Extra News HD
+- 120: France 24
+- 121: France 24 (in Arabic)
+- 122: GB News
+- 123: i24 News Arabic
+- 124: Nile News HD
+- 125: RT ARABIC HD
+- 126: Sky News Arabia HD
 
 </details>
 
 <details>
 <summary><b>Sports (31 channels)</b></summary>
 
-- 90: AD Sport 1 HD
-- 91: AD Sport 2 HD
-- 92: Al Ahly HD
-- 93: Alkass four HD
-- 94: Alkass one HD
-- 95: Alkass three HD
-- 96: Alkass two HD
-- 97: beIN SPORTS
-- 98: beIN SPORTS NEWS
-- 99: DUBAI RACING 1 HD
-- 100: DUBAI RACING 2 HD
-- 101: DUBAI SPORTS 1 HD
-- 102: DUBAI SPORTS 2 HD
-- 103: Iraqia Sport HD
-- 104: Jordan Sport HD
-- 105: KSA SPORTS 1
-- 106: KSA SPORTS 2
-- 107: KSA SPORTS 3 HD
-- 108: Kuwait Sport Plus
-- 109: Kuwait Sports
-- 110: LIBYA SPORT 1 HD
-- 111: Libya Sport 2 HD
-- 112: Oman TV Sport HD
-- 113: ON SPORT HD
-- 114: ON SPORT MAX HD
-- 115: ON SPORT PLUS HD
-- 116: Sharjah Sport HD
-- 117: SPORT PLUS HD
-- 118: Sports First
-- 119: YAS Sports HD
-- 120: Zamalek Sports
+- 127: AD Sport 1 HD
+- 128: AD Sport 2 HD
+- 129: Al Ahly HD
+- 130: Alkass four HD
+- 131: Alkass one HD
+- 132: Alkass three HD
+- 133: Alkass two HD
+- 134: beIN SPORTS
+- 135: beIN SPORTS NEWS
+- 136: DUBAI RACING 1 HD
+- 137: DUBAI RACING 2 HD
+- 138: DUBAI SPORTS 1 HD
+- 139: DUBAI SPORTS 2 HD
+- 140: Iraqia Sport HD
+- 141: Jordan Sport HD
+- 142: KSA SPORTS 1
+- 143: KSA SPORTS 2
+- 144: KSA SPORTS 3 HD
+- 145: Kuwait Sport Plus
+- 146: Kuwait Sports
+- 147: LIBYA SPORT 1 HD
+- 148: Libya Sport 2 HD
+- 149: Oman TV Sport HD
+- 150: ON SPORT HD
+- 151: ON SPORT MAX HD
+- 152: ON SPORT PLUS HD
+- 153: Sharjah Sport HD
+- 154: SPORT PLUS HD
+- 155: Sports First
+- 156: YAS Sports HD
+- 157: Zamalek Sports
 
 </details>
 
 <details>
-<summary><b>Series & Drama (38 channels)</b></summary>
+<summary><b>Kids & Family (23 channels)</b></summary>
 
-- 121: 1 IRAQ Drama
-- 122: Al Assema Alwan
-- 123: Al Assema Drama
-- 124: Al Shams Drama
-- 125: AL SHASHA  ALWAN
-- 126: AL SHASHA  DRAMA
-- 127: AL SHASHA  HEKAYAT
-- 128: Alatwla Drama
-- 129: Alhwanem Drama
-- 130: ALIRAQI DRAMA PLUS
-- 131: Alking Drama TV
-- 132: Beirut Drama
-- 133: Dream Hekayat
-- 134: Dream Mosalsalat
-- 135: EL WAHA DRAMA
-- 136: Elfadjer drama Dz
-- 137: Elzaeem Drama
-- 138: Hawa Baghdad Drama
-- 139: MAJESTIC DRAMA
-- 140: MAJESTIC MOSALSALAT
-- 141: Melody Drama
-- 142: New Drama
-- 143: One Drama
-- 144: Rotana Drama
-- 145: Top Drama
-- 146: ZEE ALWAN Egypt
-- 147: CBC Sofra
-- 148: dmc drama
-- 149: CBC Drama
-- 150: Alhayat Muslsalat
-- 151: Al-Nahar Drama
-- 152: MBC MASR DRAMA HD
-- 153: MBC Drama
-- 154: MBC Bollywood
-- 155: ON Drama
-- 156: Nile Drama
-- 157: Panorama Drama
-- 158: ZEE ALWAN.
-
-</details>
-
-<details>
-<summary><b>Kids & Family (24 channels)</b></summary>
-
-- 159: 5 KIDS
 - 160: Atfal Mawaheb
 - 161: BaBy Kids TV
 - 162: Cartoon 2
@@ -266,8 +263,10 @@ Below is the complete list of channels grouped by their category. Click on each 
 </details>
 
 <details>
-<summary><b>Regional & Uncategorized (416 channels)</b></summary>
+<summary><b>Regional & Uncategorized (418 channels)</b></summary>
 
+- 158: CBC Sofra
+- 159: 5 KIDS
 - 181: Azhari
 - 182: Imam Ali TV
 - 183: Mahdi has appeared TV
