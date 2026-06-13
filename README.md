@@ -85,18 +85,18 @@ Below is the complete list of channels grouped by their category. Click on each 
 <summary><b>Series & Drama (30 channels)</b></summary>
 
 ### High Quality
-- 33: Hawa Baghdad Drama
-- 34: One Drama
-- 35: Rotana Drama
-- 36: dmc drama
-- 37: CBC Drama
-- 38: Alhayat Muslsalat
-- 39: MBC MASR DRAMA HD
-- 40: MBC Drama
-- 41: MBC Bollywood
-- 42: ON Drama
+- 33: One Drama
+- 34: Rotana Drama
+- 35: dmc drama
+- 36: CBC Drama
+- 37: Alhayat Muslsalat
+- 38: MBC MASR DRAMA HD
+- 39: MBC Drama
+- 40: MBC Bollywood
+- 41: ON Drama
 
 ### Low Quality
+- 42: Hawa Baghdad Drama
 - 43: 1 IRAQ Drama
 - 44: Al Assema Alwan
 - 45: Al Assema Drama
@@ -167,9 +167,9 @@ Below is the complete list of channels grouped by their category. Click on each 
 - 88: Nile News HD
 - 89: RT ARABIC HD
 - 90: Sky News Arabia HD
+- 91: Al Qahera News
 
 ### Low Quality
-- 91: Al Qahera News
 - 92: AL24 News
 - 93: BBC Arabic
 - 94: BBC News TV
@@ -185,32 +185,35 @@ Below is the complete list of channels grouped by their category. Click on each 
 <details>
 <summary><b>Sports (31 channels)</b></summary>
 
-- 101: AD Sport 1 HD
-- 102: AD Sport 2 HD
-- 103: Al Ahly HD
-- 104: Alkass four HD
-- 105: Alkass one HD
-- 106: Alkass three HD
-- 107: Alkass two HD
-- 108: beIN SPORTS
-- 109: beIN SPORTS NEWS
-- 110: DUBAI RACING 1 HD
-- 111: DUBAI RACING 2 HD
-- 112: DUBAI SPORTS 1 HD
-- 113: DUBAI SPORTS 2 HD
-- 114: Iraqia Sport HD
-- 115: Jordan Sport HD
-- 116: KSA SPORTS 1
-- 117: KSA SPORTS 2
-- 118: KSA SPORTS 3 HD
-- 119: Kuwait Sport Plus
-- 120: Kuwait Sports
-- 121: LIBYA SPORT 1 HD
-- 122: Libya Sport 2 HD
-- 123: Oman TV Sport HD
-- 124: ON SPORT HD
-- 125: ON SPORT MAX HD
-- 126: ON SPORT PLUS HD
+### High Quality
+- 101: beIN SPORTS
+- 102: beIN SPORTS NEWS
+- 103: ON SPORT HD
+- 104: ON SPORT MAX HD
+- 105: ON SPORT PLUS HD
+- 106: AD Sport 1 HD
+- 107: AD Sport 2 HD
+
+### Low Quality
+- 108: Al Ahly HD
+- 109: Alkass four HD
+- 110: Alkass one HD
+- 111: Alkass three HD
+- 112: Alkass two HD
+- 113: DUBAI RACING 1 HD
+- 114: DUBAI RACING 2 HD
+- 115: DUBAI SPORTS 1 HD
+- 116: DUBAI SPORTS 2 HD
+- 117: Iraqia Sport HD
+- 118: Jordan Sport HD
+- 119: KSA SPORTS 1
+- 120: KSA SPORTS 2
+- 121: KSA SPORTS 3 HD
+- 122: Kuwait Sport Plus
+- 123: Kuwait Sports
+- 124: LIBYA SPORT 1 HD
+- 125: Libya Sport 2 HD
+- 126: Oman TV Sport HD
 - 127: Sharjah Sport HD
 - 128: SPORT PLUS HD
 - 129: Sports First

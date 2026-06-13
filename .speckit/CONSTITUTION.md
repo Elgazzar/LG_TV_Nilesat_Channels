@@ -11,11 +11,15 @@ This ensures that the project's documentation is always perfectly synchronized w
 The `README.md` file must contain distinct channel groupings displayed in collapsible sections, specifically organizing channels into logical categories such as Movies, Series, News, and Premium.
 
 ## 3. High Quality / Low Quality Segmentation
-For the **Movies**, **News**, and **Series** groupings, the lists MUST be internally sorted by Quality:
+For the **Movies**, **News**, **Series**, and **Sports** groupings, the lists MUST be internally sorted by Quality:
 - **High Quality Tier**: The top of the list must contain High Quality channels.
 - **Low Quality Tier**: The bottom of the list contains the remaining Lower Quality channels.
 
 ### Quality Criteria
 A channel is considered **High Quality** if it meets any of the following criteria:
+- **Explicit High Quality**: `Al Qahera News`, `beIN SPORTS`, `beIN SPORTS NEWS`, `ON SPORT HD`, `ON SPORT MAX HD`, `ON SPORT PLUS HD`, `AD Sport 1 HD`, `AD Sport 2 HD`.
 - The channel name contains `HD`
 - The channel belongs to popular networks including: `Alhayat`, `MBC`, `DMC`, `ON`, `CBC`, `Rotana`, `OSN`, `Sky News`, `Al Jazeera`, `Extra News`.
+
+**Explicit Low Quality Exceptions**:
+- `Hawa Baghdad Drama` is strictly Low Quality regardless of other keywords.

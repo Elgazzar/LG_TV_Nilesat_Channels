@@ -34,16 +34,16 @@
 | 30 | One Movies HD | 7570 |
 | 31 | OSN | 4511 |
 | 32 | Mix | 1809 |
-| 33 | Hawa Baghdad Drama | 4018 |
-| 34 | One Drama | 8160 |
-| 35 | Rotana Drama | 2105 |
-| 36 | dmc drama | 4905 |
-| 37 | CBC Drama | 1805 |
-| 38 | Alhayat Muslsalat | 1807 |
-| 39 | MBC MASR DRAMA HD | 103 |
-| 40 | MBC Drama | 6 |
-| 41 | MBC Bollywood | 8 |
-| 42 | ON Drama | 208 |
+| 33 | One Drama | 8160 |
+| 34 | Rotana Drama | 2105 |
+| 35 | dmc drama | 4905 |
+| 36 | CBC Drama | 1805 |
+| 37 | Alhayat Muslsalat | 1807 |
+| 38 | MBC MASR DRAMA HD | 103 |
+| 39 | MBC Drama | 6 |
+| 40 | MBC Bollywood | 8 |
+| 41 | ON Drama | 208 |
+| 42 | Hawa Baghdad Drama | 4018 |
 | 43 | 1 IRAQ Drama | 19 |
 | 44 | Al Assema Alwan | 4040 |
 | 45 | Al Assema Drama | 4041 |
@@ -102,32 +102,32 @@
 | 98 | France 24 (in Arabic) | 5940 |
 | 99 | GB News | 110 |
 | 100 | i24 News Arabic | 1570 |
-| 101 | AD Sport 1 HD | 5 |
-| 102 | AD Sport 2 HD | 6 |
-| 103 | Al Ahly HD | 106 |
-| 104 | Alkass four HD | 2507 |
-| 105 | Alkass one HD | 2501 |
-| 106 | Alkass three HD | 2503 |
-| 107 | Alkass two HD | 2502 |
-| 108 | beIN SPORTS | 2106 |
-| 109 | beIN SPORTS NEWS | 2411 |
-| 110 | DUBAI RACING 1 HD | 7 |
-| 111 | DUBAI RACING 2 HD | 8 |
-| 112 | DUBAI SPORTS 1 HD | 5 |
-| 113 | DUBAI SPORTS 2 HD | 6 |
-| 114 | Iraqia Sport HD | 7207 |
-| 115 | Jordan Sport HD | 714 |
-| 116 | KSA SPORTS 1 | 5603 |
-| 117 | KSA SPORTS 2 | 5604 |
-| 118 | KSA SPORTS 3 HD | 5605 |
-| 119 | Kuwait Sport Plus | 1105 |
-| 120 | Kuwait Sports | 1104 |
-| 121 | LIBYA SPORT 1 HD | 525 |
-| 122 | Libya Sport 2 HD | 2302 |
-| 123 | Oman TV Sport HD | 1202 |
-| 124 | ON SPORT HD | 2001 |
-| 125 | ON SPORT MAX HD | 2002 |
-| 126 | ON SPORT PLUS HD | 2003 |
+| 101 | beIN SPORTS | 2106 |
+| 102 | beIN SPORTS NEWS | 2411 |
+| 103 | ON SPORT HD | 2001 |
+| 104 | ON SPORT MAX HD | 2002 |
+| 105 | ON SPORT PLUS HD | 2003 |
+| 106 | AD Sport 1 HD | 5 |
+| 107 | AD Sport 2 HD | 6 |
+| 108 | Al Ahly HD | 106 |
+| 109 | Alkass four HD | 2507 |
+| 110 | Alkass one HD | 2501 |
+| 111 | Alkass three HD | 2503 |
+| 112 | Alkass two HD | 2502 |
+| 113 | DUBAI RACING 1 HD | 7 |
+| 114 | DUBAI RACING 2 HD | 8 |
+| 115 | DUBAI SPORTS 1 HD | 5 |
+| 116 | DUBAI SPORTS 2 HD | 6 |
+| 117 | Iraqia Sport HD | 7207 |
+| 118 | Jordan Sport HD | 714 |
+| 119 | KSA SPORTS 1 | 5603 |
+| 120 | KSA SPORTS 2 | 5604 |
+| 121 | KSA SPORTS 3 HD | 5605 |
+| 122 | Kuwait Sport Plus | 1105 |
+| 123 | Kuwait Sports | 1104 |
+| 124 | LIBYA SPORT 1 HD | 525 |
+| 125 | Libya Sport 2 HD | 2302 |
+| 126 | Oman TV Sport HD | 1202 |
 | 127 | Sharjah Sport HD | 6 |
 | 128 | SPORT PLUS HD | 2029 |
 | 129 | Sports First | 509 |
