@@ -1,1258 +1,1139 @@
-# Original 2026_TV_List.TLL Channels
+# 2026 TV Channels List
 
-| Channel Number | Channel Name | Deleted | Skipped | Program Num |
-| --- | --- | --- | --- | --- |
-| 1 | Al-Majd3 | False | False | 2218 |
-| 2 | Misr Quran Kareem | False | False | 209 |
-| 3 | ON E HD | False | False | 202 |
-| 4 | ON Drama | False | False | 208 |
-| 5 | dmc HD | False | False | 4901 |
-| 6 | dmc drama | False | False | 4905 |
-| 7 | MBC Masr HD | False | False | 20 |
-| 8 | MBC Masr 2 | False | False | 1106 |
-| 9 | MBC Action | False | False | 10 |
-| 10 | MBC Bollywood | False | False | 8 |
-| 11 | Sada El Balad | False | False | 1114 |
-| 12 | Sada El Balad 2 | False | False | 1115 |
-| 13 | Sada ElBalad 3 | False | False | 1113 |
-| 14 | Al Kahera Wal Nas | False | False | 490 |
-| 15 | Al Kahera Wal Nas +2 | False | False | 1301 |
-| 16 | Nile Drama | False | False | 606 |
-| 17 | Nile Cinema | False | False | 614 |
-| 18 | Nile Comedy | False | False | 604 |
-| 19 | Nile Sport | False | False | 607 |
-| 20 | Al-Nahar One | False | False | 1801 |
-| 21 | Al-Nahar Drama | False | False | 1802 |
-| 22 | CBC | False | False | 1803 |
-| 23 | CBC Drama | False | False | 1805 |
-| 24 | CBC Sofra | False | False | 1804 |
-| 25 | AL Oula HD | False | False | 502 |
-| 26 | beIN SPORTS | False | False | 2106 |
-| 27 | ONTIME SPORTS2 HD | False | False | 201 |
-| 28 | Mazzika | False | False | 1605 |
-| 29 | ZEE ALWAN. | False | False | 6 |
-| 30 | Alhayat 2 | False | False | 1311 |
-| 31 | AlHayat HD | False | False | 3208 |
-| 32 | Nawader TV | False | False | 8021 |
-| 33 | Panorama Drama 2 | False | False | 2208 |
-| 34 | MBC Drama | False | False | 6 |
-| 35 | MBC MASR | False | False | 1306 |
-| 36 | TeN TV | False | False | 601 |
-| 37 | ALFATH TV | False | False | 1602 |
-| 38 | ELMEHWAR-HD | False | False | 7308 |
-| 39 | Misr ElBald | False | False | 18 |
-| 40 | Rotana Classic | False | False | 2104 |
-| 41 | Rotana Khalijia | False | False | 2103 |
-| 42 | Rotana Drama | False | False | 2105 |
-| 43 | Rotana Music | False | False | 2101 |
-| 44 | Rotana Clip | False | False | 2102 |
-| 45 | Rotana Cinema EGY | False | False | 2106 |
-| 46 | Rotana Cinema KSA | False | False | 2107 |
-| 47 | Rotana Cinema EGY HD | False | False | 2110 |
-| 48 | ZEE ALWAN Egypt | False | False | 7 |
-| 49 | ZEE AFLAM | False | False | 5 |
-| 50 | One Movies | False | False | 6610 |
-| 51 | MBC MASR HD | False | False | 101 |
-| 52 | MBC MASR 2 HD | False | False | 102 |
-| 53 | MBC IRAQ HD | False | False | 105 |
-| 54 | MBC 4 | False | False | 5 |
-| 55 | MBC 2 | False | False | 9 |
-| 56 | MBC 1 | False | False | 4 |
-| 57 | Moga Drama | False | False | 3830 |
-| 58 | Maspero Zaman | False | False | 615 |
-| 59 | Alhayat Muslsalat | False | False | 1807 |
-| 60 | thmanyah.1 | False | False | 107 |
-| 61 | thmanyah.2 | False | False | 108 |
-| 62 | thmanyah.3 | False | False | 109 |
-| 63 | Nile News HD | False | False | 612 |
-| 64 | Nile TV | False | False | 2205 |
-| 65 | Nile Family | False | False | 505 |
-| 66 | Nile Culture | False | False | 506 |
-| 67 | Nile Life | False | False | 605 |
-| 68 | Panorama Drama | False | False | 2207 |
-| 69 | Al Jazeera HD | False | False | 501 |
-| 70 | Mix One | False | False | 630 |
-| 71 | Cima | False | False | 701 |
-| 72 | Panorama Film | False | False | 2209 |
-| 73 | Panorama Food | False | False | 2210 |
-| 74 | SPACETOON ARABIC | False | False | 1808 |
-| 75 | ELMOLED | False | False | 8033 |
-| 76 | ONTIME SPORTS | False | False | 207 |
-| 77 | dmc masraheyat | False | False | 4908 |
-| 78 | Al Ostoura | False | False | 224 |
-| 79 | Telefzyon Zaman | False | False | 14 |
-| 80 | Al Masryia HD | False | False | 2204 |
-| 81 | MBC 3 | False | False | 11 |
-| 82 | Extra News HD | False | False | 2301 |
-| 83 | Egyptian TV HD | False | False | 1105 |
-| 84 | Al Nas | False | False | 2212 |
-| 85 | AL Resala | False | False | 2109 |
-| 86 | Al Fath Sonnah TV | False | False | 1607 |
-| 87 | AL NADA TV | False | False | 2213 |
-| 88 | Palestine Today | False | False | 8031 |
-| 89 | AL Shams | False | False | 2201 |
-| 90 | EL MAHROUSA TV | False | False | 8012 |
-| 91 | Alhara | False | False | 211 |
-| 92 | AL SABAH | False | False | 2811 |
-| 93 | CN ARABIA | False | False | 12 |
-| 94 | AL RAHMA | False | False | 8001 |
-| 95 | Saudi CH For Quran | False | False | 5601 |
-| 96 | Madrastna 1 | False | False | 2304 |
-| 97 | ALKAHERA | False | False | 7401 |
-| 98 | Outdoor Channel | False | False | 503 |
-| 99 | Misr Al Zera3eya | False | False | 1603 |
-| 100 | Tunisia Nat1 HD | False | False | 8007 |
-| 132 | TRT KURDI | False | False | 8006 |
-| 135 | AL Masryia SD | False | False | 7407 |
-| 141 | Test | False | False | 618 |
-| 143 | etc | False | False | 1314 |
-| 152 | Altahoona | False | False | 218 |
-| 154 | Test | False | False | 101 |
-| 154 | ONTIME SPORTS HD | False | False | 203 |
-| 165 | beIN SPORTS XTRA 8 | False | False | 2202 |
-| 169 | France 24 (in Arabic) | False | False | 5940 |
-| 170 | Iraq EDU 5 | False | False | 705 |
-| 175 | Saudi CH For Sunnah | False | False | 5602 |
-| 181 | MDEEH | False | False | 109 |
-| 184 | Althanya | False | False | 2206 |
-| 187 | ALMAYADEEN PLUS | False | False | 8 |
-| 187 | Ayozat TV | False | False | 512 |
-| 195 | Makkah TV | False | False | 4102 |
-| 196 | Azhari | False | False | 515 |
-| 197 | Test | False | False | 112 |
-| 204 | Beity TV | False | False | 700 |
-| 208 | Madah | False | False | 235 |
-| 210 | Elkholasa mosalsalat | False | False | 8004 |
-| 211 | Drama Be Alaraby | False | False | 234 |
-| 211 | Layali Zaman | False | False | 209 |
-| 216 | ALKANAL | False | False | 7402 |
-| 217 | Hikayh TV | False | False | 241 |
-| 219 | ALASKANDRIA | False | False | 7403 |
-| 223 | ALDELTA | False | False | 7404 |
-| 224 | ALSA3EED | False | False | 7405 |
-| 226 | TEBA | False | False | 7406 |
-| 226 | One America News Network | False | False | 501 |
-| 230 | ELMEHWAR | False | False | 1111 |
-| 231 | ALFA HEKAYAT | False | False | 232 |
-| 232 | MVMT Movement of Culture | False | False | 508 |
-| 233 | Time Zaman TV | False | False | 231 |
-| 233 | Iraq EDU 4 | False | False | 704 |
-| 236 | Madrastna 3 | False | False | 3216 |
-| 236 | Nefertiti | False | False | 202 |
-| 239 | Al Dawaar | False | False | 221 |
-| 240 | Wild TV | False | False | 511 |
-| 243 | Dahab drama tv | False | False | 229 |
-| 244 | Baywatch | False | False | 510 |
-| 245 | Iraq EDU 2 | False | False | 702 |
-| 247 | Nogoum FM TV | False | False | 1616 |
-| 248 | World Fishing Network | False | False | 507 |
-| 249 | Mix Bel Araby | False | False | 2812 |
-| 250 | Sports First | False | False | 509 |
-| 251 | Iraq EDU 1 | False | False | 701 |
-| 252 | Almasrawya TV | False | False | 8023 |
-| 253 | Iraq EDU 6 | False | False | 706 |
-| 255 | ALS3YDA MADEEH | False | False | 236 |
-| 259 | ALFA CINEMA | False | False | 240 |
-| 260 | Drama Alyoom | False | False | 225 |
-| 261 | Iraq EDU 3 | False | False | 703 |
-| 262 | Oscar TV | False | False | 2202 |
-| 263 | Samira TV | False | False | 2039 |
-| 264 | Al3ylh TV | False | False | 206 |
-| 270 | Cleopatra TV | False | False | 247 |
-| 271 | Hala mosr3a | False | False | 245 |
-| 272 | AlHayat 3 | False | False | 3209 |
-| 273 | Al Jazeera Documentary HD | False | False | 504 |
-| 275 | Mix | False | False | 1809 |
-| 276 | El Khoulasa Classic | False | False | 230 |
-| 277 | Dubai One | False | False | 4719 |
-| 278 | Iraq EDU 7 | False | False | 707 |
-| 281 | Home TV | False | False | 207 |
-| 288 | AlHayat Sport | False | False | 3211 |
-| 289 | Hogan TV | False | False | 219 |
-| 291 | B4U PLUS | False | False | 8 |
-| 292 | Test | False | False | 2307 |
-| 293 | Zamalek Sports | False | False | 4904 |
-| 294 | Al Wathaeqya | False | False | 2306 |
-| 296 | Dubai TV | False | False | 4710 |
-| 297 | Dubai Sports 2 | False | False | 4713 |
-| 298 | Dubai Sports 3 | False | False | 4714 |
-| 299 | Dubai Racing 2 | False | False | 4715 |
-| 300 | Dubai Racing 3 | False | False | 4716 |
-| 301 | LIBYA SPORT 1 HD | False | False | 525 |
-| 302 | Libya Sport 2 HD | False | False | 2302 |
-| 303 | Alkass one HD | False | False | 2501 |
-| 304 | Alkass two HD | False | False | 2502 |
-| 305 | Alkass three HD | False | False | 2503 |
-| 306 | Alkass four HD | False | False | 2507 |
-| 307 | SBC | False | False | 2603 |
-| 308 | Thikrayatt | False | False | 2602 |
-| 310 | Sky News Arabia | False | False | 2005 |
-| 311 | Iraqia Sport HD | False | False | 7207 |
-| 312 | Oman TV Sport HD | False | False | 1202 |
-| 313 | Al Jazeera English HD | False | False | 503 |
-| 314 | Al Jazeera Mubasher 2 HD | False | False | 505 |
-| 315 | Al Jazeera Mubasher HD | False | False | 502 |
-| 316 | Qatar TV HD | False | False | 4 |
-| 317 | Qatar 2 | False | False | 2 |
-| 318 | Tunisia Nat2 HD | False | False | 8044 |
-| 319 | IMAM HUSSEIN TV 2 | False | False | 4010 |
-| 320 | MANU CHAT | False | False | 4013 |
-| 321 | ALAMAL TV | False | False | 8020 |
-| 322 | Sharjah HD | False | False | 1 |
-| 323 | Sharjah SD | False | False | 2 |
-| 324 | Sharqiya from Kalba HD | False | False | 3 |
-| 325 | Al Wousta from Al Dhaid HD | False | False | 5 |
-| 326 | Sharjah Sport HD | False | False | 6 |
-| 327 | Sharjah Quran TV | False | False | 8 |
-| 328 | Sharjah Sport 2 HD | False | False | 13 |
-| 329 | Kuwait TV 1 | False | False | 1101 |
-| 330 | Al-AKHBAR | False | False | 1102 |
-| 331 | Kuwait TV 2 | False | False | 1103 |
-| 332 | Kuwait Sports | False | False | 1104 |
-| 333 | Kuwait Sport plus | False | False | 1105 |
-| 334 | MUSIC IRAQ | False | False | 4022 |
-| 335 | Iraqi Drama | False | False | 4035 |
-| 336 | AL SALAM TV | False | False | 4036 |
-| 337 | CSAT | False | False | 5911 |
-| 338 | Sama Dubai | False | False | 4711 |
-| 339 | Dubai Sports 1 | False | False | 4712 |
-| 340 | Al Mawsleya HD | False | False | 7301 |
-| 341 | Al Basra | False | False | 7302 |
-| 342 | Libya Almustaqbal | False | False | 7303 |
-| 343 | LIBYA ALMOKHTAR | False | False | 7304 |
-| 344 | BIN OTHAIMEEN | False | False | 7305 |
-| 345 | Eriteria TV | False | False | 7306 |
-| 346 | Test | False | False | 7307 |
-| 347 | TANASUH TV | False | False | 7309 |
-| 348 | Alerth-Alnbawi | False | False | 7310 |
-| 349 | LIBYA IFTA TV | False | False | 7311 |
-| 350 | TANASUH EDUCATION TV | False | False | 7312 |
-| 351 | Kaifa | False | False | 7313 |
-| 352 | Misk Syria | False | False | 7314 |
-| 353 | Test | False | False | 7315 |
-| 354 | Al Forat HD | False | False | 7316 |
-| 355 | CNBC ARABIYA | False | False | 7317 |
-| 356 | Nilesat Feed | False | False | 7318 |
-| 357 | Test | False | False | 7319 |
-| 358 | CNN | False | False | 7320 |
-| 359 | ISC | False | False | 7321 |
-| 360 | Test | False | False | 7322 |
-| 361 | Cartoon Network | False | False | 7323 |
-| 362 | Diwan | False | False | 7408 |
-| 363 | Madrastna 2 | False | False | 7409 |
-| 364 | EDUC 1 | False | False | 7410 |
-| 365 | Sudan Basic Edu | False | False | 7411 |
-| 366 | Learning passport SD1 | False | False | 7412 |
-| 367 | Learning passport SD2 | False | False | 7413 |
-| 368 | ALASSEMA | False | False | 7414 |
-| 369 | LTV | False | False | 9 |
-| 370 | ZAD TV | False | False | 10 |
-| 372 | KBS WORLD | False | False | 14 |
-| 373 | AL SHARQIYA HD | False | False | 1 |
-| 374 | AL RASHEED TV HD | False | False | 4 |
-| 375 | AL SUMARIA HD | False | False | 5 |
-| 376 | IRAQ 24 | False | False | 6 |
-| 377 | CHADA TV | False | False | 8 |
-| 378 | CATV | False | False | 16 |
-| 379 | BAGHDAD TV | False | False | 12 |
-| 380 | TEST_CB | False | False | 25 |
-| 381 | Asharq News  Channel | False | False | 17 |
-| 382 | AVA TV | False | False | 1001 |
-| 383 | UTV Iraq HD | False | False | 1002 |
-| 384 | K24 HD | False | False | 1005 |
-| 385 | KURDISTAN TV | False | False | 1007 |
-| 386 | ZAGROS TV HD | False | False | 1009 |
-| 387 | CIRA TV | False | False | 1010 |
-| 388 | Ronahi TV | False | False | 1011 |
-| 389 | PAYAM TV HD | False | False | 1012 |
-| 390 | BANGAWAZ TV | False | False | 1013 |
-| 391 | SAT-7 KIDS | False | False | 1015 |
-| 392 | SAT-7 ARABIC | False | False | 1016 |
-| 393 | AlKarma Praise | False | False | 1017 |
-| 394 | Aryen TV | False | False | 1019 |
-| 395 | ZAROK TV HD | False | False | 1021 |
-| 396 | YEMEN SHABAB | False | False | 7000 |
-| 397 | Alkarma Discipleship | False | False | 7002 |
-| 398 | AL MAYADEEN TV | False | False | 7003 |
-| 399 | Al Hayat | False | False | 7006 |
-| 400 | BELQEES | False | False | 7008 |
-| 401 | SBN Global | False | False | 7009 |
-| 402 | MTA3 | False | False | 7010 |
-| 403 | Aliman TV | False | False | 7012 |
-| 404 | TRT Arabi | False | False | 7025 |
-| 405 | ALWATAN TV | False | False | 7026 |
-| 406 | Karameesh TV | False | False | 1201 |
-| 407 | ZAYTOONA | False | False | 1204 |
-| 408 | AL-MUSTAKILA | False | False | 1205 |
-| 409 | Wanasat Baby | False | False | 1206 |
-| 410 | M24 MAROC | False | False | 1208 |
-| 411 | Aden Almustakilla | False | False | 1210 |
-| 412 | Eutelsat Data 1 | False | False | 1290 |
-| 413 | Al Hadath | False | False | 2 |
-| 414 | Al Arabiya | False | False | 3 |
-| 415 | TEST | False | False | 7 |
-| 416 | Al Arabiya Business | False | False | 12 |
-| 417 | Shopping 3 | False | False | 22 |
-| 418 | Test | False | False | 23 |
-| 419 | OTA | False | False | 6660 |
-| 420 | OTA 2 | False | False | 6661 |
-| 421 | OTA 1 | False | False | 6662 |
-| 422 | Hooosh TV | False | False | 37 |
-| 423 | MAKAN | False | False | 51 |
-| 424 | Speda TV HD | False | False | 1 |
-| 425 | Alkarma ME 1 | False | False | 2 |
-| 426 | JIN TV HD | False | False | 2 |
-| 427 | Imam Ali TV | False | False | 5 |
-| 428 | Med Music | False | False | 8 |
-| 429 | Mereja TV | False | False | 10 |
-| 430 | STERK TV HD | False | False | 11 |
-| 431 | Africa TV 1 | False | False | 13 |
-| 432 | Africa TV 1 Quran | False | False | 15 |
-| 433 | TV ISLAAMA | False | False | 19 |
-| 434 | NRT HD | False | False | 20 |
-| 435 | Amozhgary TV | False | False | 21 |
-| 436 | DAEWA TV | False | False | 22 |
-| 437 | Hamiltan TV | False | False | 25 |
-| 438 | Kurdsat HD | False | False | 29 |
-| 439 | Kurdsat News | False | False | 30 |
-| 440 | Al Karama News | False | False | 32 |
-| 441 | NRT 2 HD | False | False | 33 |
-| 442 | Al Khaleej 24 | False | False | 14 |
-| 443 | Al Watania 24 | False | False | 43 |
-| 444 | Suroyo TV | False | False | 46 |
-| 445 | Rojava HD | False | False | 23 |
-| 446 | Sukariya hekayat | False | False | 6440 |
-| 447 | AL SHASHA CINEMA | False | False | 6460 |
-| 448 | AL SHASHA MOSLSLAT | False | False | 6470 |
-| 449 | Sukariya cinema | False | False | 6480 |
-| 450 | Fox Be Elaraby TV | False | False | 6490 |
-| 451 | Dabanga TV | False | False | 6111 |
-| 452 | beIN 4K | False | False | 2201 |
-| 453 | Sukariya zaman | False | False | 6500 |
-| 454 | Fox Movies | False | False | 6510 |
-| 455 | West Elbalad Zaman | False | False | 6520 |
-| 456 | Beirut Aflam | False | False | 6530 |
-| 457 | Beirut Alyoom | False | False | 6540 |
-| 458 | Beirut Cinema | False | False | 6550 |
-| 459 | El Omda Al yom | False | False | 6560 |
-| 460 | Beirut Drama | False | False | 6570 |
-| 461 | AL SHASHA  ALWAN | False | False | 6580 |
-| 462 | West Elbalad Drama | False | False | 6590 |
-| 463 | Alking Drama TV | False | False | 6600 |
-| 464 | Melody Drama | False | False | 6660 |
-| 465 | Alrai TV | False | False | 6670 |
-| 466 | Al Sukariya Classic | False | False | 6690 |
-| 467 | Melody Aflam | False | False | 7010 |
-| 468 | Dolly Mosalsalat | False | False | 7060 |
-| 469 | Cookies Kids TV | False | False | 7070 |
-| 470 | BaBy Kids TV | False | False | 7090 |
-| 471 | AL SHASHA  DRAMA | False | False | 8020 |
-| 472 | AL SHASHA  HEKAYAT | False | False | 8030 |
-| 473 | AL SHASHA  FILM | False | False | 8060 |
-| 474 | Elzaeem Drama | False | False | 8070 |
-| 475 | Sukariya drama | False | False | 8080 |
-| 476 | Elzaeem Cinema | False | False | 8090 |
-| 477 | Alking Aflam | False | False | 8110 |
-| 478 | El Omda Aflam | False | False | 8140 |
-| 479 | El Omda Drama | False | False | 8150 |
-| 480 | One Drama | False | False | 8160 |
-| 481 | beIN SPORTS XTRA 9 | False | False | 2203 |
-| 482 | Cairo Plus Cinema | False | False | 6640 |
-| 483 | CHANNEL8 | False | False | 6620 |
-| 484 | Cairo Plus Drama | False | False | 6650 |
-| 485 | M classic | False | False | 7000 |
-| 486 | Dolly Drama | False | False | 7050 |
-| 487 | beIN SPORTS MAX 4 | False | False | 2204 |
-| 488 | Dolly Alyoom | False | False | 7080 |
-| 489 | Dolly cinema | False | False | 8040 |
-| 490 | Dolly movies | False | False | 8100 |
-| 491 | Cairo Plus Alyoum | False | False | 8130 |
-| 492 | Al Sahat | False | False | 4 |
-| 493 | Mahdi has appeared TV | False | False | 5 |
-| 494 | beIN SPORTS XTRA 6 | False | False | 2205 |
-| 495 | spare | False | False | 2206 |
-| 496 | spare | False | False | 2207 |
-| 497 | spare | False | False | 2208 |
-| 498 | Asharq Documentary | False | False | 18 |
-| 499 | Iraqia News HD | False | False | 7201 |
-| 500 | Iraqia Turkuman | False | False | 7205 |
-| 501 | Iraqia Kurd | False | False | 7206 |
-| 502 | programme nationale HD | False | False | 1 |
-| 503 | 5 KIDS | False | False | 1592 |
-| 504 | TV5 | False | False | 1601 |
-| 505 | Al Kawthar HD | False | False | 1604 |
-| 506 | AlSaeedah | False | False | 1608 |
-| 507 | Test | False | False | 1609 |
-| 508 | Test | False | False | 1610 |
-| 509 | I Film Arabic | False | False | 1611 |
-| 510 | Al Ghad HD | False | False | 1617 |
-| 511 | Al Fath Al3amh | False | False | 1618 |
-| 512 | Al Alam HD | False | False | 1619 |
-| 513 | Test | False | False | 2801 |
-| 514 | Press TV HD | False | False | 2802 |
-| 515 | Test | False | False | 2803 |
-| 516 | LJBC | False | False | 2804 |
-| 517 | Test | False | False | 2805 |
-| 518 | Test | False | False | 2813 |
-| 519 | BAGHDAD TV | False | False | 2819 |
-| 520 | LIBYA ALHADATH HD | False | False | 2821 |
-| 521 | Syria News HD | False | False | 2822 |
-| 522 | AlAraby2 | False | False | 2823 |
-| 523 | Test | False | False | 2824 |
-| 524 | Test | False | False | 2825 |
-| 525 | Al Thania | False | False | 2826 |
-| 526 | Syria TV 01 | False | False | 2827 |
-| 527 | Test | False | False | 2828 |
-| 528 | Test | False | False | 600 |
-| 529 | Test | False | False | 602 |
-| 530 | Nile News | False | False | 603 |
-| 531 | Test | False | False | 1102 |
-| 532 | Extra News | False | False | 1806 |
-| 533 | HYA | False | False | 1810 |
-| 534 | Test | False | False | 489 |
-| 535 | CGTN | False | False | 1302 |
-| 536 | Sahar Kurdi | False | False | 1303 |
-| 537 | Libya Alrasmia | False | False | 1304 |
-| 538 | Lebanon TV | False | False | 1305 |
-| 539 | HADRAMAUT TV | False | False | 1307 |
-| 540 | 2M Maroc | False | False | 1308 |
-| 541 | Aden TV | False | False | 1309 |
-| 542 | CGTN-Arabic | False | False | 1310 |
-| 543 | Al Shams Drama | False | False | 1312 |
-| 544 | Test | False | False | 1313 |
-| 545 | Test | False | False | 1315 |
-| 546 | Test | False | False | 491 |
-| 547 | AL oula | False | False | 501 |
-| 548 | Test | False | False | 503 |
-| 549 | Test | False | False | 507 |
-| 550 | Test | False | False | 508 |
-| 551 | SABA HD | False | False | 510 |
-| 552 | BBC News TV | False | False | 522 |
-| 553 | Libya Alwataniya | False | False | 524 |
-| 555 | ALHAWYAH TV | False | False | 6 |
-| 556 | beIN SPORTS EN 1 | False | False | 2301 |
-| 557 | beIN SPORTS EN 2 | False | False | 2302 |
-| 558 | beIN SPORTS FR 2 | False | False | 2304 |
-| 559 | beIN SPORTS FR 1 | False | False | 2303 |
-| 560 | beIN SPORTS MAX 2 | False | False | 2305 |
-| 561 | beIN SPORTS XTRA 7 | False | False | 2306 |
-| 562 | beIN 4K | False | False | 2401 |
-| 563 | Asharq News Channel HD | False | False | 101 |
-| 564 | Asharq Documentary HD | False | False | 102 |
-| 565 | Asharq Discovery HD | False | False | 103 |
-| 566 | Alkarma New Generation | False | False | 250 |
-| 567 | Iraqia Ent HD | False | False | 7209 |
-| 568 | Radio AL-Iraqia | False | False | 7210 |
-| 569 | Radio AI-Forqan | False | False | 7211 |
-| 570 | Radio Baghdad | False | False | 7212 |
-| 571 | Iraqia Syriac HD | False | False | 7220 |
-| 572 | Iraqi interior radio | False | False | 7227 |
-| 573 | DAHAB MOSALSALAT | False | False | 249 |
-| 574 | Elkhoulasa Drama | False | False | 208 |
-| 575 | SSBC (News &amp; MEDIA) | False | False | 251 |
-| 576 | ALFA DRAMA | False | False | 239 |
-| 577 | Altamselia | False | False | 222 |
-| 578 | Al Rayyan HD | False | False | 510 |
-| 579 | Al Rayyan Al Qadeem HD | False | False | 511 |
-| 580 | BN TV | False | False | 590 |
-| 581 | AL-GEZIRA TV | False | False | 600 |
-| 582 | Ashorooq TV | False | False | 630 |
-| 583 | Kanon TV Sudan | False | False | 640 |
-| 584 | Alzrga | False | False | 670 |
-| 585 | Shamalia TV | False | False | 680 |
-| 586 | Khartoum-TV | False | False | 790 |
-| 587 | Ahwas State TV | False | False | 800 |
-| 588 | Kassala TV | False | False | 840 |
-| 589 | Samarra tv | False | False | 1010 |
-| 590 | Huna Aliraq | False | False | 1020 |
-| 591 | Barq TV | False | False | 1030 |
-| 592 | Zoom TV | False | False | 1040 |
-| 593 | iKA TV | False | False | 1050 |
-| 594 | Salahden TV | False | False | 1060 |
-| 595 | Al-Bawadi | False | False | 1070 |
-| 596 | Marina TV HD | False | False | 1080 |
-| 597 | Al-Shahed TV HD | False | False | 1100 |
-| 598 | YEMENIA TV | False | False | 1110 |
-| 599 | ALMADANIAH TV | False | False | 1130 |
-| 600 | falestinona TV | False | False | 1140 |
-| 601 | Awazna1 | False | False | 1150 |
-| 602 | ALWESAM  TV | False | False | 1160 |
-| 603 | Nabd | False | False | 1170 |
-| 604 | Albalad TV | False | False | 1190 |
-| 605 | River Nile TV | False | False | 540 |
-| 606 | ABC-ALKhalijia TV | False | False | 500 |
-| 607 | Asil TV | False | False | 4730 |
-| 608 | WAAR HD | False | False | 4740 |
-| 609 | UTV Iraq | False | False | 4750 |
-| 610 | Alnajaf Alashraf tv | False | False | 4800 |
-| 611 | Saout alaqila | False | False | 4900 |
-| 612 | Palestine | False | False | 4910 |
-| 613 | MASSAYA TV | False | False | 5000 |
-| 614 | AL MALAKOOT SATTHE KINGDOM SAT | False | False | 5920 |
-| 615 | ALWAQIE TV HD | False | False | 5950 |
-| 616 | Al-Awhad TV | False | False | 6450 |
-| 617 | Kidsy | False | False | 4850 |
-| 618 | Reef Alyemen | False | False | 3 |
-| 619 | AGHAPY TV | False | False | 4 |
-| 620 | Top Drama | False | False | 5 |
-| 621 | TOP Zaman | False | False | 7 |
-| 622 | Libya al Ahrar HD | False | False | 11 |
-| 623 | Hawa Baghdad Drama | False | False | 19 |
-| 624 | beIN SPORTS 1 | False | False | 2001 |
-| 625 | beIN SPORTS 2 | False | False | 2002 |
-| 626 | Libya Al Hedaya TV | False | False | 2303 |
-| 627 | Libya Radio Quran Karem | False | False | 2305 |
-| 628 | Syria News SD | False | False | 2308 |
-| 629 | LBC SAT | False | False | 2108 |
-| 630 | Almagd TV | False | False | 22 |
-| 631 | Al Karma Family | False | False | 27 |
-| 632 | TCTT | False | False | 36 |
-| 633 | Alkalema | False | False | 41 |
-| 634 | The Grace TV | False | False | 49 |
-| 635 | Alsay3da | False | False | 50 |
-| 636 | Noursat | False | False | 54 |
-| 637 | Beit ElDrama | False | False | 56 |
-| 638 | Al Quds Al Yawm | False | False | 6 |
-| 639 | Alatawla Cinema | False | False | 2 |
-| 640 | El Khoulasa Cinema | False | False | 9 |
-| 641 | Alatwla Drama | False | False | 12 |
-| 642 | Alatawla Hekayat | False | False | 15 |
-| 643 | Almasirah HD | False | False | 13 |
-| 644 | Noursat AlChabab | False | False | 38 |
-| 645 | Alhwanem Drama | False | False | 34 |
-| 646 | Al Basira | False | False | 16 |
-| 647 | AB IRAQ TV | False | False | 10 |
-| 648 | EL WAHA DRAMA | False | False | 46 |
-| 649 | Test | False | False | 2111 |
-| 650 | Saudi TV | False | False | 2601 |
-| 651 | Al Ekhbaria | False | False | 2604 |
-| 652 | Saudia Alaan TV | False | False | 2605 |
-| 653 | AL NAHRAIN TV | False | False | 703 |
-| 654 |  | False | False | 705 |
-| 655 | Al Araby 2 HD | False | False | 706 |
-| 656 | Test | False | False | 708 |
-| 657 |  | False | False | 709 |
-| 658 | Jordan Sport HD | False | False | 714 |
-| 659 | Iraq Now | False | False | 738 |
-| 660 | a Konoz Alhayat | False | False | 805 |
-| 661 | RT ARABIC SD | False | False | 828 |
-| 662 | ARZKR! | False | False | 721 |
-| 663 | kirkuk alan | False | False | 809 |
-| 664 | beIN SPORTS 3 | False | False | 2003 |
-| 665 | beIN SPORTS 5 | False | False | 2004 |
-| 666 | beIN SPORTS MAX 3 | False | False | 2005 |
-| 667 | beIN SPORTS MAX 2 | False | False | 2006 |
-| 668 | beIN SPORTS MAX 2 | False | False | 2007 |
-| 669 | beIN SPORTS XTRA 5 | False | False | 2008 |
-| 670 | beIN SPORTS 6 | False | False | 2101 |
-| 671 | beIN SPORTS 4 | False | False | 2102 |
-| 672 | beIN SPORTS 8 | False | False | 2103 |
-| 673 | beIN SPORTS XTRA 3 | False | False | 2104 |
-| 674 | beIN SPORTS 7 | False | False | 2105 |
-| 675 |  | False | False | 10031 |
-| 676 |  | False | False | 10032 |
-| 677 | Horus  Drama | False | False | 8 |
-| 678 | Alfady | False | False | 14 |
-| 679 | Al Horreya | False | False | 15 |
-| 680 | Almasirah Mubashar | False | False | 16 |
-| 681 | AnwarTV2 | False | False | 17 |
-| 682 | ALLAHDAH TV | False | False | 21 |
-| 683 | Logos TV | False | False | 23 |
-| 684 | Koogi | False | False | 26 |
-| 685 | Libya WTV HD | False | False | 28 |
-| 686 | ALMASIRAH TV | False | False | 32 |
-| 687 | Iraq Future | False | False | 35 |
-| 688 | Nour Mariam | False | False | 38 |
-| 689 | Al Ons TV | False | False | 40 |
-| 690 | Nour Al Sharq | False | False | 44 |
-| 691 | Nour Koddass | False | False | 45 |
-| 692 | SALVATION TV MENA | False | False | 3 |
-| 693 | Loveworld Arabic | False | False | 1 |
-| 694 | Yemen TV HD | False | False | 7 |
-| 695 | North Africa | False | False | 10 |
-| 696 | Al Ghadeer | False | False | 4 |
-| 697 | ALNOJABA TV | False | False | 12 |
-| 698 | AL SHARQIYA NEWS HD | False | False | 33 |
-| 699 | RUDAW TV | False | False | 36 |
-| 700 | AL AYAM HD | False | False | 44 |
-| 701 | Yemen Documentary | False | False | 2718 |
-| 702 | Sheba | False | False | 2719 |
-| 703 | Al Eman | False | False | 2720 |
-| 704 | Aden | False | False | 2721 |
-| 705 | Sat.tv demo loop | False | False | 2798 |
-| 706 | Al Yawm | False | False | 2701 |
-| 707 | Al Safwa | False | False | 2702 |
-| 708 | Cinema 1 | False | False | 2703 |
-| 709 | Cinema 2 | False | False | 2704 |
-| 710 | Series +2 HD | False | False | 2705 |
-| 711 | Series Channel HD | False | False | 2706 |
-| 712 | Fann | False | False | 2707 |
-| 713 | Music Now | False | False | 2708 |
-| 714 | Tarabiyat Radio | False | False | 2709 |
-| 715 | Alfa Khalijiyat Radio | False | False | 2710 |
-| 716 | World Fashion Channel | False | False | 101 |
-| 717 | Al Qamar HD | False | False | 103 |
-| 718 | Kartoon channel | False | False | 107 |
-| 719 | Al3elaj Alrohany TV | False | False | 109 |
-| 720 | GB News | False | False | 110 |
-| 721 | Music India | False | False | 111 |
-| 722 | BERBERE TV | False | False | 1503 |
-| 723 | Eutelsat Data 1 | False | False | 1590 |
-| 724 | Al Rabiaa TV | False | False | 49 |
-| 725 | SABA WORLD PROMO | False | False | 50 |
-| 726 | AL AHAD HD | False | False | 51 |
-| 727 | AL AHAD VOICE | False | False | 52 |
-| 728 | Vatican Radio | False | False | 53 |
-| 729 | Test 1 | False | False | 54 |
-| 730 | Iraq Al Hadath HD | False | False | 55 |
-| 731 | beIN SPORTS XTRA 7 | False | False | 2009 |
-| 732 | Monawaat Radio | False | False | 2711 |
-| 733 | DW Arabia HD | False | False | 2712 |
-| 734 | Test | False | False | 1001 |
-| 735 | Test | False | False | 1002 |
-| 736 | Test | False | False | 1003 |
-| 737 | Test | False | False | 1004 |
-| 738 | Test | False | False | 1005 |
-| 739 | Test | False | False | 1006 |
-| 740 | Test | False | False | 1007 |
-| 741 | Test | False | False | 1008 |
-| 742 | Test | False | False | 1009 |
-| 743 | Test | False | False | 1010 |
-| 744 | KSA SPORTS 1 | False | False | 5603 |
-| 745 | KSA SPORTS 2 | False | False | 5604 |
-| 746 | KSA SPORTS 3 | False | False | 5605 |
-| 747 | dmc | False | False | 4902 |
-| 748 | CBC HD | False | False | 4903 |
-| 749 | Extra Live SD | False | False | 4906 |
-| 750 | Alkass two HD | False | False | 2402 |
-| 751 | Alkass three HD | False | False | 2403 |
-| 752 | beIN SPORTS MAX 6 | False | False | 2415 |
-| 753 | Spare | False | False | 2409 |
-| 754 | beIN SPORTS 9 | False | False | 2410 |
-| 755 | beIN SPORTS NEWS | False | False | 2411 |
-| 756 | Test-3 | False | False | 2407 |
-| 757 | N Africa | False | False | 712 |
-| 758 | beIN SPORTS XTRA 4 | False | False | 2408 |
-| 759 | Test | False | False | 2002 |
-| 760 | Al Qahera News SD | False | False | 102 |
-| 761 | Asharq Discovery | False | False | 19 |
-| 762 | Test | False | False | 4907 |
-| 763 | Energy FM | False | False | 4921 |
-| 764 | Test | False | False | 2003 |
-| 765 | SAT.TV | False | False | 2716 |
-| 766 | Eutelsat Data 1 | False | False | 2799 |
-| 767 | Al joumhouriya | False | False | 2203 |
-| 768 | Test | False | False | 2211 |
-| 769 | Test | False | False | 2214 |
-| 770 | AL-Anbar | False | False | 2217 |
-| 771 | Test | False | False | 2009 |
-| 772 | Colorbars1 | False | False | 1 |
-| 773 | Colorbars | False | False | 100 |
-| 774 | Palestine | False | False | 1103 |
-| 775 | Modern Mti | False | False | 1104 |
-| 776 | Test | False | False | 2012 |
-| 777 | Test | False | False | 2013 |
-| 778 | Test | False | False | 2014 |
-| 779 | Sky News Arabia HD | False | False | 2015 |
-| 780 | Test | False | False | 1107 |
-| 781 | Test | False | False | 2806 |
-| 782 | Test | False | False | 1108 |
-| 783 | MUSAWA | False | False | 2980 |
-| 784 | Palestine News | False | False | 2990 |
-| 785 | Maan TV | False | False | 3320 |
-| 786 | Palestine Live | False | False | 3330 |
-| 787 | Palestine | False | False | 3350 |
-| 788 | Awdeh | False | False | 3370 |
-| 789 | Palestine Sport | False | False | 3430 |
-| 790 | AL ARABY TV HD | False | False | 3800 |
-| 791 | Moga Cinema | False | False | 3820 |
-| 792 | Elfadjer drama Dz | False | False | 3840 |
-| 793 | Moga Today | False | False | 3880 |
-| 794 | Gulfsat | False | False | 3890 |
-| 795 | AL KERAZA TV | False | False | 3850 |
-| 796 | El Sharq TV | False | False | 1430 |
-| 797 | NHK World-Japan | False | False | 1440 |
-| 798 | Mekameleen TV | False | False | 1450 |
-| 799 | Yemen Education | False | False | 1460 |
-| 800 | Shams TV | False | False | 1470 |
-| 801 | Alyaum TV | False | False | 1480 |
-| 802 | France 24 English | False | False | 1490 |
-| 803 | AVA TV | False | False | 1500 |
-| 804 | Nu TV | False | False | 1510 |
-| 805 | WATAN TV | False | False | 1540 |
-| 806 | i24 News Arabic | False | False | 1570 |
-| 807 | ERISAT | False | False | 1590 |
-| 808 | Anewz | False | False | 1600 |
-| 809 | AlQanat9 | False | False | 1640 |
-| 810 | CTV EGYPT | False | False | 1650 |
-| 811 | RUDAW | False | False | 1660 |
-| 812 | Echorouk News | False | False | 2021 |
-| 813 | Echorouk TV | False | False | 2022 |
-| 814 | ONE TV | False | False | 2023 |
-| 815 | Bahia TV | False | False | 2024 |
-| 816 | El Watania TV | False | False | 2025 |
-| 817 | El Hayat TV Algerie | False | False | 2026 |
-| 818 | El Heddaf TV | False | False | 2028 |
-| 819 | Test | False | False | 1110 |
-| 820 | AlHadath Alyoum | False | False | 1112 |
-| 821 | Test | False | False | 1811 |
-| 822 | Test | False | False | 1812 |
-| 823 | Test | False | False | 1813 |
-| 824 | AL SHARQIYA HD | False | False | 1814 |
-| 825 | Test | False | False | 1815 |
-| 826 | Test | False | False | 1816 |
-| 827 | Yemen | False | False | 104 |
-| 828 | BBC Arabic | False | False | 3203 |
-| 829 | ALhayat | False | False | 3204 |
-| 830 | Test | False | False | 3205 |
-| 831 | France 24 | False | False | 3206 |
-| 832 | Alhayat We Alnas | False | False | 3207 |
-| 833 | Al Aoula inter | False | False | 3210 |
-| 834 | A TV | False | False | 3212 |
-| 835 | Al Alam Syria | False | False | 3213 |
-| 836 | ALSahraa HD | False | False | 3214 |
-| 837 | Salam TV Algeria | False | False | 2029 |
-| 838 | Eldjazair N1 | False | False | 2030 |
-| 839 | AL24 News | False | False | 2032 |
-| 840 | El Bilad TV | False | False | 2034 |
-| 841 | Ennahar TV Algerie | False | False | 2040 |
-| 842 | Zahra TV | False | False | 2042 |
-| 843 | Algerian 4Kids | False | False | 2043 |
-| 848 | Al Arabiya | False | False | 107 |
-| 849 | ALhayah ALaan | False | False | 3215 |
-| 850 | D IRAQ | False | False | 4037 |
-| 851 | Al-Arabiya Alhadath | False | False | 108 |
-| 854 | Yemen Today | False | False | 111 |
-| 855 | Al Ahly HD | False | False | 106 |
-| 856 | Al Ahly SD | False | False | 113 |
-| 857 | LIBYA ALMASAR TV | False | False | 8045 |
-| 858 | SMTV | False | False | 204 |
-| 859 | TCHAD TV HD | False | False | 222 |
-| 860 | AL SIRAT TV | False | False | 223 |
-| 861 | ALHOUDA | False | False | 232 |
-| 862 | Alwilayah TV | False | False | 2220 |
-| 863 | Hawa Baghdad | False | False | 2230 |
-| 864 | HAQ TV | False | False | 2260 |
-| 865 | Nesiha TV | False | False | 2270 |
-| 866 | Alhujja TV | False | False | 2280 |
-| 867 | ALNAHAR ALJADID | False | False | 2290 |
-| 868 | ALWAAI ALSHIRAZI | False | False | 2300 |
-| 869 | SHAM FM PLUS | False | False | 2310 |
-| 870 | Al-Ahvaz | False | False | 2350 |
-| 871 | atv-ALADALAH | False | False | 2360 |
-| 872 | Al-Sabah TV | False | False | 2410 |
-| 873 | Al-Mahdi | False | False | 2420 |
-| 874 | Al-Falloja | False | False | 2470 |
-| 875 | OM-AlBaneen TV | False | False | 2510 |
-| 876 | AL SAYEDAH TV | False | False | 2520 |
-| 877 | ALHIJAZ TV | False | False | 2540 |
-| 878 | Arara TV | False | False | 2630 |
-| 879 | Amman TV | False | False | 800 |
-| 880 | Jordan Sport | False | False | 802 |
-| 881 | ALISTIQAMA TV | False | False | 824 |
-| 882 | RT ARABIC HD | False | False | 827 |
-| 883 | ROYA HD | False | False | 831 |
-| 884 | Jordan HD | False | False | 832 |
-| 885 | Almamlaka TV | False | False | 837 |
-| 886 | RT English | False | False | 839 |
-| 887 | AL HAQEQA AL DAWLIAH | False | False | 665 |
-| 888 | Jordan Amen | False | False | 666 |
-| 889 | TUNISIA SHOP | False | False | 667 |
-| 890 | Almahriah HD | False | False | 241 |
-| 891 | Ennahar rokia | False | False | 668 |
-| 892 | ALRAHMAN | False | False | 669 |
-| 893 | Angel TV Arabia | False | False | 603 |
-| 894 | ERIPM | False | False | 604 |
-| 895 | Sawt Alitra | False | False | 606 |
-| 896 | SUHAIL TV | False | False | 609 |
-| 897 | TAHA | False | False | 610 |
-| 898 | ADEN TV | False | False | 611 |
-| 899 | KTO | False | False | 612 |
-| 900 | MESat | False | False | 613 |
-| 901 | Oman TV General HD | False | False | 1201 |
-| 902 | Oman TV Live HD | False | False | 1203 |
-| 903 | Oman TV Culture HD | False | False | 1204 |
-| 904 | Oman TV General SD | False | False | 1205 |
-| 905 | Test | False | False | 120 |
-| 906 | Wedo TV | False | False | 500 |
-| 907 | World Poker Tour | False | False | 504 |
-| 908 | Sudan TV | False | False | 103 |
-| 909 | Al Qahera News | False | False | 105 |
-| 910 | Al-Nahar Nour | False | False | 110 |
-| 911 | ETIHAD TV | False | False | 302 |
-| 912 | Al Mayadeen HD | False | False | 303 |
-| 913 | AL THAQALAYN TV | False | False | 304 |
-| 914 | HodHod  TV | False | False | 306 |
-| 915 | Aljanub TV | False | False | 312 |
-| 916 | AL ESHRAQ TV | False | False | 313 |
-| 917 | DUA CHANNEL | False | False | 314 |
-| 918 | NABA TV | False | False | 318 |
-| 919 | ALNAEEM TV | False | False | 329 |
-| 920 | Almaaref TV HD | False | False | 403 |
-| 921 | Menhag Alnabowe | False | False | 405 |
-| 922 | Chebab TV | False | False | 1504 |
-| 923 | Cricket Gold | False | False | 505 |
-| 924 | Bare Knuckle Fighting | False | False | 506 |
-| 925 | Test | False | False | 7415 |
-| 926 | MBC MASR DRAMA HD | False | False | 103 |
-| 927 | Al Thaqafiya HD | False | False | 104 |
-| 928 | beIN SPORTS XTRA 1 | False | False | 2412 |
-| 929 | beIN SPORTS XTRA 2 | False | False | 2413 |
-| 930 | beIN SPORTS MAX 1 | False | False | 2414 |
-| 931 | beIN SPORTS MAX 4 | False | False | 2416 |
-| 932 | Test | False | False | 204 |
-| 933 | beIN SPORTS MAX 5 | False | False | 2417 |
-| 934 | beIN SPORTS XTRA 6 | False | False | 2418 |
-| 935 | beIN SPORTS 5 | False | False | 2419 |
-| 936 | Test2 | False | False | 2420 |
-| 937 | Tets3 | False | False | 2421 |
-| 938 | Test4 | False | False | 2422 |
-| 939 | Test5 | False | False | 2423 |
-| 940 | Test6 | False | False | 2424 |
-| 941 | Test7 | False | False | 2425 |
-| 942 | Moga Comedy | False | False | 3870 |
-| 943 | ONTIME SPORTS2 | False | False | 205 |
-| 944 | ON  E | False | False | 206 |
-| 945 | Altaghier HD | False | False | 4101 |
-| 946 | Alruqia Tv | False | False | 4119 |
-| 947 | TUNISIA SHOP | False | False | 4120 |
-| 948 | JORDAN SAMA | False | False | 4127 |
-| 949 | Ennahar rokia | False | False | 4167 |
-| 950 | PLAY AFLAM | False | False | 3900 |
-| 951 | PLAY CINEMA | False | False | 3910 |
-| 952 | PLAY DRAMA | False | False | 3920 |
-| 953 | PLAY HEKAYAT | False | False | 3930 |
-| 955 | PLAY TODAY | False | False | 3940 |
-| 956 | Canal algerie HD | False | False | 2 |
-| 957 | TV 4 | False | False | 4 |
-| 958 | TV 5 | False | False | 5 |
-| 959 | TV6 HD | False | False | 6 |
-| 960 | TV7 ELMAARIFA | False | False | 7 |
-| 961 | TV8 EDHAKIRA | False | False | 8 |
-| 962 | El barlamaniya | False | False | 9 |
-| 963 | A3 HD | False | False | 25 |
-| 964 | Yemen Today TV | False | False | 1008 |
-| 965 | Oyoun AlWatan | False | False | 670 |
-| 966 | Hadramout TV | False | False | 671 |
-| 967 | OSNtv Movies Premiere | False | False | 301 |
-| 968 | Abu Dhabi TV HD | False | False | 1 |
-| 969 | Al Emarat TV HD | False | False | 2 |
-| 970 | Majd Kids TV HD | False | False | 3 |
-| 971 | AD Sport 1 HD | False | False | 5 |
-| 972 | AD Sport 2 HD | False | False | 6 |
-| 973 | YAS Sports HD | False | False | 7 |
-| 974 | AD Nat Geo HD | False | False | 8 |
-| 975 | Baynounah TV | False | False | 10 |
-| 976 | MBC 2 | False | False | 106 |
-| 977 | MBC IRAQ | False | False | 107 |
-| 978 | Al Etejah TV | False | False | 1018 |
-| 979 | Jordan Amen | False | False | 4171 |
-| 980 | Oyoun AlWatan | False | False | 4203 |
-| 981 | KSA1727 | False | False | 4108 |
-| 982 | ALRAHMAN | False | False | 4134 |
-| 983 | AL HAQEQA AL DAWLIAH | False | False | 4182 |
-| 984 | Hadramout TV | False | False | 41196 |
-| 986 | Alwadi TV | False | False | 650 |
-| 987 | Algharbianow TV | False | False | 710 |
-| 988 | Nineveh TV | False | False | 720 |
-| 989 | Aldawla TV | False | False | 730 |
-| 990 | ALEGHATHIAH TV | False | False | 760 |
-| 991 | al-khaleej alyoum | False | False | 810 |
-| 992 | Rosheta | False | False | 830 |
-| 993 | SUBORO TV | False | False | 1000 |
-| 994 | Al-Marjaeyoun TV | False | False | 1120 |
-| 995 | Hebron.Sat TV | False | False | 1180 |
-| 996 | Iraq first 207 TV | False | False | 1200 |
-| 997 | MBC MASR 2 | False | False | 108 |
-| 998 | TEST | False | False | 109 |
-| 999 | Test 1 | False | False | 110 |
-| 1000 | Test 2 | False | False | 111 |
-| 1001 | Test 3 | False | False | 112 |
-| 1002 | Test 4 | False | False | 113 |
-| 1003 | Daystar | False | False | 112 |
-| 1004 | Riyad Al Salihin | False | False | 114 |
-| 1005 | Imam Ali | False | False | 115 |
-| 1006 | Prime TV | False | False | 116 |
-| 1007 | History HD | False | False | 5661 |
-| 1008 | OSNtv Showcase Classics | False | False | 5662 |
-| 1009 | Nickelodeon HD | False | False | 5663 |
-| 1010 | Spare 5664 | False | False | 5664 |
-| 1011 | Discovery HD | False | False | 5665 |
-| 1012 | OSNtv Movies Family | False | False | 5666 |
-| 1013 | OSNtv Movies Horror | False | False | 5667 |
-| 1014 | Discovery IDX HD | False | False | 5668 |
-| 1015 | OSNtv Movies Comedy | False | False | 5669 |
-| 1016 | Nick Junior HD | False | False | 5670 |
-| 1017 | Nick Toons HD | False | False | 5671 |
-| 1018 | OSNtv POP UP | False | False | 5672 |
-| 1019 | Bloomberg | False | False | 201 |
-| 1020 | GMA Pinoy TV | False | False | 202 |
-| 1021 | GMA News TV | False | False | 203 |
-| 1022 | Motorvision | False | False | 204 |
-| 1023 | Blippi and Friends | False | False | 206 |
-| 1024 | Spare 207 | False | False | 207 |
-| 1025 | PBA RUSH | False | False | 208 |
-| 1026 | Myx | False | False | 209 |
-| 1027 | GMA Life TV | False | False | 211 |
-| 1028 | C I | False | False | 212 |
-| 1029 | MOR Global Radio | False | False | 213 |
-| 1030 | TeleRadyo | False | False | 215 |
-| 1031 | Cinema One Global TV | False | False | 216 |
-| 1032 | TFC HD | False | False | 217 |
-| 1033 | Kapatid TV5 | False | False | 220 |
-| 1034 | MCM Top | False | False | 221 |
-| 1035 | RFM TV | False | False | 222 |
-| 1036 | CineMo | False | False | 223 |
-| 1037 | ANC | False | False | 224 |
-| 1038 | H2 HD | False | False | 225 |
-| 1039 | Spare 226 | False | False | 226 |
-| 1040 | OSNtv Movies Action | False | False | 302 |
-| 1041 | OSNtv Documentary | False | False | 303 |
-| 1042 | OSNtv Showcase | False | False | 304 |
-| 1043 | OSNtv One | False | False | 305 |
-| 1044 | OSNtv Yahala Aflam | False | False | 306 |
-| 1045 | OSNtv Crime | False | False | 307 |
-| 1046 | TLC HD | False | False | 308 |
-| 1047 | OSNtv Yahala Bil Arabi | False | False | 309 |
-| 1048 | Moonbug Kids | False | False | 310 |
-| 0 | ARIRANG | False | False | 13 |
-| 0 | beIN SPORTS 1 | True | False | 0 |
-| 0 | beIN SPORTS 2 | True | False | 0 |
-| 0 | beIN SPORTS 3 | True | False | 0 |
-| 0 | beIN SPORTS 5 | True | False | 0 |
-| 0 | beIN SPORTS MAX 3 | True | False | 0 |
-| 0 | beIN SPORTS MAX 2 | True | False | 0 |
-| 0 | beIN SPORTS MAX 2 | True | False | 0 |
-| 0 | beIN SPORTS XTRA 5 | True | False | 0 |
-| 0 | beIN SPORTS XTRA 7 | True | False | 0 |
-| 0 | Test | False | False | 592 |
-| 0 | Al Hadath | True | False | 0 |
-| 0 | Al Arabiya | True | False | 0 |
-| 0 | MBC 1 | True | False | 0 |
-| 0 | MBC 4 | True | False | 0 |
-| 0 | MBC Drama | True | False | 0 |
-| 0 | TEST | True | False | 0 |
-| 0 | MBC Bollywood | True | False | 0 |
-| 0 | MBC 2 | True | False | 0 |
-| 0 | MBC Action | True | False | 0 |
-| 0 | MBC 3 | True | False | 0 |
-| 0 | Al Arabiya Business | True | False | 0 |
-| 0 | MBC Masr HD | True | False | 0 |
-| 0 | Shopping 3 | True | False | 0 |
-| 0 | Test | True | False | 0 |
-| 0 | OTA | True | False | 0 |
-| 0 | OTA 2 | True | False | 0 |
-| 0 | OTA 1 | True | False | 0 |
-| 0 | Saudi TV | True | False | 0 |
-| 0 | Thikrayatt | True | False | 0 |
-| 0 | SBC | True | False | 0 |
-| 0 | Al Ekhbaria | True | False | 0 |
-| 0 | Saudia Alaan TV | True | False | 0 |
-| 0 | KSA SPORTS 1 | True | False | 0 |
-| 0 | KSA SPORTS 2 | True | False | 0 |
-| 0 | KSA SPORTS 3 | True | False | 0 |
-| 0 | Hekayat | True | False | 0 |
-| 0 | Hekayat2 | True | False | 0 |
-| 0 | Aflam 1 | True | False | 0 |
-| 0 | Aflam 2 | True | False | 0 |
-| 0 | Cinema | True | False | 0 |
-| 0 | Jordan | True | False | 0 |
-| 0 | Jordan Sport HD | True | False | 0 |
-| 0 | ARZKR! | True | False | 0 |
-| 0 | Al-Khabar TV | True | False | 0 |
-| 0 | Almasalah | True | False | 0 |
-| 0 | Iraq Now | True | False | 0 |
-| 0 | Dijlah TV | True | False | 0 |
-| 0 | Zaytouna Radio &amp; TV | True | False | 0 |
-| 0 | a Konoz Alhayat | True | False | 0 |
-| 0 | kirkuk alan | True | False | 0 |
-| 0 | RT ARABIC SD | True | False | 0 |
-| 0 | Iqraa | True | False | 0 |
-| 0 | Cima | True | False | 0 |
-| 0 | ROYA | True | False | 0 |
-| 0 | Kunuz Al-Jannah | True | False | 0 |
-| 0 | ALHAQIQA | True | False | 0 |
-| 0 | Al-Etejah TV | True | False | 0 |
-| 0 | alnassr 24 tv | True | False | 0 |
-| 0 | SSad TV | True | False | 0 |
-| 0 | AL-adhamiya Iraq | True | False | 0 |
-| 0 | Mbcode TV | True | False | 0 |
-| 0 | El Adjwaa TV | True | False | 0 |
-| 0 | AL HADATH HD | True | False | 0 |
-| 0 | AL DAFRA HD | True | False | 0 |
-| 0 | Fujairah TV HD | True | False | 0 |
-| 0 | ZEE AFLAM | True | False | 0 |
-| 0 | Al Mashhad | True | False | 0 |
-| 0 | Arirang HD | True | False | 0 |
-| 0 | Al3ylh TV | True | False | 0 |
-| 0 | Home TV | True | False | 0 |
-| 0 | Elkhoulasa Drama | True | False | 0 |
-| 0 | Layali Zaman | True | False | 0 |
-| 0 | Alhara | True | False | 0 |
-| 0 | Altahoona | True | False | 0 |
-| 0 | Hogan TV | True | False | 0 |
-| 0 | Al Dawaar | True | False | 0 |
-| 0 | Altamselia | True | False | 0 |
-| 0 | Al Ostoura | True | False | 0 |
-| 0 | Drama Alyoom | True | False | 0 |
-| 0 | Nefertiti | True | False | 0 |
-| 0 | Dahab drama tv | True | False | 0 |
-| 0 | El Khoulasa Classic | True | False | 0 |
-| 0 | Time Zaman TV | True | False | 0 |
-| 0 | ALFA HEKAYAT | True | False | 0 |
-| 0 | Drama Be Alaraby | True | False | 0 |
-| 0 | Madah | True | False | 0 |
-| 0 | ALS3YDA MADEEH | True | False | 0 |
-| 0 | ALFA DRAMA | True | False | 0 |
-| 0 | ALFA CINEMA | True | False | 0 |
-| 0 | Hikayh TV | True | False | 0 |
-| 0 | Hala mosr3a | True | False | 0 |
-| 0 | Cleopatra TV | True | False | 0 |
-| 0 | DAHAB MOSALSALAT | True | False | 0 |
-| 0 | Alkarma New Generation | True | False | 0 |
-| 0 | SSBC (News &amp; MEDIA) | True | False | 0 |
-| 0 | Colorbars1 | True | False | 0 |
-| 0 | Colorbars | True | False | 0 |
-| 16385 | Sout Alkhaleej 2 | False | False | 10 |
-| 16386 | Sout Alkhaleej 3 | False | False | 11 |
-| 16387 | Sout Alkhaleej 4 | False | False | 12 |
-| 16388 | Sout Alkhaleej Europe | False | False | 13 |
-| 16389 | Qatar Radio | False | False | 21 |
-| 16390 | Qatar R Quran | False | False | 22 |
-| 16391 | Qatar Oryx Radio | False | False | 23 |
-| 16392 | Qatar QBS Radio | False | False | 24 |
-| 16393 | Qatar Urdu | False | False | 25 |
-| 16394 | Qatar R Quran 2 | False | False | 26 |
-| 16395 | Hola Qatar | False | False | 27 |
-| 16396 | al kafeel | False | False | 8020 |
-| 16397 | MCD Radio | False | False | 5930 |
-| 16398 | Sharjah Radio | False | False | 9 |
-| 16399 | Sharjah Quran | False | False | 10 |
-| 16400 | Pulse95 SHJ | False | False | 11 |
-| 16401 | WATAR SHJ | False | False | 12 |
-| 16402 | Kuwait Main Program | False | False | 11 |
-| 16403 | Kuwait Second Program | False | False | 12 |
-| 16404 | Kuwait Holy Quran | False | False | 13 |
-| 16405 | Kuwait Easy | False | False | 14 |
-| 16406 | Kuwait FM | False | False | 15 |
-| 16407 | Kuwait Super Station | False | False | 16 |
-| 16408 | Kuwait Old Arabic | False | False | 17 |
-| 16409 | Kuwait Dar Al-Ethaa | False | False | 18 |
-| 16410 | Kuwait Dana | False | False | 19 |
-| 16411 | Kuwait Al-Thikr Al-Hakeem | False | False | 20 |
-| 16412 | Radio Miraya | False | False | 4038 |
-| 16413 | Radio Sawt El Shaa | False | False | 49 |
-| 16414 | ERI Radio1 | False | False | 7330 |
-| 16415 | ERI Radio 2 | False | False | 7331 |
-| 16416 | ERI Radio 3 | False | False | 7332 |
-| 16417 | ERI Radio 4 | False | False | 7333 |
-| 16418 | Test | False | False | 7470 |
-| 16419 | Test | False | False | 7471 |
-| 16420 | Test | False | False | 7472 |
-| 16421 | Test | False | False | 7473 |
-| 16422 | European Radio | False | False | 2623 |
-| 16423 | SUMER FM | False | False | 19 |
-| 16424 | AL RASHEED RADIO | False | False | 20 |
-| 16425 | Radio Samar Sudan | False | False | 1027 |
-| 16426 | Radio Salam | False | False | 1028 |
-| 16427 | TWR Arabic إذاعة حول العاÙ | False | False | 1029 |
-| 16428 | RDK | False | False | 1032 |
-| 16429 | praisefm Global | False | False | 1035 |
-| 16430 | AL BACHAEER RADIO | False | False | 7020 |
-| 16431 | RADIO MARIAM ARABIC | False | False | 1203 |
-| 16432 | MBC FM | False | False | 14 |
-| 16433 | Panorama FM | False | False | 15 |
-| 16434 | Al Arabiya FM | False | False | 16 |
-| 16435 | Riyadh FM Split | False | False | 17 |
-| 16436 | Loud FM | False | False | 18 |
-| 16437 | Sahiroon Radio | False | False | 50 |
-| 16438 | Kan_Tarbut | False | False | 52 |
-| 16439 | ALJAWADAIN | False | False | 8000 |
-| 16440 | Nedaa El Islam | False | False | 2625 |
-| 16441 | Holy Quran Radio | False | False | 2620 |
-| 16442 | MBCFM SPLIT1 | False | False | 30 |
-| 16443 | MBCFM SPLIT2 | False | False | 31 |
-| 16444 | Nile FM | False | False | 1640 |
-| 16445 | Nogoum FM | False | False | 1641 |
-| 16446 | Radio Talavat | False | False | 1642 |
-| 16447 | Radio 03 World Service | False | False | 1643 |
-| 16448 | Test | False | False | 1644 |
-| 16449 | REVOLUTION-SYR | False | False | 2837 |
-| 16450 | Al QURAN-SYR | False | False | 2838 |
-| 16451 | Damascus-Radio | False | False | 2839 |
-| 16452 | Test | False | False | 2840 |
-| 16453 | Test | False | False | 616 |
-| 16454 | DRN Radio | False | False | 620 |
-| 16455 | BBC (A) | False | False | 621 |
-| 16456 | BBC (E) | False | False | 622 |
-| 16457 | Saudi Radio 1 | False | False | 2621 |
-| 16458 | Saudi Radio 2 | False | False | 2622 |
-| 16459 | AlSudania 2 Radio | False | False | 530 |
-| 16460 | Alkawther | False | False | 620 |
-| 16461 | Dongola Radio | False | False | 780 |
-| 16462 | Beladi FM | False | False | 510 |
-| 16463 | Alwadi quran | False | False | 570 |
-| 16464 | Ekhbaria | False | False | 2626 |
-| 16465 | DW-A2 | False | False | 2713 |
-| 16466 | DW05 | False | False | 2714 |
-| 16467 | AL-bernameg AL-aam | False | False | 551 |
-| 16468 | AL-Quran AL_Karem | False | False | 552 |
-| 16469 | Sout AL-arab | False | False | 553 |
-| 16470 | Test | False | False | 554 |
-| 16471 | AL-Sharg AL-awsat | False | False | 555 |
-| 16472 | AL-bernameg AL-orobi | False | False | 556 |
-| 16473 | Test | False | False | 557 |
-| 16474 | Test | False | False | 558 |
-| 16475 | AL-shabab W Al-reyadah | False | False | 559 |
-| 16476 | Test | False | False | 560 |
-| 16477 | Eductional channel | False | False | 561 |
-| 16478 | AL-Kahera Al-Kobra | False | False | 562 |
-| 16479 | AL-Bernameg AL-moussekey | False | False | 563 |
-| 16480 | AL-Aghani | False | False | 564 |
-| 16481 | AL-Menia | False | False | 565 |
-| 16482 | Wadi Al-Neil &amp; Palestine | False | False | 566 |
-| 16483 | Test | False | False | 567 |
-| 16484 | Matrouh | False | False | 568 |
-| 16485 | Test | False | False | 569 |
-| 16486 | North Sinai | False | False | 570 |
-| 16487 | South Sinai | False | False | 571 |
-| 16488 | Maspero FM &amp; Thakafy | False | False | 573 |
-| 16489 | ELRADIO 9090 | False | False | 579 |
-| 16490 | Mowajahat | False | False | 2627 |
-| 16491 | Bengali | False | False | 2628 |
-| 16492 | French | False | False | 2629 |
-| 16493 | Pishto | False | False | 2630 |
-| 16494 | Houna alazm | False | False | 2632 |
-| 16495 | Khozama | False | False | 2633 |
-| 16496 | TANASUH RADIO | False | False | 7334 |
-| 16497 | LIBYA IFTA RADIO | False | False | 7335 |
-| 16498 | Al Basra | False | False | 7336 |
-| 16499 | Test | False | False | 623 |
-| 16500 | Test | False | False | 624 |
-| 16501 | Test | False | False | 625 |
-| 16502 | Voice of Palestine | False | False | 5001 |
-| 16503 | Palestine Quraan | False | False | 5003 |
-| 16504 | Pal Quraan 2 | False | False | 5004 |
-| 16505 | Nablus Radio | False | False | 5005 |
-| 16506 | Athan Tulkarem | False | False | 5006 |
-| 16507 | ROJAVA FM | False | False | 1680 |
-| 16512 | Test | False | False | 626 |
-| 16513 | Test | False | False | 627 |
-| 16514 | Radio Masr | False | False | 650 |
-| 16515 | Test | False | False | 651 |
-| 16516 | Bakous Alexandaria | False | False | 652 |
-| 16517 | Aswan | False | False | 653 |
-| 16518 | BBC Horn of Africa | False | False | 654 |
-| 16519 | Mowagahat-8 | False | False | 655 |
-| 16520 | ALWadi ALGaded | False | False | 656 |
-| 16521 | Mowagahat-1 | False | False | 657 |
-| 16522 | Mowagahat-2 | False | False | 658 |
-| 16523 | Canal Radio | False | False | 675 |
-| 16524 | Test | False | False | 676 |
-| 16525 | Test | False | False | 1119 |
-| 16526 | Test | False | False | 1120 |
-| 16527 | Test | False | False | 1121 |
-| 16528 | Test | False | False | 1122 |
-| 16529 | Test | False | False | 1123 |
-| 16530 | Test | False | False | 1124 |
-| 16531 | Test | False | False | 1125 |
-| 16532 | Test | False | False | 1126 |
-| 16533 | Test | False | False | 1127 |
-| 16534 | Test | False | False | 1128 |
-| 16535 | Test | False | False | 1129 |
-| 16536 | Palestine Radio | False | False | 1130 |
-| 16537 | Test | False | False | 1817 |
-| 16538 | Test | False | False | 1818 |
-| 16539 | Radio Hits | False | False | 2230 |
-| 16540 | Yemen Radio | False | False | 50 |
-| 16541 | Mega FM | False | False | 2232 |
-| 16542 | Nagham FM | False | False | 2233 |
-| 16543 | Sha3by FM | False | False | 2234 |
-| 16544 | Jordan Radio | False | False | 790 |
-| 16545 | Quran Kareem Karak | False | False | 830 |
-| 16546 | Rotana FM KSA | False | False | 2120 |
-| 16547 | Test | False | False | 3231 |
-| 16548 | TCHAD Radio | False | False | 221 |
-| 16549 | Test | False | False | 3232 |
-| 16550 | Test | False | False | 3233 |
-| 16551 | Oman General Radio | False | False | 1215 |
-| 16552 | Radio Yaqeen Jordan | False | False | 843 |
-| 16553 | Quran Kareem Jordan | False | False | 803 |
-| 16554 | Sawt Al-alam | False | False | 812 |
-| 16555 | Rotana Tarab Jordan | False | False | 840 |
-| 16556 | Rotana Radio Jordan | False | False | 841 |
-| 16557 | Radio Fann Jordan | False | False | 842 |
-| 16558 | Oman Shabab Radio | False | False | 1216 |
-| 16559 | Oman English Radio | False | False | 1217 |
-| 16560 | Oman HolyQuran Radio | False | False | 1218 |
-| 16561 | Oman Classic Radio | False | False | 1219 |
-| 16562 | Sawtoman Raido | False | False | 1220 |
-| 16563 | Umdorman Radio | False | False | 131 |
-| 16564 | Test | False | False | 130 |
-| 16565 | Test | False | False | 132 |
-| 16566 | Test | False | False | 133 |
-| 16567 | AL AMAL | False | False | 330 |
-| 16568 | Radio alomma | False | False | 7337 |
-| 16569 | Abu Dhabi FM | False | False | 11 |
-| 16570 | Emarat FM | False | False | 12 |
-| 16571 | CHAINE 1 | False | False | 11 |
-| 16572 | CHAINE 2 | False | False | 12 |
-| 16573 | RADI0_CHAINE 3 | False | False | 13 |
-| 16574 | RADIO DECROCHAGE | False | False | 14 |
-| 16575 | RADIO CULTURE | False | False | 16 |
-| 16576 | RADIO INTERNATIONALE | False | False | 17 |
-| 16577 | Ifrikya FM | False | False | 18 |
-| 16578 | RADIO JEUNESSE | False | False | 19 |
-| 16579 | RADIO CORAN | False | False | 20 |
-| 16580 | ZAMEN FM | False | False | 24 |
-| 16581 | Quran Kareem Ajloun | False | False | 844 |
-| 16582 | Quran Kareem Al-Balqa | False | False | 846 |
-| 16583 | Quran Kareem Aqaba | False | False | 849 |
-| 16584 | Quran Kareem ma'an | False | False | 850 |
-| 16585 | Aghwar Shamaliah | False | False | 855 |
-| 16586 | Quran Kareem | False | False | 13 |
-| 16587 | Star FM | False | False | 14 |
-| 16588 | Radio 1 | False | False | 15 |
-| 16589 | Radio 2 | False | False | 16 |
-| 16590 | Kadak | False | False | 17 |
-| 16591 | Calssic | False | False | 18 |
-| 16592 | ADM R1 | False | False | 19 |
-| 16593 | ADM R2 | False | False | 20 |
-| 16594 | ADM R3 | False | False | 21 |
-| 16595 | ADM R4 | False | False | 22 |
-| 16596 | ARTA Radio | False | False | 102 |
-| 16597 | Tafilah Radio | False | False | 856 |
-| 16598 | Radio 21 September | False | False | 1030 |
-| 16599 | Kan_Bet | False | False | 53 |
-| 16600 | Kan_Gimel | False | False | 54 |
-| 16601 | Kan_Makan | False | False | 55 |
-| 16602 | Kan_Reka | False | False | 56 |
-| 16603 | Kan_Homusica | False | False | 57 |
-| 16604 | Kan_Moreshet | False | False | 58 |
-| 16605 | Kan88 | False | False | 59 |
-| 16606 | Al Khartoum Radio | False | False | 580 |
-| 16607 | White Nile State Radio | False | False | 610 |
-| 16608 | Radio AL Wasat | False | False | 845 |
-| 16384 | MBC FM | True | False | 0 |
-| 16384 | Panorama FM | True | False | 0 |
-| 16384 | Al Arabiya FM | True | False | 0 |
-| 16384 | Riyadh FM Split | True | False | 0 |
-| 16384 | Loud FM | True | False | 0 |
-| 16384 | MBCFM SPLIT1 | True | False | 0 |
-| 16384 | MBCFM SPLIT2 | True | False | 0 |
-| 16384 | European Radio | True | False | 0 |
-| 16384 | Nedaa El Islam | True | False | 0 |
-| 16384 | Holy Quran Radio | True | False | 0 |
-| 16384 | Saudi Radio 1 | True | False | 0 |
-| 16384 | Saudi Radio 2 | True | False | 0 |
-| 16384 | Ekhbaria | True | False | 0 |
-| 16384 | Mowajahat | True | False | 0 |
-| 16384 | Bengali | True | False | 0 |
-| 16384 | French | True | False | 0 |
-| 16384 | Pishto | True | False | 0 |
-| 16384 | Houna alazm | True | False | 0 |
-| 16384 | Jordan Radio | True | False | 0 |
-| 16384 | Quran Kareem Karak | True | False | 0 |
-| 16384 | VOA 24 | True | False | 0 |
-| 16384 | Zayed Quran | True | False | 0 |
-| 16384 | Fujairah FM | True | False | 0 |
+| Channel Number | Channel Name | Program Num |
+| --- | --- | --- |
+| 1 | ARIRANG | 13 |
+| 2 | Test | 592 |
+| 3 | Al-Majd3 | 2218 |
+| 4 | Misr Quran Kareem | 209 |
+| 5 | ON E HD | 202 |
+| 6 | ON Drama | 208 |
+| 7 | dmc HD | 4901 |
+| 8 | dmc drama | 4905 |
+| 9 | MBC Masr HD | 20 |
+| 10 | MBC Masr 2 | 1106 |
+| 11 | MBC Action | 10 |
+| 12 | MBC Bollywood | 8 |
+| 13 | Sada El Balad | 1114 |
+| 14 | Sada El Balad 2 | 1115 |
+| 15 | Sada ElBalad 3 | 1113 |
+| 16 | Al Kahera Wal Nas | 490 |
+| 17 | Al Kahera Wal Nas +2 | 1301 |
+| 18 | Nile Drama | 606 |
+| 19 | Nile Cinema | 614 |
+| 20 | Nile Comedy | 604 |
+| 21 | Nile Sport | 607 |
+| 22 | Al-Nahar One | 1801 |
+| 23 | Al-Nahar Drama | 1802 |
+| 24 | CBC | 1803 |
+| 25 | CBC Drama | 1805 |
+| 26 | CBC Sofra | 1804 |
+| 27 | AL Oula HD | 502 |
+| 28 | beIN SPORTS | 2106 |
+| 29 | ONTIME SPORTS2 HD | 201 |
+| 30 | Mazzika | 1605 |
+| 31 | ZEE ALWAN. | 6 |
+| 32 | Alhayat 2 | 1311 |
+| 33 | AlHayat HD | 3208 |
+| 34 | Nawader TV | 8021 |
+| 35 | Panorama Drama 2 | 2208 |
+| 36 | MBC Drama | 6 |
+| 37 | MBC MASR | 1306 |
+| 38 | TeN TV | 601 |
+| 39 | ALFATH TV | 1602 |
+| 40 | ELMEHWAR-HD | 7308 |
+| 41 | Misr ElBald | 18 |
+| 42 | Rotana Classic | 2104 |
+| 43 | Rotana Khalijia | 2103 |
+| 44 | Rotana Drama | 2105 |
+| 45 | Rotana Music | 2101 |
+| 46 | Rotana Clip | 2102 |
+| 47 | Rotana Cinema EGY | 2106 |
+| 48 | Rotana Cinema KSA | 2107 |
+| 49 | Rotana Cinema EGY HD | 2110 |
+| 50 | ZEE ALWAN Egypt | 7 |
+| 51 | ZEE AFLAM | 5 |
+| 52 | One Movies | 6610 |
+| 53 | MBC MASR HD | 101 |
+| 54 | MBC MASR 2 HD | 102 |
+| 55 | MBC IRAQ HD | 105 |
+| 56 | MBC 4 | 5 |
+| 57 | MBC 2 | 9 |
+| 58 | MBC 1 | 4 |
+| 59 | Moga Drama | 3830 |
+| 60 | Maspero Zaman | 615 |
+| 61 | Alhayat Muslsalat | 1807 |
+| 62 | thmanyah.1 | 107 |
+| 63 | thmanyah.2 | 108 |
+| 64 | thmanyah.3 | 109 |
+| 65 | Nile News HD | 612 |
+| 66 | Nile TV | 2205 |
+| 67 | Nile Family | 505 |
+| 68 | Nile Culture | 506 |
+| 69 | Nile Life | 605 |
+| 70 | Panorama Drama | 2207 |
+| 71 | Al Jazeera HD | 501 |
+| 72 | Mix One | 630 |
+| 73 | Cima | 701 |
+| 74 | Panorama Film | 2209 |
+| 75 | Panorama Food | 2210 |
+| 76 | SPACETOON ARABIC | 1808 |
+| 77 | ELMOLED | 8033 |
+| 78 | ONTIME SPORTS | 207 |
+| 79 | dmc masraheyat | 4908 |
+| 80 | Al Ostoura | 224 |
+| 81 | Telefzyon Zaman | 14 |
+| 82 | Al Masryia HD | 2204 |
+| 83 | MBC 3 | 11 |
+| 84 | Extra News HD | 2301 |
+| 85 | Egyptian TV HD | 1105 |
+| 86 | Al Nas | 2212 |
+| 87 | AL Resala | 2109 |
+| 88 | Al Fath Sonnah TV | 1607 |
+| 89 | AL NADA TV | 2213 |
+| 90 | Palestine Today | 8031 |
+| 91 | AL Shams | 2201 |
+| 92 | EL MAHROUSA TV | 8012 |
+| 93 | Alhara | 211 |
+| 94 | AL SABAH | 2811 |
+| 95 | CN ARABIA | 12 |
+| 96 | AL RAHMA | 8001 |
+| 97 | Saudi CH For Quran | 5601 |
+| 98 | Madrastna 1 | 2304 |
+| 99 | ALKAHERA | 7401 |
+| 100 | Outdoor Channel | 503 |
+| 101 | Misr Al Zera3eya | 1603 |
+| 102 | Tunisia Nat1 HD | 8007 |
+| 103 | TRT KURDI | 8006 |
+| 104 | AL Masryia SD | 7407 |
+| 105 | Test | 618 |
+| 106 | etc | 1314 |
+| 107 | Altahoona | 218 |
+| 108 | Test | 101 |
+| 109 | ONTIME SPORTS HD | 203 |
+| 110 | beIN SPORTS XTRA 8 | 2202 |
+| 111 | France 24 (in Arabic) | 5940 |
+| 112 | Iraq EDU 5 | 705 |
+| 113 | Saudi CH For Sunnah | 5602 |
+| 114 | MDEEH | 109 |
+| 115 | Althanya | 2206 |
+| 116 | ALMAYADEEN PLUS | 8 |
+| 117 | Ayozat TV | 512 |
+| 118 | Makkah TV | 4102 |
+| 119 | Azhari | 515 |
+| 120 | Test | 112 |
+| 121 | Beity TV | 700 |
+| 122 | Madah | 235 |
+| 123 | Elkholasa mosalsalat | 8004 |
+| 124 | Drama Be Alaraby | 234 |
+| 125 | Layali Zaman | 209 |
+| 126 | ALKANAL | 7402 |
+| 127 | Hikayh TV | 241 |
+| 128 | ALASKANDRIA | 7403 |
+| 129 | ALDELTA | 7404 |
+| 130 | ALSA3EED | 7405 |
+| 131 | TEBA | 7406 |
+| 132 | One America News Network | 501 |
+| 133 | ELMEHWAR | 1111 |
+| 134 | ALFA HEKAYAT | 232 |
+| 135 | MVMT Movement of Culture | 508 |
+| 136 | Time Zaman TV | 231 |
+| 137 | Iraq EDU 4 | 704 |
+| 138 | Madrastna 3 | 3216 |
+| 139 | Nefertiti | 202 |
+| 140 | Al Dawaar | 221 |
+| 141 | Wild TV | 511 |
+| 142 | Dahab drama tv | 229 |
+| 143 | Baywatch | 510 |
+| 144 | Iraq EDU 2 | 702 |
+| 145 | Nogoum FM TV | 1616 |
+| 146 | World Fishing Network | 507 |
+| 147 | Mix Bel Araby | 2812 |
+| 148 | Sports First | 509 |
+| 149 | Iraq EDU 1 | 701 |
+| 150 | Almasrawya TV | 8023 |
+| 151 | Iraq EDU 6 | 706 |
+| 152 | ALS3YDA MADEEH | 236 |
+| 153 | ALFA CINEMA | 240 |
+| 154 | Drama Alyoom | 225 |
+| 155 | Iraq EDU 3 | 703 |
+| 156 | Oscar TV | 2202 |
+| 157 | Samira TV | 2039 |
+| 158 | Al3ylh TV | 206 |
+| 159 | Cleopatra TV | 247 |
+| 160 | Hala mosr3a | 245 |
+| 161 | AlHayat 3 | 3209 |
+| 162 | Al Jazeera Documentary HD | 504 |
+| 163 | Mix | 1809 |
+| 164 | El Khoulasa Classic | 230 |
+| 165 | Dubai One | 4719 |
+| 166 | Iraq EDU 7 | 707 |
+| 167 | Home TV | 207 |
+| 168 | AlHayat Sport | 3211 |
+| 169 | Hogan TV | 219 |
+| 170 | B4U PLUS | 8 |
+| 171 | Test | 2307 |
+| 172 | Zamalek Sports | 4904 |
+| 173 | Al Wathaeqya | 2306 |
+| 174 | Dubai TV | 4710 |
+| 175 | Dubai Sports 2 | 4713 |
+| 176 | Dubai Sports 3 | 4714 |
+| 177 | Dubai Racing 2 | 4715 |
+| 178 | Dubai Racing 3 | 4716 |
+| 179 | LIBYA SPORT 1 HD | 525 |
+| 180 | Libya Sport 2 HD | 2302 |
+| 181 | Alkass one HD | 2501 |
+| 182 | Alkass two HD | 2502 |
+| 183 | Alkass three HD | 2503 |
+| 184 | Alkass four HD | 2507 |
+| 185 | SBC | 2603 |
+| 186 | Thikrayatt | 2602 |
+| 187 | Sky News Arabia | 2005 |
+| 188 | Iraqia Sport HD | 7207 |
+| 189 | Oman TV Sport HD | 1202 |
+| 190 | Al Jazeera English HD | 503 |
+| 191 | Al Jazeera Mubasher 2 HD | 505 |
+| 192 | Al Jazeera Mubasher HD | 502 |
+| 193 | Qatar TV HD | 4 |
+| 194 | Qatar 2 | 2 |
+| 195 | Tunisia Nat2 HD | 8044 |
+| 196 | IMAM HUSSEIN TV 2 | 4010 |
+| 197 | MANU CHAT | 4013 |
+| 198 | ALAMAL TV | 8020 |
+| 199 | Sharjah HD | 1 |
+| 200 | Sharjah SD | 2 |
+| 201 | Sharqiya from Kalba HD | 3 |
+| 202 | Al Wousta from Al Dhaid HD | 5 |
+| 203 | Sharjah Sport HD | 6 |
+| 204 | Sharjah Quran TV | 8 |
+| 205 | Sharjah Sport 2 HD | 13 |
+| 206 | Kuwait TV 1 | 1101 |
+| 207 | Al-AKHBAR | 1102 |
+| 208 | Kuwait TV 2 | 1103 |
+| 209 | Kuwait Sports | 1104 |
+| 210 | Kuwait Sport plus | 1105 |
+| 211 | MUSIC IRAQ | 4022 |
+| 212 | Iraqi Drama | 4035 |
+| 213 | AL SALAM TV | 4036 |
+| 214 | CSAT | 5911 |
+| 215 | Sama Dubai | 4711 |
+| 216 | Dubai Sports 1 | 4712 |
+| 217 | Al Mawsleya HD | 7301 |
+| 218 | Al Basra | 7302 |
+| 219 | Libya Almustaqbal | 7303 |
+| 220 | LIBYA ALMOKHTAR | 7304 |
+| 221 | BIN OTHAIMEEN | 7305 |
+| 222 | Eriteria TV | 7306 |
+| 223 | Test | 7307 |
+| 224 | TANASUH TV | 7309 |
+| 225 | Alerth-Alnbawi | 7310 |
+| 226 | LIBYA IFTA TV | 7311 |
+| 227 | TANASUH EDUCATION TV | 7312 |
+| 228 | Kaifa | 7313 |
+| 229 | Misk Syria | 7314 |
+| 230 | Test | 7315 |
+| 231 | Al Forat HD | 7316 |
+| 232 | CNBC ARABIYA | 7317 |
+| 233 | Nilesat Feed | 7318 |
+| 234 | Test | 7319 |
+| 235 | CNN | 7320 |
+| 236 | ISC | 7321 |
+| 237 | Test | 7322 |
+| 238 | Cartoon Network | 7323 |
+| 239 | Diwan | 7408 |
+| 240 | Madrastna 2 | 7409 |
+| 241 | EDUC 1 | 7410 |
+| 242 | Sudan Basic Edu | 7411 |
+| 243 | Learning passport SD1 | 7412 |
+| 244 | Learning passport SD2 | 7413 |
+| 245 | ALASSEMA | 7414 |
+| 246 | LTV | 9 |
+| 247 | ZAD TV | 10 |
+| 248 | KBS WORLD | 14 |
+| 249 | AL SHARQIYA HD | 1 |
+| 250 | AL RASHEED TV HD | 4 |
+| 251 | AL SUMARIA HD | 5 |
+| 252 | IRAQ 24 | 6 |
+| 253 | CHADA TV | 8 |
+| 254 | CATV | 16 |
+| 255 | BAGHDAD TV | 12 |
+| 256 | TEST_CB | 25 |
+| 257 | Asharq News  Channel | 17 |
+| 258 | AVA TV | 1001 |
+| 259 | UTV Iraq HD | 1002 |
+| 260 | K24 HD | 1005 |
+| 261 | KURDISTAN TV | 1007 |
+| 262 | ZAGROS TV HD | 1009 |
+| 263 | CIRA TV | 1010 |
+| 264 | Ronahi TV | 1011 |
+| 265 | PAYAM TV HD | 1012 |
+| 266 | BANGAWAZ TV | 1013 |
+| 267 | SAT-7 KIDS | 1015 |
+| 268 | SAT-7 ARABIC | 1016 |
+| 269 | AlKarma Praise | 1017 |
+| 270 | Aryen TV | 1019 |
+| 271 | ZAROK TV HD | 1021 |
+| 272 | YEMEN SHABAB | 7000 |
+| 273 | Alkarma Discipleship | 7002 |
+| 274 | AL MAYADEEN TV | 7003 |
+| 275 | Al Hayat | 7006 |
+| 276 | BELQEES | 7008 |
+| 277 | SBN Global | 7009 |
+| 278 | MTA3 | 7010 |
+| 279 | Aliman TV | 7012 |
+| 280 | TRT Arabi | 7025 |
+| 281 | ALWATAN TV | 7026 |
+| 282 | Karameesh TV | 1201 |
+| 283 | ZAYTOONA | 1204 |
+| 284 | AL-MUSTAKILA | 1205 |
+| 285 | Wanasat Baby | 1206 |
+| 286 | M24 MAROC | 1208 |
+| 287 | Aden Almustakilla | 1210 |
+| 288 | Eutelsat Data 1 | 1290 |
+| 289 | Al Hadath | 2 |
+| 290 | Al Arabiya | 3 |
+| 291 | TEST | 7 |
+| 292 | Al Arabiya Business | 12 |
+| 293 | Shopping 3 | 22 |
+| 294 | Test | 23 |
+| 295 | OTA | 6660 |
+| 296 | OTA 2 | 6661 |
+| 297 | OTA 1 | 6662 |
+| 298 | Hooosh TV | 37 |
+| 299 | MAKAN | 51 |
+| 300 | Speda TV HD | 1 |
+| 301 | Alkarma ME 1 | 2 |
+| 302 | JIN TV HD | 2 |
+| 303 | Imam Ali TV | 5 |
+| 304 | Med Music | 8 |
+| 305 | Mereja TV | 10 |
+| 306 | STERK TV HD | 11 |
+| 307 | Africa TV 1 | 13 |
+| 308 | Africa TV 1 Quran | 15 |
+| 309 | TV ISLAAMA | 19 |
+| 310 | NRT HD | 20 |
+| 311 | Amozhgary TV | 21 |
+| 312 | DAEWA TV | 22 |
+| 313 | Hamiltan TV | 25 |
+| 314 | Kurdsat HD | 29 |
+| 315 | Kurdsat News | 30 |
+| 316 | Al Karama News | 32 |
+| 317 | NRT 2 HD | 33 |
+| 318 | Al Khaleej 24 | 14 |
+| 319 | Al Watania 24 | 43 |
+| 320 | Suroyo TV | 46 |
+| 321 | Rojava HD | 23 |
+| 322 | Sukariya hekayat | 6440 |
+| 323 | AL SHASHA CINEMA | 6460 |
+| 324 | AL SHASHA MOSLSLAT | 6470 |
+| 325 | Sukariya cinema | 6480 |
+| 326 | Fox Be Elaraby TV | 6490 |
+| 327 | Dabanga TV | 6111 |
+| 328 | beIN 4K | 2201 |
+| 329 | Sukariya zaman | 6500 |
+| 330 | Fox Movies | 6510 |
+| 331 | West Elbalad Zaman | 6520 |
+| 332 | Beirut Aflam | 6530 |
+| 333 | Beirut Alyoom | 6540 |
+| 334 | Beirut Cinema | 6550 |
+| 335 | El Omda Al yom | 6560 |
+| 336 | Beirut Drama | 6570 |
+| 337 | AL SHASHA  ALWAN | 6580 |
+| 338 | West Elbalad Drama | 6590 |
+| 339 | Alking Drama TV | 6600 |
+| 340 | Melody Drama | 6660 |
+| 341 | Alrai TV | 6670 |
+| 342 | Al Sukariya Classic | 6690 |
+| 343 | Melody Aflam | 7010 |
+| 344 | Dolly Mosalsalat | 7060 |
+| 345 | Cookies Kids TV | 7070 |
+| 346 | BaBy Kids TV | 7090 |
+| 347 | AL SHASHA  DRAMA | 8020 |
+| 348 | AL SHASHA  HEKAYAT | 8030 |
+| 349 | AL SHASHA  FILM | 8060 |
+| 350 | Elzaeem Drama | 8070 |
+| 351 | Sukariya drama | 8080 |
+| 352 | Elzaeem Cinema | 8090 |
+| 353 | Alking Aflam | 8110 |
+| 354 | El Omda Aflam | 8140 |
+| 355 | El Omda Drama | 8150 |
+| 356 | One Drama | 8160 |
+| 357 | beIN SPORTS XTRA 9 | 2203 |
+| 358 | Cairo Plus Cinema | 6640 |
+| 359 | CHANNEL8 | 6620 |
+| 360 | Cairo Plus Drama | 6650 |
+| 361 | M classic | 7000 |
+| 362 | Dolly Drama | 7050 |
+| 363 | beIN SPORTS MAX 4 | 2204 |
+| 364 | Dolly Alyoom | 7080 |
+| 365 | Dolly cinema | 8040 |
+| 366 | Dolly movies | 8100 |
+| 367 | Cairo Plus Alyoum | 8130 |
+| 368 | Al Sahat | 4 |
+| 369 | Mahdi has appeared TV | 5 |
+| 370 | beIN SPORTS XTRA 6 | 2205 |
+| 371 | spare | 2206 |
+| 372 | spare | 2207 |
+| 373 | spare | 2208 |
+| 374 | Asharq Documentary | 18 |
+| 375 | Iraqia News HD | 7201 |
+| 376 | Iraqia Turkuman | 7205 |
+| 377 | Iraqia Kurd | 7206 |
+| 378 | programme nationale HD | 1 |
+| 379 | 5 KIDS | 1592 |
+| 380 | TV5 | 1601 |
+| 381 | Al Kawthar HD | 1604 |
+| 382 | AlSaeedah | 1608 |
+| 383 | Test | 1609 |
+| 384 | Test | 1610 |
+| 385 | I Film Arabic | 1611 |
+| 386 | Al Ghad HD | 1617 |
+| 387 | Al Fath Al3amh | 1618 |
+| 388 | Al Alam HD | 1619 |
+| 389 | Test | 2801 |
+| 390 | Press TV HD | 2802 |
+| 391 | Test | 2803 |
+| 392 | LJBC | 2804 |
+| 393 | Test | 2805 |
+| 394 | Test | 2813 |
+| 395 | BAGHDAD TV | 2819 |
+| 396 | LIBYA ALHADATH HD | 2821 |
+| 397 | Syria News HD | 2822 |
+| 398 | AlAraby2 | 2823 |
+| 399 | Test | 2824 |
+| 400 | Test | 2825 |
+| 401 | Al Thania | 2826 |
+| 402 | Syria TV 01 | 2827 |
+| 403 | Test | 2828 |
+| 404 | Test | 600 |
+| 405 | Test | 602 |
+| 406 | Nile News | 603 |
+| 407 | Test | 1102 |
+| 408 | Extra News | 1806 |
+| 409 | HYA | 1810 |
+| 410 | Test | 489 |
+| 411 | CGTN | 1302 |
+| 412 | Sahar Kurdi | 1303 |
+| 413 | Libya Alrasmia | 1304 |
+| 414 | Lebanon TV | 1305 |
+| 415 | HADRAMAUT TV | 1307 |
+| 416 | 2M Maroc | 1308 |
+| 417 | Aden TV | 1309 |
+| 418 | CGTN-Arabic | 1310 |
+| 419 | Al Shams Drama | 1312 |
+| 420 | Test | 1313 |
+| 421 | Test | 1315 |
+| 422 | Test | 491 |
+| 423 | AL oula | 501 |
+| 424 | Test | 503 |
+| 425 | Test | 507 |
+| 426 | Test | 508 |
+| 427 | SABA HD | 510 |
+| 428 | BBC News TV | 522 |
+| 429 | Libya Alwataniya | 524 |
+| 430 | ALHAWYAH TV | 6 |
+| 431 | beIN SPORTS EN 1 | 2301 |
+| 432 | beIN SPORTS EN 2 | 2302 |
+| 433 | beIN SPORTS FR 2 | 2304 |
+| 434 | beIN SPORTS FR 1 | 2303 |
+| 435 | beIN SPORTS MAX 2 | 2305 |
+| 436 | beIN SPORTS XTRA 7 | 2306 |
+| 437 | beIN 4K | 2401 |
+| 438 | Asharq News Channel HD | 101 |
+| 439 | Asharq Documentary HD | 102 |
+| 440 | Asharq Discovery HD | 103 |
+| 441 | Alkarma New Generation | 250 |
+| 442 | Iraqia Ent HD | 7209 |
+| 443 | Radio AL-Iraqia | 7210 |
+| 444 | Radio AI-Forqan | 7211 |
+| 445 | Radio Baghdad | 7212 |
+| 446 | Iraqia Syriac HD | 7220 |
+| 447 | Iraqi interior radio | 7227 |
+| 448 | DAHAB MOSALSALAT | 249 |
+| 449 | Elkhoulasa Drama | 208 |
+| 450 | SSBC (News &amp; MEDIA) | 251 |
+| 451 | ALFA DRAMA | 239 |
+| 452 | Altamselia | 222 |
+| 453 | Al Rayyan HD | 510 |
+| 454 | Al Rayyan Al Qadeem HD | 511 |
+| 455 | BN TV | 590 |
+| 456 | AL-GEZIRA TV | 600 |
+| 457 | Ashorooq TV | 630 |
+| 458 | Kanon TV Sudan | 640 |
+| 459 | Alzrga | 670 |
+| 460 | Shamalia TV | 680 |
+| 461 | Khartoum-TV | 790 |
+| 462 | Ahwas State TV | 800 |
+| 463 | Kassala TV | 840 |
+| 464 | Samarra tv | 1010 |
+| 465 | Huna Aliraq | 1020 |
+| 466 | Barq TV | 1030 |
+| 467 | Zoom TV | 1040 |
+| 468 | iKA TV | 1050 |
+| 469 | Salahden TV | 1060 |
+| 470 | Al-Bawadi | 1070 |
+| 471 | Marina TV HD | 1080 |
+| 472 | Al-Shahed TV HD | 1100 |
+| 473 | YEMENIA TV | 1110 |
+| 474 | ALMADANIAH TV | 1130 |
+| 475 | falestinona TV | 1140 |
+| 476 | Awazna1 | 1150 |
+| 477 | ALWESAM  TV | 1160 |
+| 478 | Nabd | 1170 |
+| 479 | Albalad TV | 1190 |
+| 480 | River Nile TV | 540 |
+| 481 | ABC-ALKhalijia TV | 500 |
+| 482 | Asil TV | 4730 |
+| 483 | WAAR HD | 4740 |
+| 484 | UTV Iraq | 4750 |
+| 485 | Alnajaf Alashraf tv | 4800 |
+| 486 | Saout alaqila | 4900 |
+| 487 | Palestine | 4910 |
+| 488 | MASSAYA TV | 5000 |
+| 489 | AL MALAKOOT SATTHE KINGDOM SAT | 5920 |
+| 490 | ALWAQIE TV HD | 5950 |
+| 491 | Al-Awhad TV | 6450 |
+| 492 | Kidsy | 4850 |
+| 493 | Reef Alyemen | 3 |
+| 494 | AGHAPY TV | 4 |
+| 495 | Top Drama | 5 |
+| 496 | TOP Zaman | 7 |
+| 497 | Libya al Ahrar HD | 11 |
+| 498 | Hawa Baghdad Drama | 19 |
+| 499 | beIN SPORTS 1 | 2001 |
+| 500 | beIN SPORTS 2 | 2002 |
+| 501 | Libya Al Hedaya TV | 2303 |
+| 502 | Libya Radio Quran Karem | 2305 |
+| 503 | Syria News SD | 2308 |
+| 504 | LBC SAT | 2108 |
+| 505 | Almagd TV | 22 |
+| 506 | Al Karma Family | 27 |
+| 507 | TCTT | 36 |
+| 508 | Alkalema | 41 |
+| 509 | The Grace TV | 49 |
+| 510 | Alsay3da | 50 |
+| 511 | Noursat | 54 |
+| 512 | Beit ElDrama | 56 |
+| 513 | Al Quds Al Yawm | 6 |
+| 514 | Alatawla Cinema | 2 |
+| 515 | El Khoulasa Cinema | 9 |
+| 516 | Alatwla Drama | 12 |
+| 517 | Alatawla Hekayat | 15 |
+| 518 | Almasirah HD | 13 |
+| 519 | Noursat AlChabab | 38 |
+| 520 | Alhwanem Drama | 34 |
+| 521 | Al Basira | 16 |
+| 522 | AB IRAQ TV | 10 |
+| 523 | EL WAHA DRAMA | 46 |
+| 524 | Test | 2111 |
+| 525 | Saudi TV | 2601 |
+| 526 | Al Ekhbaria | 2604 |
+| 527 | Saudia Alaan TV | 2605 |
+| 528 | AL NAHRAIN TV | 703 |
+| 529 |  | 705 |
+| 530 | Al Araby 2 HD | 706 |
+| 531 | Test | 708 |
+| 532 |  | 709 |
+| 533 | Jordan Sport HD | 714 |
+| 534 | Iraq Now | 738 |
+| 535 | a Konoz Alhayat | 805 |
+| 536 | RT ARABIC SD | 828 |
+| 537 | ARZKR! | 721 |
+| 538 | kirkuk alan | 809 |
+| 539 | beIN SPORTS 3 | 2003 |
+| 540 | beIN SPORTS 5 | 2004 |
+| 541 | beIN SPORTS MAX 3 | 2005 |
+| 542 | beIN SPORTS MAX 2 | 2006 |
+| 543 | beIN SPORTS MAX 2 | 2007 |
+| 544 | beIN SPORTS XTRA 5 | 2008 |
+| 545 | beIN SPORTS 6 | 2101 |
+| 546 | beIN SPORTS 4 | 2102 |
+| 547 | beIN SPORTS 8 | 2103 |
+| 548 | beIN SPORTS XTRA 3 | 2104 |
+| 549 | beIN SPORTS 7 | 2105 |
+| 550 |  | 10031 |
+| 551 |  | 10032 |
+| 552 | Horus  Drama | 8 |
+| 553 | Alfady | 14 |
+| 554 | Al Horreya | 15 |
+| 555 | Almasirah Mubashar | 16 |
+| 556 | AnwarTV2 | 17 |
+| 557 | ALLAHDAH TV | 21 |
+| 558 | Logos TV | 23 |
+| 559 | Koogi | 26 |
+| 560 | Libya WTV HD | 28 |
+| 561 | ALMASIRAH TV | 32 |
+| 562 | Iraq Future | 35 |
+| 563 | Nour Mariam | 38 |
+| 564 | Al Ons TV | 40 |
+| 565 | Nour Al Sharq | 44 |
+| 566 | Nour Koddass | 45 |
+| 567 | SALVATION TV MENA | 3 |
+| 568 | Loveworld Arabic | 1 |
+| 569 | Yemen TV HD | 7 |
+| 570 | North Africa | 10 |
+| 571 | Al Ghadeer | 4 |
+| 572 | ALNOJABA TV | 12 |
+| 573 | AL SHARQIYA NEWS HD | 33 |
+| 574 | RUDAW TV | 36 |
+| 575 | AL AYAM HD | 44 |
+| 576 | Yemen Documentary | 2718 |
+| 577 | Sheba | 2719 |
+| 578 | Al Eman | 2720 |
+| 579 | Aden | 2721 |
+| 580 | Sat.tv demo loop | 2798 |
+| 581 | Al Yawm | 2701 |
+| 582 | Al Safwa | 2702 |
+| 583 | Cinema 1 | 2703 |
+| 584 | Cinema 2 | 2704 |
+| 585 | Series +2 HD | 2705 |
+| 586 | Series Channel HD | 2706 |
+| 587 | Fann | 2707 |
+| 588 | Music Now | 2708 |
+| 589 | Tarabiyat Radio | 2709 |
+| 590 | Alfa Khalijiyat Radio | 2710 |
+| 591 | World Fashion Channel | 101 |
+| 592 | Al Qamar HD | 103 |
+| 593 | Kartoon channel | 107 |
+| 594 | Al3elaj Alrohany TV | 109 |
+| 595 | GB News | 110 |
+| 596 | Music India | 111 |
+| 597 | BERBERE TV | 1503 |
+| 598 | Eutelsat Data 1 | 1590 |
+| 599 | Al Rabiaa TV | 49 |
+| 600 | SABA WORLD PROMO | 50 |
+| 601 | AL AHAD HD | 51 |
+| 602 | AL AHAD VOICE | 52 |
+| 603 | Vatican Radio | 53 |
+| 604 | Test 1 | 54 |
+| 605 | Iraq Al Hadath HD | 55 |
+| 606 | beIN SPORTS XTRA 7 | 2009 |
+| 607 | Monawaat Radio | 2711 |
+| 608 | DW Arabia HD | 2712 |
+| 609 | Test | 1001 |
+| 610 | Test | 1002 |
+| 611 | Test | 1003 |
+| 612 | Test | 1004 |
+| 613 | Test | 1005 |
+| 614 | Test | 1006 |
+| 615 | Test | 1007 |
+| 616 | Test | 1008 |
+| 617 | Test | 1009 |
+| 618 | Test | 1010 |
+| 619 | KSA SPORTS 1 | 5603 |
+| 620 | KSA SPORTS 2 | 5604 |
+| 621 | KSA SPORTS 3 | 5605 |
+| 622 | dmc | 4902 |
+| 623 | CBC HD | 4903 |
+| 624 | Extra Live SD | 4906 |
+| 625 | Alkass two HD | 2402 |
+| 626 | Alkass three HD | 2403 |
+| 627 | beIN SPORTS MAX 6 | 2415 |
+| 628 | Spare | 2409 |
+| 629 | beIN SPORTS 9 | 2410 |
+| 630 | beIN SPORTS NEWS | 2411 |
+| 631 | Test-3 | 2407 |
+| 632 | N Africa | 712 |
+| 633 | beIN SPORTS XTRA 4 | 2408 |
+| 634 | Test | 2002 |
+| 635 | Al Qahera News SD | 102 |
+| 636 | Asharq Discovery | 19 |
+| 637 | Test | 4907 |
+| 638 | Energy FM | 4921 |
+| 639 | Test | 2003 |
+| 640 | SAT.TV | 2716 |
+| 641 | Eutelsat Data 1 | 2799 |
+| 642 | Al joumhouriya | 2203 |
+| 643 | Test | 2211 |
+| 644 | Test | 2214 |
+| 645 | AL-Anbar | 2217 |
+| 646 | Test | 2009 |
+| 647 | Colorbars1 | 1 |
+| 648 | Colorbars | 100 |
+| 649 | Palestine | 1103 |
+| 650 | Modern Mti | 1104 |
+| 651 | Test | 2012 |
+| 652 | Test | 2013 |
+| 653 | Test | 2014 |
+| 654 | Sky News Arabia HD | 2015 |
+| 655 | Test | 1107 |
+| 656 | Test | 2806 |
+| 657 | Test | 1108 |
+| 658 | MUSAWA | 2980 |
+| 659 | Palestine News | 2990 |
+| 660 | Maan TV | 3320 |
+| 661 | Palestine Live | 3330 |
+| 662 | Palestine | 3350 |
+| 663 | Awdeh | 3370 |
+| 664 | Palestine Sport | 3430 |
+| 665 | AL ARABY TV HD | 3800 |
+| 666 | Moga Cinema | 3820 |
+| 667 | Elfadjer drama Dz | 3840 |
+| 668 | Moga Today | 3880 |
+| 669 | Gulfsat | 3890 |
+| 670 | AL KERAZA TV | 3850 |
+| 671 | El Sharq TV | 1430 |
+| 672 | NHK World-Japan | 1440 |
+| 673 | Mekameleen TV | 1450 |
+| 674 | Yemen Education | 1460 |
+| 675 | Shams TV | 1470 |
+| 676 | Alyaum TV | 1480 |
+| 677 | France 24 English | 1490 |
+| 678 | AVA TV | 1500 |
+| 679 | Nu TV | 1510 |
+| 680 | WATAN TV | 1540 |
+| 681 | i24 News Arabic | 1570 |
+| 682 | ERISAT | 1590 |
+| 683 | Anewz | 1600 |
+| 684 | AlQanat9 | 1640 |
+| 685 | CTV EGYPT | 1650 |
+| 686 | RUDAW | 1660 |
+| 687 | Echorouk News | 2021 |
+| 688 | Echorouk TV | 2022 |
+| 689 | ONE TV | 2023 |
+| 690 | Bahia TV | 2024 |
+| 691 | El Watania TV | 2025 |
+| 692 | El Hayat TV Algerie | 2026 |
+| 693 | El Heddaf TV | 2028 |
+| 694 | Test | 1110 |
+| 695 | AlHadath Alyoum | 1112 |
+| 696 | Test | 1811 |
+| 697 | Test | 1812 |
+| 698 | Test | 1813 |
+| 699 | AL SHARQIYA HD | 1814 |
+| 700 | Test | 1815 |
+| 701 | Test | 1816 |
+| 702 | Yemen | 104 |
+| 703 | BBC Arabic | 3203 |
+| 704 | ALhayat | 3204 |
+| 705 | Test | 3205 |
+| 706 | France 24 | 3206 |
+| 707 | Alhayat We Alnas | 3207 |
+| 708 | Al Aoula inter | 3210 |
+| 709 | A TV | 3212 |
+| 710 | Al Alam Syria | 3213 |
+| 711 | ALSahraa HD | 3214 |
+| 712 | Salam TV Algeria | 2029 |
+| 713 | Eldjazair N1 | 2030 |
+| 714 | AL24 News | 2032 |
+| 715 | El Bilad TV | 2034 |
+| 716 | Ennahar TV Algerie | 2040 |
+| 717 | Zahra TV | 2042 |
+| 718 | Algerian 4Kids | 2043 |
+| 719 | Al Arabiya | 107 |
+| 720 | ALhayah ALaan | 3215 |
+| 721 | D IRAQ | 4037 |
+| 722 | Al-Arabiya Alhadath | 108 |
+| 723 | Yemen Today | 111 |
+| 724 | Al Ahly HD | 106 |
+| 725 | Al Ahly SD | 113 |
+| 726 | LIBYA ALMASAR TV | 8045 |
+| 727 | SMTV | 204 |
+| 728 | TCHAD TV HD | 222 |
+| 729 | AL SIRAT TV | 223 |
+| 730 | ALHOUDA | 232 |
+| 731 | Alwilayah TV | 2220 |
+| 732 | Hawa Baghdad | 2230 |
+| 733 | HAQ TV | 2260 |
+| 734 | Nesiha TV | 2270 |
+| 735 | Alhujja TV | 2280 |
+| 736 | ALNAHAR ALJADID | 2290 |
+| 737 | ALWAAI ALSHIRAZI | 2300 |
+| 738 | SHAM FM PLUS | 2310 |
+| 739 | Al-Ahvaz | 2350 |
+| 740 | atv-ALADALAH | 2360 |
+| 741 | Al-Sabah TV | 2410 |
+| 742 | Al-Mahdi | 2420 |
+| 743 | Al-Falloja | 2470 |
+| 744 | OM-AlBaneen TV | 2510 |
+| 745 | AL SAYEDAH TV | 2520 |
+| 746 | ALHIJAZ TV | 2540 |
+| 747 | Arara TV | 2630 |
+| 748 | Amman TV | 800 |
+| 749 | Jordan Sport | 802 |
+| 750 | ALISTIQAMA TV | 824 |
+| 751 | RT ARABIC HD | 827 |
+| 752 | ROYA HD | 831 |
+| 753 | Jordan HD | 832 |
+| 754 | Almamlaka TV | 837 |
+| 755 | RT English | 839 |
+| 756 | AL HAQEQA AL DAWLIAH | 665 |
+| 757 | Jordan Amen | 666 |
+| 758 | TUNISIA SHOP | 667 |
+| 759 | Almahriah HD | 241 |
+| 760 | Ennahar rokia | 668 |
+| 761 | ALRAHMAN | 669 |
+| 762 | Angel TV Arabia | 603 |
+| 763 | ERIPM | 604 |
+| 764 | Sawt Alitra | 606 |
+| 765 | SUHAIL TV | 609 |
+| 766 | TAHA | 610 |
+| 767 | ADEN TV | 611 |
+| 768 | KTO | 612 |
+| 769 | MESat | 613 |
+| 770 | Oman TV General HD | 1201 |
+| 771 | Oman TV Live HD | 1203 |
+| 772 | Oman TV Culture HD | 1204 |
+| 773 | Oman TV General SD | 1205 |
+| 774 | Test | 120 |
+| 775 | Wedo TV | 500 |
+| 776 | World Poker Tour | 504 |
+| 777 | Sudan TV | 103 |
+| 778 | Al Qahera News | 105 |
+| 779 | Al-Nahar Nour | 110 |
+| 780 | ETIHAD TV | 302 |
+| 781 | Al Mayadeen HD | 303 |
+| 782 | AL THAQALAYN TV | 304 |
+| 783 | HodHod  TV | 306 |
+| 784 | Aljanub TV | 312 |
+| 785 | AL ESHRAQ TV | 313 |
+| 786 | DUA CHANNEL | 314 |
+| 787 | NABA TV | 318 |
+| 788 | ALNAEEM TV | 329 |
+| 789 | Almaaref TV HD | 403 |
+| 790 | Menhag Alnabowe | 405 |
+| 791 | Chebab TV | 1504 |
+| 792 | Cricket Gold | 505 |
+| 793 | Bare Knuckle Fighting | 506 |
+| 794 | Test | 7415 |
+| 795 | MBC MASR DRAMA HD | 103 |
+| 796 | Al Thaqafiya HD | 104 |
+| 797 | beIN SPORTS XTRA 1 | 2412 |
+| 798 | beIN SPORTS XTRA 2 | 2413 |
+| 799 | beIN SPORTS MAX 1 | 2414 |
+| 800 | beIN SPORTS MAX 4 | 2416 |
+| 801 | Test | 204 |
+| 802 | beIN SPORTS MAX 5 | 2417 |
+| 803 | beIN SPORTS XTRA 6 | 2418 |
+| 804 | beIN SPORTS 5 | 2419 |
+| 805 | Test2 | 2420 |
+| 806 | Tets3 | 2421 |
+| 807 | Test4 | 2422 |
+| 808 | Test5 | 2423 |
+| 809 | Test6 | 2424 |
+| 810 | Test7 | 2425 |
+| 811 | Moga Comedy | 3870 |
+| 812 | ONTIME SPORTS2 | 205 |
+| 813 | ON  E | 206 |
+| 814 | Altaghier HD | 4101 |
+| 815 | Alruqia Tv | 4119 |
+| 816 | TUNISIA SHOP | 4120 |
+| 817 | JORDAN SAMA | 4127 |
+| 818 | Ennahar rokia | 4167 |
+| 819 | PLAY AFLAM | 3900 |
+| 820 | PLAY CINEMA | 3910 |
+| 821 | PLAY DRAMA | 3920 |
+| 822 | PLAY HEKAYAT | 3930 |
+| 823 | PLAY TODAY | 3940 |
+| 824 | Canal algerie HD | 2 |
+| 825 | TV 4 | 4 |
+| 826 | TV 5 | 5 |
+| 827 | TV6 HD | 6 |
+| 828 | TV7 ELMAARIFA | 7 |
+| 829 | TV8 EDHAKIRA | 8 |
+| 830 | El barlamaniya | 9 |
+| 831 | A3 HD | 25 |
+| 832 | Yemen Today TV | 1008 |
+| 833 | Oyoun AlWatan | 670 |
+| 834 | Hadramout TV | 671 |
+| 835 | OSNtv Movies Premiere | 301 |
+| 836 | Abu Dhabi TV HD | 1 |
+| 837 | Al Emarat TV HD | 2 |
+| 838 | Majd Kids TV HD | 3 |
+| 839 | AD Sport 1 HD | 5 |
+| 840 | AD Sport 2 HD | 6 |
+| 841 | YAS Sports HD | 7 |
+| 842 | AD Nat Geo HD | 8 |
+| 843 | Baynounah TV | 10 |
+| 844 | MBC 2 | 106 |
+| 845 | MBC IRAQ | 107 |
+| 846 | Al Etejah TV | 1018 |
+| 847 | Jordan Amen | 4171 |
+| 848 | Oyoun AlWatan | 4203 |
+| 849 | KSA1727 | 4108 |
+| 850 | ALRAHMAN | 4134 |
+| 851 | AL HAQEQA AL DAWLIAH | 4182 |
+| 852 | Hadramout TV | 41196 |
+| 853 | Alwadi TV | 650 |
+| 854 | Algharbianow TV | 710 |
+| 855 | Nineveh TV | 720 |
+| 856 | Aldawla TV | 730 |
+| 857 | ALEGHATHIAH TV | 760 |
+| 858 | al-khaleej alyoum | 810 |
+| 859 | Rosheta | 830 |
+| 860 | SUBORO TV | 1000 |
+| 861 | Al-Marjaeyoun TV | 1120 |
+| 862 | Hebron.Sat TV | 1180 |
+| 863 | Iraq first 207 TV | 1200 |
+| 864 | MBC MASR 2 | 108 |
+| 865 | TEST | 109 |
+| 866 | Test 1 | 110 |
+| 867 | Test 2 | 111 |
+| 868 | Test 3 | 112 |
+| 869 | Test 4 | 113 |
+| 870 | Daystar | 112 |
+| 871 | Riyad Al Salihin | 114 |
+| 872 | Imam Ali | 115 |
+| 873 | Prime TV | 116 |
+| 874 | History HD | 5661 |
+| 875 | OSNtv Showcase Classics | 5662 |
+| 876 | Nickelodeon HD | 5663 |
+| 877 | Spare 5664 | 5664 |
+| 878 | Discovery HD | 5665 |
+| 879 | OSNtv Movies Family | 5666 |
+| 880 | OSNtv Movies Horror | 5667 |
+| 881 | Discovery IDX HD | 5668 |
+| 882 | OSNtv Movies Comedy | 5669 |
+| 883 | Nick Junior HD | 5670 |
+| 884 | Nick Toons HD | 5671 |
+| 885 | OSNtv POP UP | 5672 |
+| 886 | Bloomberg | 201 |
+| 887 | GMA Pinoy TV | 202 |
+| 888 | GMA News TV | 203 |
+| 889 | Motorvision | 204 |
+| 890 | Blippi and Friends | 206 |
+| 891 | Spare 207 | 207 |
+| 892 | PBA RUSH | 208 |
+| 893 | Myx | 209 |
+| 894 | GMA Life TV | 211 |
+| 895 | C I | 212 |
+| 896 | MOR Global Radio | 213 |
+| 897 | TeleRadyo | 215 |
+| 898 | Cinema One Global TV | 216 |
+| 899 | TFC HD | 217 |
+| 900 | Kapatid TV5 | 220 |
+| 901 | MCM Top | 221 |
+| 902 | RFM TV | 222 |
+| 903 | CineMo | 223 |
+| 904 | ANC | 224 |
+| 905 | H2 HD | 225 |
+| 906 | Spare 226 | 226 |
+| 907 | OSNtv Movies Action | 302 |
+| 908 | OSNtv Documentary | 303 |
+| 909 | OSNtv Showcase | 304 |
+| 910 | OSNtv One | 305 |
+| 911 | OSNtv Yahala Aflam | 306 |
+| 912 | OSNtv Crime | 307 |
+| 913 | TLC HD | 308 |
+| 914 | OSNtv Yahala Bil Arabi | 309 |
+| 915 | Moonbug Kids | 310 |
+| 916 | Sout Alkhaleej 2 | 10 |
+| 917 | Sout Alkhaleej 3 | 11 |
+| 918 | Sout Alkhaleej 4 | 12 |
+| 919 | Sout Alkhaleej Europe | 13 |
+| 920 | Qatar Radio | 21 |
+| 921 | Qatar R Quran | 22 |
+| 922 | Qatar Oryx Radio | 23 |
+| 923 | Qatar QBS Radio | 24 |
+| 924 | Qatar Urdu | 25 |
+| 925 | Qatar R Quran 2 | 26 |
+| 926 | Hola Qatar | 27 |
+| 927 | al kafeel | 8020 |
+| 928 | MCD Radio | 5930 |
+| 929 | Sharjah Radio | 9 |
+| 930 | Sharjah Quran | 10 |
+| 931 | Pulse95 SHJ | 11 |
+| 932 | WATAR SHJ | 12 |
+| 933 | Kuwait Main Program | 11 |
+| 934 | Kuwait Second Program | 12 |
+| 935 | Kuwait Holy Quran | 13 |
+| 936 | Kuwait Easy | 14 |
+| 937 | Kuwait FM | 15 |
+| 938 | Kuwait Super Station | 16 |
+| 939 | Kuwait Old Arabic | 17 |
+| 940 | Kuwait Dar Al-Ethaa | 18 |
+| 941 | Kuwait Dana | 19 |
+| 942 | Kuwait Al-Thikr Al-Hakeem | 20 |
+| 943 | Radio Miraya | 4038 |
+| 944 | Radio Sawt El Shaa | 49 |
+| 945 | ERI Radio1 | 7330 |
+| 946 | ERI Radio 2 | 7331 |
+| 947 | ERI Radio 3 | 7332 |
+| 948 | ERI Radio 4 | 7333 |
+| 949 | Test | 7470 |
+| 950 | Test | 7471 |
+| 951 | Test | 7472 |
+| 952 | Test | 7473 |
+| 953 | European Radio | 2623 |
+| 954 | SUMER FM | 19 |
+| 955 | AL RASHEED RADIO | 20 |
+| 956 | Radio Samar Sudan | 1027 |
+| 957 | Radio Salam | 1028 |
+| 958 | TWR Arabic إذاعة حول العاÙ | 1029 |
+| 959 | RDK | 1032 |
+| 960 | praisefm Global | 1035 |
+| 961 | AL BACHAEER RADIO | 7020 |
+| 962 | RADIO MARIAM ARABIC | 1203 |
+| 963 | MBC FM | 14 |
+| 964 | Panorama FM | 15 |
+| 965 | Al Arabiya FM | 16 |
+| 966 | Riyadh FM Split | 17 |
+| 967 | Loud FM | 18 |
+| 968 | Sahiroon Radio | 50 |
+| 969 | Kan_Tarbut | 52 |
+| 970 | ALJAWADAIN | 8000 |
+| 971 | Nedaa El Islam | 2625 |
+| 972 | Holy Quran Radio | 2620 |
+| 973 | MBCFM SPLIT1 | 30 |
+| 974 | MBCFM SPLIT2 | 31 |
+| 975 | Nile FM | 1640 |
+| 976 | Nogoum FM | 1641 |
+| 977 | Radio Talavat | 1642 |
+| 978 | Radio 03 World Service | 1643 |
+| 979 | Test | 1644 |
+| 980 | REVOLUTION-SYR | 2837 |
+| 981 | Al QURAN-SYR | 2838 |
+| 982 | Damascus-Radio | 2839 |
+| 983 | Test | 2840 |
+| 984 | Test | 616 |
+| 985 | DRN Radio | 620 |
+| 986 | BBC (A) | 621 |
+| 987 | BBC (E) | 622 |
+| 988 | Saudi Radio 1 | 2621 |
+| 989 | Saudi Radio 2 | 2622 |
+| 990 | AlSudania 2 Radio | 530 |
+| 991 | Alkawther | 620 |
+| 992 | Dongola Radio | 780 |
+| 993 | Beladi FM | 510 |
+| 994 | Alwadi quran | 570 |
+| 995 | Ekhbaria | 2626 |
+| 996 | DW-A2 | 2713 |
+| 997 | DW05 | 2714 |
+| 998 | AL-bernameg AL-aam | 551 |
+| 999 | AL-Quran AL_Karem | 552 |
+| 1000 | Sout AL-arab | 553 |
+| 1001 | Test | 554 |
+| 1002 | AL-Sharg AL-awsat | 555 |
+| 1003 | AL-bernameg AL-orobi | 556 |
+| 1004 | Test | 557 |
+| 1005 | Test | 558 |
+| 1006 | AL-shabab W Al-reyadah | 559 |
+| 1007 | Test | 560 |
+| 1008 | Eductional channel | 561 |
+| 1009 | AL-Kahera Al-Kobra | 562 |
+| 1010 | AL-Bernameg AL-moussekey | 563 |
+| 1011 | AL-Aghani | 564 |
+| 1012 | AL-Menia | 565 |
+| 1013 | Wadi Al-Neil &amp; Palestine | 566 |
+| 1014 | Test | 567 |
+| 1015 | Matrouh | 568 |
+| 1016 | Test | 569 |
+| 1017 | North Sinai | 570 |
+| 1018 | South Sinai | 571 |
+| 1019 | Maspero FM &amp; Thakafy | 573 |
+| 1020 | ELRADIO 9090 | 579 |
+| 1021 | Mowajahat | 2627 |
+| 1022 | Bengali | 2628 |
+| 1023 | French | 2629 |
+| 1024 | Pishto | 2630 |
+| 1025 | Houna alazm | 2632 |
+| 1026 | Khozama | 2633 |
+| 1027 | TANASUH RADIO | 7334 |
+| 1028 | LIBYA IFTA RADIO | 7335 |
+| 1029 | Al Basra | 7336 |
+| 1030 | Test | 623 |
+| 1031 | Test | 624 |
+| 1032 | Test | 625 |
+| 1033 | Voice of Palestine | 5001 |
+| 1034 | Palestine Quraan | 5003 |
+| 1035 | Pal Quraan 2 | 5004 |
+| 1036 | Nablus Radio | 5005 |
+| 1037 | Athan Tulkarem | 5006 |
+| 1038 | ROJAVA FM | 1680 |
+| 1039 | Test | 626 |
+| 1040 | Test | 627 |
+| 1041 | Radio Masr | 650 |
+| 1042 | Test | 651 |
+| 1043 | Bakous Alexandaria | 652 |
+| 1044 | Aswan | 653 |
+| 1045 | BBC Horn of Africa | 654 |
+| 1046 | Mowagahat-8 | 655 |
+| 1047 | ALWadi ALGaded | 656 |
+| 1048 | Mowagahat-1 | 657 |
+| 1049 | Mowagahat-2 | 658 |
+| 1050 | Canal Radio | 675 |
+| 1051 | Test | 676 |
+| 1052 | Test | 1119 |
+| 1053 | Test | 1120 |
+| 1054 | Test | 1121 |
+| 1055 | Test | 1122 |
+| 1056 | Test | 1123 |
+| 1057 | Test | 1124 |
+| 1058 | Test | 1125 |
+| 1059 | Test | 1126 |
+| 1060 | Test | 1127 |
+| 1061 | Test | 1128 |
+| 1062 | Test | 1129 |
+| 1063 | Palestine Radio | 1130 |
+| 1064 | Test | 1817 |
+| 1065 | Test | 1818 |
+| 1066 | Radio Hits | 2230 |
+| 1067 | Yemen Radio | 50 |
+| 1068 | Mega FM | 2232 |
+| 1069 | Nagham FM | 2233 |
+| 1070 | Sha3by FM | 2234 |
+| 1071 | Jordan Radio | 790 |
+| 1072 | Quran Kareem Karak | 830 |
+| 1073 | Rotana FM KSA | 2120 |
+| 1074 | Test | 3231 |
+| 1075 | TCHAD Radio | 221 |
+| 1076 | Test | 3232 |
+| 1077 | Test | 3233 |
+| 1078 | Oman General Radio | 1215 |
+| 1079 | Radio Yaqeen Jordan | 843 |
+| 1080 | Quran Kareem Jordan | 803 |
+| 1081 | Sawt Al-alam | 812 |
+| 1082 | Rotana Tarab Jordan | 840 |
+| 1083 | Rotana Radio Jordan | 841 |
+| 1084 | Radio Fann Jordan | 842 |
+| 1085 | Oman Shabab Radio | 1216 |
+| 1086 | Oman English Radio | 1217 |
+| 1087 | Oman HolyQuran Radio | 1218 |
+| 1088 | Oman Classic Radio | 1219 |
+| 1089 | Sawtoman Raido | 1220 |
+| 1090 | Umdorman Radio | 131 |
+| 1091 | Test | 130 |
+| 1092 | Test | 132 |
+| 1093 | Test | 133 |
+| 1094 | AL AMAL | 330 |
+| 1095 | Radio alomma | 7337 |
+| 1096 | Abu Dhabi FM | 11 |
+| 1097 | Emarat FM | 12 |
+| 1098 | CHAINE 1 | 11 |
+| 1099 | CHAINE 2 | 12 |
+| 1100 | RADI0_CHAINE 3 | 13 |
+| 1101 | RADIO DECROCHAGE | 14 |
+| 1102 | RADIO CULTURE | 16 |
+| 1103 | RADIO INTERNATIONALE | 17 |
+| 1104 | Ifrikya FM | 18 |
+| 1105 | RADIO JEUNESSE | 19 |
+| 1106 | RADIO CORAN | 20 |
+| 1107 | ZAMEN FM | 24 |
+| 1108 | Quran Kareem Ajloun | 844 |
+| 1109 | Quran Kareem Al-Balqa | 846 |
+| 1110 | Quran Kareem Aqaba | 849 |
+| 1111 | Quran Kareem ma'an | 850 |
+| 1112 | Aghwar Shamaliah | 855 |
+| 1113 | Quran Kareem | 13 |
+| 1114 | Star FM | 14 |
+| 1115 | Radio 1 | 15 |
+| 1116 | Radio 2 | 16 |
+| 1117 | Kadak | 17 |
+| 1118 | Calssic | 18 |
+| 1119 | ADM R1 | 19 |
+| 1120 | ADM R2 | 20 |
+| 1121 | ADM R3 | 21 |
+| 1122 | ADM R4 | 22 |
+| 1123 | ARTA Radio | 102 |
+| 1124 | Tafilah Radio | 856 |
+| 1125 | Radio 21 September | 1030 |
+| 1126 | Kan_Bet | 53 |
+| 1127 | Kan_Gimel | 54 |
+| 1128 | Kan_Makan | 55 |
+| 1129 | Kan_Reka | 56 |
+| 1130 | Kan_Homusica | 57 |
+| 1131 | Kan_Moreshet | 58 |
+| 1132 | Kan88 | 59 |
+| 1133 | Al Khartoum Radio | 580 |
+| 1134 | White Nile State Radio | 610 |
+| 1135 | Radio AL Wasat | 845 |
