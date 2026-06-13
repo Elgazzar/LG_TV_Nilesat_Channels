@@ -18,7 +18,8 @@ The `README.md` file must contain distinct channel groupings displayed in collap
 7. News
 8. Sports
 9. Kids & Family
-10. Regional & Uncategorized
+10. Cooking
+11. Regional & Uncategorized
 
 ## 3. High Quality / Low Quality Segmentation
 For the **Movies**, **News**, **Series**, **Sports**, and **Kids & Family** groupings, the lists MUST be internally sorted by Quality:

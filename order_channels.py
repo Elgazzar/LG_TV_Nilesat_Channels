@@ -28,6 +28,7 @@ GROUPS_ORDER = [
     'News',
     'Sports',
     'Kids & Family',
+    'Cooking',
     'Regional & Uncategorized'
 ]
 
