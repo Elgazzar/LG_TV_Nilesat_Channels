@@ -49,19 +49,19 @@ Below is the complete list of channels grouped by their category. Click on each 
 - 10: AlHayat HD
 - 11: CBC HD
 - 12: dmc HD
-- 13: Dubai TV HD
-- 14: MBC 1
-- 15: MBC 4
-- 16: MBC MASR 2 HD
-- 17: MBC Masr HD
-- 18: MBC IRAQ HD
-- 19: ON E HD
-- 20: Al-Nahar One
-- 21: ELMEHWAR-HD
-- 22: Sada El Balad
-- 23: Sada El Balad 2
-- 24: SAUDI TV HD
-- 25: TeN TV
+- 13: MBC Masr HD
+- 14: ON E HD
+- 15: MBC MASR 2 HD
+- 16: ELMEHWAR-HD
+- 17: Al-Nahar One
+- 18: MBC 1
+- 19: MBC 4
+- 20: MBC IRAQ HD
+- 21: Sada El Balad
+- 22: Sada El Balad 2
+- 23: TeN TV
+- 24: Dubai TV HD
+- 25: SAUDI TV HD
 
 </details>
 

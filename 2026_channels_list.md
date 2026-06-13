@@ -14,19 +14,19 @@
 | 10 | AlHayat HD | 3208 |
 | 11 | CBC HD | 4903 |
 | 12 | dmc HD | 4901 |
-| 13 | Dubai TV HD | 1 |
-| 14 | MBC 1 | 4 |
-| 15 | MBC 4 | 5 |
-| 16 | MBC MASR 2 HD | 102 |
-| 17 | MBC Masr HD | 20 |
-| 18 | MBC IRAQ HD | 105 |
-| 19 | ON E HD | 202 |
-| 20 | Al-Nahar One | 1801 |
-| 21 | ELMEHWAR-HD | 7308 |
-| 22 | Sada El Balad | 1114 |
-| 23 | Sada El Balad 2 | 1115 |
-| 24 | SAUDI TV HD | 2601 |
-| 25 | TeN TV | 601 |
+| 13 | MBC Masr HD | 20 |
+| 14 | ON E HD | 202 |
+| 15 | MBC MASR 2 HD | 102 |
+| 16 | ELMEHWAR-HD | 7308 |
+| 17 | Al-Nahar One | 1801 |
+| 18 | MBC 1 | 4 |
+| 19 | MBC 4 | 5 |
+| 20 | MBC IRAQ HD | 105 |
+| 21 | Sada El Balad | 1114 |
+| 22 | Sada El Balad 2 | 1115 |
+| 23 | TeN TV | 601 |
+| 24 | Dubai TV HD | 1 |
+| 25 | SAUDI TV HD | 2601 |
 | 26 | MBC Action | 10 |
 | 27 | MBC 2 | 9 |
 | 28 | Dubai One HD | 3 |
