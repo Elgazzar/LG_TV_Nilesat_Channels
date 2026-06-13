@@ -115,565 +115,561 @@ Below is the complete list of channels grouped by their category. Click on each 
 </details>
 
 <details>
-<summary><b>Arabic Movies & Cinema (21 channels)</b></summary>
+<summary><b>Arabic Movies & Cinema (17 channels)</b></summary>
 
 - 63: AL SHASHA  FILM
 - 64: AL SHASHA CINEMA
-- 65: Beirut Aflam
-- 66: Beirut Cinema
-- 67: Cinema 1
-- 68: Dream Cinema
-- 69: El Khoulasa Cinema
-- 70: Elzaeem Cinema
-- 71: I Film Arabic
-- 72: MAJESTIC AFLAM
-- 73: MAJESTIC CINEMA
-- 74: Melody Aflam
-- 75: Mix Bel Araby
-- 76: Oscar TV
-- 77: Panorama Film
-- 78: Rotana Cinema EGY HD
-- 79: Rotana Cinema KSA
-- 80: Nile Cinema
-- 81: Nile Comedy
-- 82: Rotana Classic
-- 83: Zee Aflam
+- 65: El Khoulasa Cinema
+- 66: Elzaeem Cinema
+- 67: I Film Arabic
+- 68: MAJESTIC AFLAM
+- 69: MAJESTIC CINEMA
+- 70: Melody Aflam
+- 71: Mix Bel Araby
+- 72: Oscar TV
+- 73: Panorama Film
+- 74: Rotana Cinema EGY HD
+- 75: Rotana Cinema KSA
+- 76: Nile Cinema
+- 77: Nile Comedy
+- 78: Rotana Classic
+- 79: Zee Aflam
 
 </details>
 
 <details>
 <summary><b>Music (8 channels)</b></summary>
 
-- 84: CHADA TV
-- 85: ELMOLED
-- 86: Mazzika
-- 87: Med Music
-- 88: Music 1
-- 89: Music India
-- 90: Rotana Clip
-- 91: Rotana Music
+- 80: CHADA TV
+- 81: ELMOLED
+- 82: Mazzika
+- 83: Med Music
+- 84: Music 1
+- 85: Music India
+- 86: Rotana Clip
+- 87: Rotana Music
 
 </details>
 
 <details>
 <summary><b>News (26 channels)</b></summary>
 
-- 92: AL HADATH HD
-- 93: Al Jazeera 2 HD
-- 94: Al Jazeera Documentary HD
-- 95: Al Jazeera English HD
-- 96: Al Jazeera HD
-- 97: Al Jazeera Mubasher HD
-- 98: Al Karama News
-- 99: Al Qahera News
-- 100: AL SHARQIYA NEWS HD
-- 101: AL24 News
-- 102: Asharq Discovery HD
-- 103: Asharq Documentary HD
-- 104: Asharq News Channel HD
-- 105: BBC Arabic
-- 106: BBC News TV
-- 107: CNBC ARABIYA
-- 108: DW Arabia HD
-- 109: Echorouk News
-- 110: Extra News HD
-- 111: France 24
-- 112: France 24 (in Arabic)
-- 113: GB News
-- 114: i24 News Arabic
-- 115: Nile News HD
-- 116: RT ARABIC HD
-- 117: Sky News Arabia HD
+- 88: AL HADATH HD
+- 89: Al Jazeera 2 HD
+- 90: Al Jazeera Documentary HD
+- 91: Al Jazeera English HD
+- 92: Al Jazeera HD
+- 93: Al Jazeera Mubasher HD
+- 94: Al Karama News
+- 95: Al Qahera News
+- 96: AL SHARQIYA NEWS HD
+- 97: AL24 News
+- 98: Asharq Discovery HD
+- 99: Asharq Documentary HD
+- 100: Asharq News Channel HD
+- 101: BBC Arabic
+- 102: BBC News TV
+- 103: CNBC ARABIYA
+- 104: DW Arabia HD
+- 105: Echorouk News
+- 106: Extra News HD
+- 107: France 24
+- 108: France 24 (in Arabic)
+- 109: GB News
+- 110: i24 News Arabic
+- 111: Nile News HD
+- 112: RT ARABIC HD
+- 113: Sky News Arabia HD
 
 </details>
 
 <details>
 <summary><b>Sports (31 channels)</b></summary>
 
-- 118: AD Sport 1 HD
-- 119: AD Sport 2 HD
-- 120: Al Ahly HD
-- 121: Alkass four HD
-- 122: Alkass one HD
-- 123: Alkass three HD
-- 124: Alkass two HD
-- 125: beIN SPORTS
-- 126: beIN SPORTS NEWS
-- 127: DUBAI RACING 1 HD
-- 128: DUBAI RACING 2 HD
-- 129: DUBAI SPORTS 1 HD
-- 130: DUBAI SPORTS 2 HD
-- 131: Iraqia Sport HD
-- 132: Jordan Sport HD
-- 133: KSA SPORTS 1
-- 134: KSA SPORTS 2
-- 135: KSA SPORTS 3 HD
-- 136: Kuwait Sport Plus
-- 137: Kuwait Sports
-- 138: LIBYA SPORT 1 HD
-- 139: Libya Sport 2 HD
-- 140: Oman TV Sport HD
-- 141: ON SPORT HD
-- 142: ON SPORT MAX HD
-- 143: ON SPORT PLUS HD
-- 144: Sharjah Sport HD
-- 145: SPORT PLUS HD
-- 146: Sports First
-- 147: YAS Sports HD
-- 148: Zamalek Sports
+- 114: AD Sport 1 HD
+- 115: AD Sport 2 HD
+- 116: Al Ahly HD
+- 117: Alkass four HD
+- 118: Alkass one HD
+- 119: Alkass three HD
+- 120: Alkass two HD
+- 121: beIN SPORTS
+- 122: beIN SPORTS NEWS
+- 123: DUBAI RACING 1 HD
+- 124: DUBAI RACING 2 HD
+- 125: DUBAI SPORTS 1 HD
+- 126: DUBAI SPORTS 2 HD
+- 127: Iraqia Sport HD
+- 128: Jordan Sport HD
+- 129: KSA SPORTS 1
+- 130: KSA SPORTS 2
+- 131: KSA SPORTS 3 HD
+- 132: Kuwait Sport Plus
+- 133: Kuwait Sports
+- 134: LIBYA SPORT 1 HD
+- 135: Libya Sport 2 HD
+- 136: Oman TV Sport HD
+- 137: ON SPORT HD
+- 138: ON SPORT MAX HD
+- 139: ON SPORT PLUS HD
+- 140: Sharjah Sport HD
+- 141: SPORT PLUS HD
+- 142: Sports First
+- 143: YAS Sports HD
+- 144: Zamalek Sports
 
 </details>
 
 <details>
-<summary><b>Kids & Family (26 channels)</b></summary>
+<summary><b>Kids & Family (27 channels)</b></summary>
 
-- 152: BaBy Kids TV
-- 156: Cookies Kids HD
-- 157: Cookies Kids TV
-- 160: Majd Kids TV HD
-- 161: MBC 3
-- 162: SAT-7 KIDS
-- 163: SPACETOON ARABIC
-- 164: Toyor Aljanah
-- 165: Wanasat Baby
-- 166: Africa TV 1 Quran
-- 167: Al Nas
-- 168: Al Quran
-- 169: AL Resala
-- 170: Ali Gate TV
-- 171: Alwadi quran
-- 172: Azhari
-- 173: Imam Ali TV
-- 174: Mahdi has appeared TV
-- 175: Noursat
-- 176: Qatar TV Quran
-- 177: Sharjah Quran
-- 178: Bahrain International HD
-- 179: Bahrain TV HD
-- 180: Canal algerie HD
-- 297: Algerian 4Kids
-- 444: Kidsy
+- 148: BaBy Kids TV
+- 152: Cookies Kids HD
+- 153: Cookies Kids TV
+- 156: Majd Kids TV HD
+- 160: Toyor Aljanah
+- 161: Wanasat Baby
+- 162: Africa TV 1 Quran
+- 163: Al Nas
+- 164: Al Quran
+- 165: AL Resala
+- 166: Ali Gate TV
+- 167: Alwadi quran
+- 168: Azhari
+- 169: Imam Ali TV
+- 170: Mahdi has appeared TV
+- 171: Noursat
+- 172: Qatar TV Quran
+- 173: Sharjah Quran
+- 174: Bahrain International HD
+- 175: Bahrain TV HD
+- 176: Canal algerie HD
+- 177: CTV EGYPT
+- 178: El Hayat TV Algerie
+- 179: Ennahar TV Algerie
+- 180: IRAQ 24
+- 293: Algerian 4Kids
+- 440: Kidsy
 
 </details>
 
 <details>
-<summary><b>Regional & Uncategorized (415 channels)</b></summary>
+<summary><b>Regional & Uncategorized (414 channels)</b></summary>
 
-- 149: CBC Sofra
-- 150: 5 KIDS
-- 151: Atfal Mawaheb
-- 153: Cartoon 2
-- 154: Cartoon Network
-- 155: CN ARABIA
-- 158: Karameesh TV
-- 159: Koogi
-- 181: CTV EGYPT
-- 182: El Hayat TV Algerie
-- 183: Ennahar TV Algerie
-- 184: IRAQ 24
-- 185: Qatar 2
-- 186: Qatar TV HD
-- 187: SAMA DUBAI HD
-- 188: SHAMS AL- IRAQ
-- 189: Sharjah HD
-- 190: 
-- 191: 1 Baghdad
-- 192: 2M MAROC HD
-- 193: 3yoon TV
-- 194: A TV
-- 195: A3 HD
-- 196: ABC-ALKhalijia TV
-- 197: Abu Dhabi TV HD
-- 198: AD Nat Geo HD
-- 199: Aden
-- 200: Aden Almustakilla
-- 201: Aden TV
-- 202: AFAQ TV
-- 203: Africa TV 1
-- 204: AGHAPY TV
-- 205: Ahwas State TV
-- 206: AJMAN HD
-- 207: AL AHAD HD
-- 208: AL AHAD VOICE
-- 209: Al Alam HD
-- 210: AL AMAL
-- 211: Al Aoula inter
-- 212: Al Araby 2 HD
-- 213: AL ARABY TV HD
-- 214: Al Assema TV
-- 215: AL AYAM HD
-- 216: Al Basira
-- 217: Al Basra
-- 218: Al Basrah 365
-- 219: AL DAFRA HD
-- 220: Al Ekhbaria HD
-- 221: Al Eman
-- 222: Al Emarat TV HD
-- 223: AL ESHRAQ TV
-- 224: Al Fath Al3amh
-- 225: Al Fath Sonnah TV
-- 226: Al Forat HD
-- 227: Al Ghad HD
-- 228: Al Ghadeer
-- 229: Al Hayat
-- 230: Al Hiwar TV
-- 231: Al Horreya
-- 232: Al joumhouriya
-- 233: Al Karma Family
-- 234: Al Kawthar HD
-- 235: AL KERAZA TV
-- 236: Al Khaleej 24
-- 237: AL MALAKOOT SATTHE KINGDOM SAT
-- 238: Al Mashhad
-- 239: Al Masryia HD
-- 240: Al Mawsleya HD
-- 241: Al Mayadeen HD
-- 242: AL MAYADEEN TV
-- 243: AL NADA TV
-- 244: AL NOJABA TV
-- 245: Al Ons TV
-- 246: Al Ostoura
-- 247: Al Qamar HD
-- 248: Al Quds Al Yawm
-- 249: Al Rabiaa TV
-- 250: AL RAHMA
-- 251: AL RASHEED TV HD
-- 252: Al Rayyan Al Qadeem HD
-- 253: Al Rayyan HD
-- 254: AL SABAH
-- 255: Al Sahat
-- 256: AL SALAM TV
-- 257: AL Shams
-- 258: AL SHARQIYA HD
-- 259: AL SHASHA MOSLSLAT
-- 260: AL SIRAT TV
-- 261: AL SUMARIA HD
-- 262: Al TALEAA HD
-- 263: Al Thania
-- 264: Al Thaqafeya
-- 265: Al Thaqafiya HD
-- 266: AL THAQALAYN TV
-- 267: Al Watania 24
-- 268: Al Wathaeqya
-- 269: Al Wousta from Al Dhaid HD
-- 270: AL-AKHBAR
-- 271: AL-Anbar
-- 272: Al-Aqila TV
-- 273: Al-Arabiya Alhadath
-- 274: Al-Awhad TV
-- 275: Al-Bawadi
-- 276: Al-Ganob
-- 277: AL-GEZIRA TV
-- 278: AL-KAFEL TV
-- 279: al-khaleej alyoum
-- 280: Al-Marjaeyoun TV
-- 281: AL-MUSTAKILA
-- 282: Al-Nahar Life
-- 283: Al-Shaaer TV
-- 284: Al-Shahed TV HD
-- 285: alafasy
-- 286: Alanwar TV
-- 287: AlAraby2
-- 288: ALASKANDRIA
-- 289: ALASSEMA
-- 290: ALASSEMA TV
-- 291: Albaghdadiya
-- 292: Albalad TV
-- 293: Aldawla TV
-- 294: ALDELTA
-- 295: Alerth-Alnbawi
-- 296: ALFATH TV
-- 298: AlHadath Alyoum
-- 299: ALHAWYAH TV
-- 300: ALhayah ALaan
-- 301: Alhurra HD
-- 302: Aliman TV
-- 303: ALISTIQAMA TV
-- 304: Aljanub TV
-- 305: ALJAWADAIN
-- 306: ALKAHERA
-- 307: Alkalema
-- 308: ALKANAL
-- 309: ALKARBALAEIA TV
-- 310: Alkarma Discipleship
-- 311: Alkarma ME 1
-- 312: AlKarma Praise
-- 313: Alkawther
-- 314: ALKOFIYA HD
-- 315: ALLAHDAH TV
-- 316: ALLIBIYA TV
-- 317: Almaaref TV HD
-- 318: ALMADANIAH TV
-- 319: Almagd TV
-- 320: Almahriah HD
-- 321: Almajd General
-- 322: Almamlaka TV
-- 323: Almasirah HD
-- 324: Almasirah Mubashar
-- 325: ALMASIRAH TV
-- 326: ALMAWQEF TV
-- 327: ALMAYADEEN PLUS
-- 328: ALMERGAB TV
-- 329: ALNAEEM TV
-- 330: Alnajaf Alashraf tv
-- 331: AlNassr media
-- 332: AlQanat 9
-- 333: Alrai TV
-- 334: ALSA3EED
-- 335: AlSaeedah
-- 336: ALSahraa HD
-- 337: Alsay3da
-- 338: ALSHABAB
-- 339: AlShaoub TV
-- 340: ALSHOOR TV
-- 341: Alsouriya tv
-- 342: Alsouriya TV-HD
-- 343: ALTAHRIR
-- 344: Althanya
-- 345: Alwadi TV
-- 346: ALWAQIE TV HD
-- 347: ALWASI
-- 348: ALWESAM  TV
-- 349: Alyaum TV
-- 350: Alzrga
-- 351: AmharaSat TV
-- 352: Amman TV
-- 353: Amozhgary TV
-- 354: ANA DEJLAH
-- 355: Anewz
-- 356: AnwarTV2
-- 357: Arirang HD
-- 358: Aryen TV
-- 359: ARZKR!
-- 360: Ashorooq TV
-- 361: Asil TV
-- 362: Athan Tulkarem
-- 363: AVA TV
-- 364: Awazna1
-- 365: Awdeh HD
-- 366: Ayozat TV
-- 367: BAGHDAD TV
-- 368: Bahia TV
-- 369: BANGAWAZ TV
-- 370: Baynounah TV
-- 371: Beirut Alyoom
-- 372: Beit ElDrama
-- 373: Beity TV
-- 374: BELQEES HD
-- 375: BIN OTHAIMEEN
-- 376: BN TV
-- 377: CAR TV
-- 378: CATV
-- 379: CGTN
-- 380: CGTN-Arabic
-- 381: CHANNEL8
-- 382: Chebab TV
-- 383: Cima
-- 384: CIRA TV
-- 385: CNN
-- 386: CSAT
-- 387: Dabanga TV
-- 388: DAEWA TV
-- 389: Dar Alshefa
-- 390: Daystar
-- 391: Dijlah TV HD
-- 392: Dijlah Zaman TV HD
-- 393: Diwan
-- 394: Dream Al Wan
-- 395: Dream Al Youm
-- 396: Dream Monawaet
-- 397: DUA CHANNEL
-- 398: Dzair 7 Rokya
-- 399: Echorouk TV
-- 400: El barlamaniya
-- 401: El Bilad TV
-- 402: El Heddaf TV
-- 403: EL MAHROUSA TV
-- 404: El Sharq TV
-- 405: El Watania TV
-- 406: Eldjazair N1
-- 407: ERIPM
-- 408: ERISAT
-- 409: Eriteria TV
-- 410: ETIHAD TV
-- 411: Faith TV
-- 412: Falastini.tv
-- 413: falestinona TV
-- 414: Fox Be Elaraby TV
-- 415: FR HD
-- 416: Fujairah TV HD
-- 417: G+
-- 418: Gali Kurdistan HD
-- 419: Gulfsat
-- 420: HADRAMAUT TV
-- 421: Hala Arabia
-- 422: Hamiltan TV
-- 423: Hebron.Sat TV
-- 424: HodHod  TV
-- 425: Hooosh TV
-- 426: Huda TV
-- 427: Huna Aliraq
-- 428: HYA
-- 429: iKA TV
-- 430: IMAM HUSSEIN TV 2
-- 431: INEWS TV HD
-- 432: Iraqia Ent HD
-- 433: Iraqia Syriac HD
-- 434: Iraqia Turkuman
-- 435: JIN TV HD
-- 436: K24 HD
-- 437: Kaifa
-- 438: Karbala Documentary HD
-- 439: KARBALA TV HD
-- 440: Kartoon channel
-- 441: Kassala TV
-- 442: KBS WORLD
-- 443: Khartoum-TV
-- 445: Kirkuk TV HD
-- 446: KSA SPORT1 HD
-- 447: KSA SPORT2 HD
-- 448: KTO
-- 449: KURDISTAN TV
-- 450: KURDMAX
-- 451: Kurdsat HD
-- 452: LBC SAT
-- 453: Logos TV
-- 454: Loveworld Arabic
-- 455: LTV
-- 456: Lualua TV
-- 457: M classic
-- 458: M24 MAROC
-- 459: Maan TV
-- 460: Madah
-- 461: Madrastna 1
-- 462: Madrastna 2
-- 463: Madrastna 3
-- 464: MAJESTIC CLASSIC
-- 465: MAKAN
-- 466: MANU CHAT
-- 467: Marah TV
-- 468: Marina TV HD
-- 469: MarjaeyatTV 2 HD
-- 470: Maspero Zaman
-- 471: MASSAYA TV
-- 472: MDEEH
-- 473: Medi1 TV Arabic
-- 474: Mekameleen TV
-- 475: Menhag Alnabowe
-- 476: Mereja TV
-- 477: MESat
-- 478: Misr Al Zera3eya
-- 479: Misr ElBald
-- 480: Modern Mti
-- 481: MTA3
-- 482: Musawa HD
-- 483: N Africa
-- 484: NABA TV
-- 485: Nabd
-- 486: Nasna TV
-- 487: Nawader TV
-- 488: Nile Culture
-- 489: Nile Family
-- 490: Nile Life
-- 491: Nile TV
-- 492: North Africa
-- 493: Nour Koddass
-- 494: NRT 2 HD
-- 495: NRT HD
-- 496: ONE TV
-- 497: Outdoor Channel
-- 498: Pal Quraan 2
-- 499: Panorama Food
-- 500: PAYAM TV HD
-- 501: Press TV HD
-- 502: Pulse95 SHJ
-- 503: QBC  HD
-- 504: QBC 4K
-- 505: Reef Alyemen
-- 506: Revival TV
-- 507: River Nile TV
-- 508: Riyad Al Salihin
-- 509: Rojava HD
-- 510: Ronahi TV
-- 511: Roqiaty alkhalijia
-- 512: Rotana Khalijia
-- 513: ROYA HD
-- 514: RUDAW
-- 515: RUDAW TV
-- 516: SABA HD
-- 517: Sada ElBalad 3
-- 518: Sahar Kurdi
-- 519: Salahden TV
-- 520: SALAM
-- 521: SALVATION TV MENA
-- 522: Samarra tv
-- 523: Samira TV
-- 524: Saout alaqila
-- 525: SAT-7 ARABIC
-- 526: SAT.TV
-- 527: Saudia Alaan TV HD
-- 528: Sawt Alitra
-- 529: SBC HD
-- 530: SBN Global
-- 531: SHAM TV
-- 532: Shamalia TV
-- 533: Sharqiya from Kalba HD
-- 534: Sheba
-- 535: SHEHAB TV HD
-- 536: SHOW TV
-- 537: SMTV
-- 538: SOUT MASER
-- 539: Speda TV HD
-- 540: STERK TV HD
-- 541: Strongman Champions League
-- 542: SUBORO TV
-- 543: SUHAIL TV
-- 544: Suroyo TV
-- 545: TAHA
-- 546: TANASUH TV
-- 547: TAYBA TV
-- 548: TCHAD TV HD
-- 549: TCTT
-- 550: TEBA
-- 551: Tele Lumiere
-- 552: Tets3
-- 553: The Grace TV
-- 554: Thikrayat HD
-- 555: Thikrayatt
-- 556: thmanyah.1
-- 557: thmanyah.2
-- 558: thmanyah.3
-- 559: TOP Zaman
-- 560: TRT Arabi HD
-- 561: TRT KURDI
-- 562: TRT World HD
-- 563: Tunisia Nat1 HD
-- 564: Tunisia Nat2 HD
-- 565: TURKMENELI HD
-- 566: TV 4
-- 567: TV 5
-- 568: TV ISLAAMA
-- 569: TV5
-- 570: TV6 HD
-- 571: TV7 ELMAARIFA
-- 572: TV8 EDHAKIRA
-- 573: TVRI
-- 574: United TV
-- 575: WAAR HD
-- 576: Watan TV
-- 577: WATAR SHJ
-- 578: Wedo TV
-- 579: Wild TV
-- 580: World Fashion Channel
-- 581: World Fishing Network
-- 582: YEMENIA TV
-- 583: ZAD TV
-- 584: ZAGROS TV HD
-- 585: Zahra TV
-- 586: ZAROK TV HD
-- 587: ZAYTOONA
-- 588: Zoom TV
-- 589: Nile Sport
+- 145: CBC Sofra
+- 146: 5 KIDS
+- 147: Atfal Mawaheb
+- 149: Cartoon 2
+- 150: Cartoon Network
+- 151: CN ARABIA
+- 154: Karameesh TV
+- 155: Koogi
+- 157: MBC 3
+- 158: SAT-7 KIDS
+- 159: SPACETOON ARABIC
+- 181: Qatar 2
+- 182: Qatar TV HD
+- 183: SAMA DUBAI HD
+- 184: SHAMS AL- IRAQ
+- 185: Sharjah HD
+- 186: 
+- 187: 1 Baghdad
+- 188: 2M MAROC HD
+- 189: 3yoon TV
+- 190: A TV
+- 191: A3 HD
+- 192: ABC-ALKhalijia TV
+- 193: Abu Dhabi TV HD
+- 194: AD Nat Geo HD
+- 195: Aden
+- 196: Aden Almustakilla
+- 197: Aden TV
+- 198: AFAQ TV
+- 199: Africa TV 1
+- 200: AGHAPY TV
+- 201: Ahwas State TV
+- 202: AJMAN HD
+- 203: AL AHAD HD
+- 204: AL AHAD VOICE
+- 205: Al Alam HD
+- 206: AL AMAL
+- 207: Al Aoula inter
+- 208: Al Araby 2 HD
+- 209: AL ARABY TV HD
+- 210: Al Assema TV
+- 211: AL AYAM HD
+- 212: Al Basira
+- 213: Al Basra
+- 214: Al Basrah 365
+- 215: AL DAFRA HD
+- 216: Al Ekhbaria HD
+- 217: Al Eman
+- 218: Al Emarat TV HD
+- 219: AL ESHRAQ TV
+- 220: Al Fath Al3amh
+- 221: Al Fath Sonnah TV
+- 222: Al Forat HD
+- 223: Al Ghad HD
+- 224: Al Ghadeer
+- 225: Al Hayat
+- 226: Al Hiwar TV
+- 227: Al Horreya
+- 228: Al joumhouriya
+- 229: Al Karma Family
+- 230: Al Kawthar HD
+- 231: AL KERAZA TV
+- 232: Al Khaleej 24
+- 233: AL MALAKOOT SATTHE KINGDOM SAT
+- 234: Al Mashhad
+- 235: Al Masryia HD
+- 236: Al Mawsleya HD
+- 237: Al Mayadeen HD
+- 238: AL MAYADEEN TV
+- 239: AL NADA TV
+- 240: AL NOJABA TV
+- 241: Al Ons TV
+- 242: Al Ostoura
+- 243: Al Qamar HD
+- 244: Al Quds Al Yawm
+- 245: Al Rabiaa TV
+- 246: AL RAHMA
+- 247: AL RASHEED TV HD
+- 248: Al Rayyan Al Qadeem HD
+- 249: Al Rayyan HD
+- 250: AL SABAH
+- 251: Al Sahat
+- 252: AL SALAM TV
+- 253: AL Shams
+- 254: AL SHARQIYA HD
+- 255: AL SHASHA MOSLSLAT
+- 256: AL SIRAT TV
+- 257: AL SUMARIA HD
+- 258: Al TALEAA HD
+- 259: Al Thania
+- 260: Al Thaqafeya
+- 261: Al Thaqafiya HD
+- 262: AL THAQALAYN TV
+- 263: Al Watania 24
+- 264: Al Wathaeqya
+- 265: Al Wousta from Al Dhaid HD
+- 266: AL-AKHBAR
+- 267: AL-Anbar
+- 268: Al-Aqila TV
+- 269: Al-Arabiya Alhadath
+- 270: Al-Awhad TV
+- 271: Al-Bawadi
+- 272: Al-Ganob
+- 273: AL-GEZIRA TV
+- 274: AL-KAFEL TV
+- 275: al-khaleej alyoum
+- 276: Al-Marjaeyoun TV
+- 277: AL-MUSTAKILA
+- 278: Al-Nahar Life
+- 279: Al-Shaaer TV
+- 280: Al-Shahed TV HD
+- 281: alafasy
+- 282: Alanwar TV
+- 283: AlAraby2
+- 284: ALASKANDRIA
+- 285: ALASSEMA
+- 286: ALASSEMA TV
+- 287: Albaghdadiya
+- 288: Albalad TV
+- 289: Aldawla TV
+- 290: ALDELTA
+- 291: Alerth-Alnbawi
+- 292: ALFATH TV
+- 294: AlHadath Alyoum
+- 295: ALHAWYAH TV
+- 296: ALhayah ALaan
+- 297: Alhurra HD
+- 298: Aliman TV
+- 299: ALISTIQAMA TV
+- 300: Aljanub TV
+- 301: ALJAWADAIN
+- 302: ALKAHERA
+- 303: Alkalema
+- 304: ALKANAL
+- 305: ALKARBALAEIA TV
+- 306: Alkarma Discipleship
+- 307: Alkarma ME 1
+- 308: AlKarma Praise
+- 309: Alkawther
+- 310: ALKOFIYA HD
+- 311: ALLAHDAH TV
+- 312: ALLIBIYA TV
+- 313: Almaaref TV HD
+- 314: ALMADANIAH TV
+- 315: Almagd TV
+- 316: Almahriah HD
+- 317: Almajd General
+- 318: Almamlaka TV
+- 319: Almasirah HD
+- 320: Almasirah Mubashar
+- 321: ALMASIRAH TV
+- 322: ALMAWQEF TV
+- 323: ALMAYADEEN PLUS
+- 324: ALMERGAB TV
+- 325: ALNAEEM TV
+- 326: Alnajaf Alashraf tv
+- 327: AlNassr media
+- 328: AlQanat 9
+- 329: Alrai TV
+- 330: ALSA3EED
+- 331: AlSaeedah
+- 332: ALSahraa HD
+- 333: Alsay3da
+- 334: ALSHABAB
+- 335: AlShaoub TV
+- 336: ALSHOOR TV
+- 337: Alsouriya tv
+- 338: Alsouriya TV-HD
+- 339: ALTAHRIR
+- 340: Althanya
+- 341: Alwadi TV
+- 342: ALWAQIE TV HD
+- 343: ALWASI
+- 344: ALWESAM  TV
+- 345: Alyaum TV
+- 346: Alzrga
+- 347: AmharaSat TV
+- 348: Amman TV
+- 349: Amozhgary TV
+- 350: ANA DEJLAH
+- 351: Anewz
+- 352: AnwarTV2
+- 353: Arirang HD
+- 354: Aryen TV
+- 355: ARZKR!
+- 356: Ashorooq TV
+- 357: Asil TV
+- 358: Athan Tulkarem
+- 359: AVA TV
+- 360: Awazna1
+- 361: Awdeh HD
+- 362: Ayozat TV
+- 363: BAGHDAD TV
+- 364: Bahia TV
+- 365: BANGAWAZ TV
+- 366: Baynounah TV
+- 367: Beirut Alyoom
+- 368: Beit ElDrama
+- 369: Beity TV
+- 370: BELQEES HD
+- 371: BIN OTHAIMEEN
+- 372: BN TV
+- 373: CAR TV
+- 374: CATV
+- 375: CGTN
+- 376: CGTN-Arabic
+- 377: CHANNEL8
+- 378: Chebab TV
+- 379: Cima
+- 380: CIRA TV
+- 381: CNN
+- 382: CSAT
+- 383: Dabanga TV
+- 384: DAEWA TV
+- 385: Dar Alshefa
+- 386: Daystar
+- 387: Dijlah TV HD
+- 388: Dijlah Zaman TV HD
+- 389: Diwan
+- 390: Dream Al Wan
+- 391: Dream Al Youm
+- 392: Dream Monawaet
+- 393: DUA CHANNEL
+- 394: Dzair 7 Rokya
+- 395: Echorouk TV
+- 396: El barlamaniya
+- 397: El Bilad TV
+- 398: El Heddaf TV
+- 399: EL MAHROUSA TV
+- 400: El Sharq TV
+- 401: El Watania TV
+- 402: Eldjazair N1
+- 403: ERIPM
+- 404: ERISAT
+- 405: Eriteria TV
+- 406: ETIHAD TV
+- 407: Faith TV
+- 408: Falastini.tv
+- 409: falestinona TV
+- 410: Fox Be Elaraby TV
+- 411: FR HD
+- 412: Fujairah TV HD
+- 413: G+
+- 414: Gali Kurdistan HD
+- 415: Gulfsat
+- 416: HADRAMAUT TV
+- 417: Hala Arabia
+- 418: Hamiltan TV
+- 419: Hebron.Sat TV
+- 420: HodHod  TV
+- 421: Hooosh TV
+- 422: Huda TV
+- 423: Huna Aliraq
+- 424: HYA
+- 425: iKA TV
+- 426: IMAM HUSSEIN TV 2
+- 427: INEWS TV HD
+- 428: Iraqia Ent HD
+- 429: Iraqia Syriac HD
+- 430: Iraqia Turkuman
+- 431: JIN TV HD
+- 432: K24 HD
+- 433: Kaifa
+- 434: Karbala Documentary HD
+- 435: KARBALA TV HD
+- 436: Kartoon channel
+- 437: Kassala TV
+- 438: KBS WORLD
+- 439: Khartoum-TV
+- 441: Kirkuk TV HD
+- 442: KSA SPORT1 HD
+- 443: KSA SPORT2 HD
+- 444: KTO
+- 445: KURDISTAN TV
+- 446: KURDMAX
+- 447: Kurdsat HD
+- 448: LBC SAT
+- 449: Logos TV
+- 450: Loveworld Arabic
+- 451: LTV
+- 452: Lualua TV
+- 453: M classic
+- 454: M24 MAROC
+- 455: Maan TV
+- 456: Madah
+- 457: Madrastna 1
+- 458: Madrastna 2
+- 459: Madrastna 3
+- 460: MAJESTIC CLASSIC
+- 461: MAKAN
+- 462: MANU CHAT
+- 463: Marah TV
+- 464: Marina TV HD
+- 465: MarjaeyatTV 2 HD
+- 466: Maspero Zaman
+- 467: MASSAYA TV
+- 468: MDEEH
+- 469: Medi1 TV Arabic
+- 470: Mekameleen TV
+- 471: Menhag Alnabowe
+- 472: Mereja TV
+- 473: MESat
+- 474: Misr Al Zera3eya
+- 475: Misr ElBald
+- 476: Modern Mti
+- 477: MTA3
+- 478: Musawa HD
+- 479: N Africa
+- 480: NABA TV
+- 481: Nabd
+- 482: Nasna TV
+- 483: Nawader TV
+- 484: Nile Culture
+- 485: Nile Family
+- 486: Nile Life
+- 487: Nile TV
+- 488: North Africa
+- 489: Nour Koddass
+- 490: NRT 2 HD
+- 491: NRT HD
+- 492: ONE TV
+- 493: Outdoor Channel
+- 494: Pal Quraan 2
+- 495: Panorama Food
+- 496: PAYAM TV HD
+- 497: Press TV HD
+- 498: Pulse95 SHJ
+- 499: QBC  HD
+- 500: QBC 4K
+- 501: Reef Alyemen
+- 502: Revival TV
+- 503: River Nile TV
+- 504: Riyad Al Salihin
+- 505: Rojava HD
+- 506: Ronahi TV
+- 507: Roqiaty alkhalijia
+- 508: Rotana Khalijia
+- 509: ROYA HD
+- 510: RUDAW
+- 511: RUDAW TV
+- 512: SABA HD
+- 513: Sada ElBalad 3
+- 514: Sahar Kurdi
+- 515: Salahden TV
+- 516: SALAM
+- 517: SALVATION TV MENA
+- 518: Samarra tv
+- 519: Samira TV
+- 520: Saout alaqila
+- 521: SAT-7 ARABIC
+- 522: SAT.TV
+- 523: Saudia Alaan TV HD
+- 524: Sawt Alitra
+- 525: SBC HD
+- 526: SBN Global
+- 527: SHAM TV
+- 528: Shamalia TV
+- 529: Sharqiya from Kalba HD
+- 530: Sheba
+- 531: SHEHAB TV HD
+- 532: SHOW TV
+- 533: SMTV
+- 534: SOUT MASER
+- 535: Speda TV HD
+- 536: STERK TV HD
+- 537: Strongman Champions League
+- 538: SUBORO TV
+- 539: SUHAIL TV
+- 540: Suroyo TV
+- 541: TAHA
+- 542: TANASUH TV
+- 543: TAYBA TV
+- 544: TCHAD TV HD
+- 545: TCTT
+- 546: TEBA
+- 547: Tele Lumiere
+- 548: Tets3
+- 549: The Grace TV
+- 550: Thikrayat HD
+- 551: Thikrayatt
+- 552: thmanyah.1
+- 553: thmanyah.2
+- 554: thmanyah.3
+- 555: TOP Zaman
+- 556: TRT Arabi HD
+- 557: TRT KURDI
+- 558: TRT World HD
+- 559: Tunisia Nat1 HD
+- 560: Tunisia Nat2 HD
+- 561: TURKMENELI HD
+- 562: TV 4
+- 563: TV 5
+- 564: TV ISLAAMA
+- 565: TV5
+- 566: TV6 HD
+- 567: TV7 ELMAARIFA
+- 568: TV8 EDHAKIRA
+- 569: TVRI
+- 570: United TV
+- 571: WAAR HD
+- 572: Watan TV
+- 573: WATAR SHJ
+- 574: Wedo TV
+- 575: Wild TV
+- 576: World Fashion Channel
+- 577: World Fishing Network
+- 578: YEMENIA TV
+- 579: ZAD TV
+- 580: ZAGROS TV HD
+- 581: Zahra TV
+- 582: ZAROK TV HD
+- 583: ZAYTOONA
+- 584: Zoom TV
+- 585: Nile Sport
 
 </details>
 
