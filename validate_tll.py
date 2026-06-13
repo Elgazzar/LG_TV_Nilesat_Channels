@@ -71,6 +71,21 @@ def validate_tll(file_path):
             # or just assume strictly 1..N.
             expected_num += 1
 
+    # 3. Check for Known Issues (LG TV Quirks)
+    for ch in active_channels:
+        name = ch.get('channelName', 'UNKNOWN')
+        
+        # Check for minorNumber issue
+        minor = ch.get('minorNumber', 0)
+        if minor != 0:
+            errors.append(f"Channel '{name}' has minorNumber {minor}. Non-zero minor numbers cause skipping on LG TVs.")
+            
+        # Check for Radio classification issue
+        svc_type = ch.get('serviceType', 1)
+        user_sel = ch.get('userSelCHNo', True)
+        if svc_type == 25 and not user_sel:
+            errors.append(f"Channel '{name}' has serviceType 25 but userSelCHNo is False. This misclassifies it as Radio on LG TVs.")
+
     if errors:
         print("\n--- VALIDATION FAILED ---")
         for err in errors:
