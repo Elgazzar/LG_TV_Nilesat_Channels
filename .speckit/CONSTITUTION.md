@@ -8,10 +8,20 @@ Any changes made to the LG TV `.TLL` configuration file must automatically be re
 This ensures that the project's documentation is always perfectly synchronized with the raw data.
 
 ## 2. Channel Grouping
-The `README.md` file must contain distinct channel groupings displayed in collapsible sections, specifically organizing channels into logical categories such as Movies, Series, News, and Premium.
+The `README.md` file must contain distinct channel groupings displayed in collapsible sections. The standard structural order is:
+1. Religion & Quran
+2. Premium & General
+3. English Movies
+4. Arabic Movies & Cinema
+5. Series & Drama
+6. Music
+7. News
+8. Sports
+9. Kids & Family
+10. Regional & Uncategorized
 
 ## 3. High Quality / Low Quality Segmentation
-For the **Movies**, **News**, **Series**, and **Sports** groupings, the lists MUST be internally sorted by Quality:
+For the **Movies**, **News**, **Series**, **Sports**, and **Kids & Family** groupings, the lists MUST be internally sorted by Quality:
 - **High Quality Tier**: The top of the list must contain High Quality channels.
 - **Low Quality Tier**: The bottom of the list contains the remaining Lower Quality channels.
 

@@ -82,60 +82,60 @@ Below is the complete list of channels grouped by their category. Click on each 
 </details>
 
 <details>
-<summary><b>Series & Drama (30 channels)</b></summary>
+<summary><b>Arabic Movies & Cinema (10 channels)</b></summary>
 
 ### High Quality
-- 33: One Drama
-- 34: Rotana Drama
-- 35: dmc drama
-- 36: CBC Drama
-- 37: Alhayat Muslsalat
-- 38: MBC MASR DRAMA HD
-- 39: MBC Drama
-- 40: MBC Bollywood
-- 41: ON Drama
+- 33: Rotana Cinema EGY HD
+- 34: Rotana Cinema KSA
+- 35: Rotana Classic
 
 ### Low Quality
-- 42: Hawa Baghdad Drama
-- 43: 1 IRAQ Drama
-- 44: Al Assema Alwan
-- 45: Al Assema Drama
-- 46: Al Shams Drama
-- 47: Alatwla Drama
-- 48: Alhwanem Drama
-- 49: ALIRAQI DRAMA PLUS
-- 50: Dream Mosalsalat
-- 51: EL WAHA DRAMA
-- 52: Elfadjer drama Dz
-- 53: Elzaeem Drama
-- 54: MAJESTIC DRAMA
-- 55: MAJESTIC MOSALSALAT
-- 56: Melody Drama
-- 57: Top Drama
-- 58: ZEE ALWAN Egypt
-- 59: Al-Nahar Drama
-- 60: Nile Drama
-- 61: Panorama Drama
-- 62: ZEE ALWAN.
+- 36: AL SHASHA  FILM
+- 37: AL SHASHA CINEMA
+- 38: El Khoulasa Cinema
+- 39: Mix Bel Araby
+- 40: Panorama Film
+- 41: Nile Cinema
+- 42: Zee Aflam
 
 </details>
 
 <details>
-<summary><b>Arabic Movies & Cinema (10 channels)</b></summary>
+<summary><b>Series & Drama (30 channels)</b></summary>
 
 ### High Quality
-- 63: Rotana Cinema EGY HD
-- 64: Rotana Cinema KSA
-- 65: Rotana Classic
+- 43: One Drama
+- 44: Rotana Drama
+- 45: dmc drama
+- 46: CBC Drama
+- 47: Alhayat Muslsalat
+- 48: MBC MASR DRAMA HD
+- 49: MBC Drama
+- 50: MBC Bollywood
+- 51: ON Drama
 
 ### Low Quality
-- 66: AL SHASHA  FILM
-- 67: AL SHASHA CINEMA
-- 68: El Khoulasa Cinema
-- 69: Mix Bel Araby
-- 70: Panorama Film
-- 71: Nile Cinema
-- 72: Zee Aflam
+- 52: Hawa Baghdad Drama
+- 53: 1 IRAQ Drama
+- 54: Al Assema Alwan
+- 55: Al Assema Drama
+- 56: Al Shams Drama
+- 57: Alatwla Drama
+- 58: Alhwanem Drama
+- 59: ALIRAQI DRAMA PLUS
+- 60: Dream Mosalsalat
+- 61: EL WAHA DRAMA
+- 62: Elfadjer drama Dz
+- 63: Elzaeem Drama
+- 64: MAJESTIC DRAMA
+- 65: MAJESTIC MOSALSALAT
+- 66: Melody Drama
+- 67: Top Drama
+- 68: ZEE ALWAN Egypt
+- 69: Al-Nahar Drama
+- 70: Nile Drama
+- 71: Panorama Drama
+- 72: ZEE ALWAN.
 
 </details>
 
@@ -225,32 +225,35 @@ Below is the complete list of channels grouped by their category. Click on each 
 <details>
 <summary><b>Kids & Family (28 channels)</b></summary>
 
-- 132: BaBy Kids TV
-- 133: Cookies Kids HD
-- 134: Cookies Kids TV
-- 135: Majd Kids TV HD
-- 136: Toyor Aljanah
-- 137: Sharjah Quran
-- 138: Bahrain International HD
-- 139: Bahrain TV HD
-- 140: Canal algerie HD
-- 141: CTV EGYPT
-- 142: El Hayat TV Algerie
-- 143: Ennahar TV Algerie
-- 144: IRAQ 24
-- 145: Qatar 2
-- 146: Qatar TV HD
-- 147: SAMA DUBAI HD
-- 148: SHAMS AL- IRAQ
-- 149: Sharjah HD
-- 150: 
-- 151: 1 Baghdad
-- 152: 2M MAROC HD
-- 153: 3yoon TV
-- 154: A TV
-- 155: A3 HD
-- 156: ABC-ALKhalijia TV
-- 157: Abu Dhabi TV HD
+### High Quality
+- 132: Cookies Kids HD
+- 133: Majd Kids TV HD
+- 134: Bahrain International HD
+- 135: Bahrain TV HD
+- 136: Canal algerie HD
+- 137: Qatar TV HD
+- 138: SAMA DUBAI HD
+- 139: Sharjah HD
+- 140: 1 Baghdad
+- 141: 2M MAROC HD
+- 142: 3yoon TV
+- 143: A3 HD
+- 144: Abu Dhabi TV HD
+
+### Low Quality
+- 145: BaBy Kids TV
+- 146: Cookies Kids TV
+- 147: Toyor Aljanah
+- 148: Sharjah Quran
+- 149: CTV EGYPT
+- 150: El Hayat TV Algerie
+- 151: Ennahar TV Algerie
+- 152: IRAQ 24
+- 153: Qatar 2
+- 154: SHAMS AL- IRAQ
+- 155: 
+- 156: A TV
+- 157: ABC-ALKhalijia TV
 - 158: Algerian 4Kids
 - 159: Kidsy
 
