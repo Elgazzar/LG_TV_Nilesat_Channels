@@ -8,56 +8,56 @@
 | 4 | dmc HD | 4901 |
 | 5 | MBC Masr HD | 20 |
 | 6 | MBC Masr 2 | 1106 |
-| 7 | MBC Action | 10 |
-| 8 | Sada El Balad | 1114 |
-| 9 | Sada El Balad 2 | 1115 |
-| 10 | Sada ElBalad 3 | 1113 |
-| 11 | Al Kahera Wal Nas | 490 |
-| 12 | Al Kahera Wal Nas +2 | 1301 |
-| 13 | Al-Nahar One | 1801 |
-| 14 | CBC | 1803 |
-| 15 | AL Oula HD | 502 |
-| 16 | Nile Sport | 607 |
-| 17 | beIN SPORTS | 2106 |
-| 18 | ONTIME SPORTS2 HD | 201 |
-| 19 | Mazzika | 1605 |
-| 20 | CBC Sofra | 1804 |
-| 21 | ON Drama | 208 |
-| 22 | dmc drama | 4905 |
-| 23 | MBC Bollywood | 8 |
-| 24 | Nile Drama | 606 |
-| 25 | Al-Nahar Drama | 1802 |
-| 26 | Panorama Drama | 2207 |
-| 27 | MBC Drama | 6 |
-| 28 | CBC Drama | 1805 |
-| 29 | Alhayat Muslsalat | 1807 |
-| 30 | MBC MASR DRAMA HD | 103 |
-| 31 | ZEE ALWAN. | 6 |
-| 32 | Alhayat 2 | 1311 |
-| 33 | AlHayat HD | 3208 |
-| 34 | Nawader TV | 8021 |
-| 35 | Panorama Drama 2 | 2208 |
-| 36 | MBC MASR | 1306 |
-| 37 | TeN TV | 601 |
-| 38 | ALFATH TV | 1602 |
-| 39 | ELMEHWAR-HD | 7308 |
-| 40 | Misr ElBald | 18 |
-| 41 | Nile Cinema | 614 |
-| 42 | Nile Comedy | 604 |
-| 43 | Rotana Classic | 2104 |
-| 44 | Rotana Khalijia | 2103 |
-| 45 | Rotana Drama | 2105 |
-| 46 | Rotana Music | 2101 |
-| 47 | Rotana Clip | 2102 |
-| 48 | Rotana Cinema EGY | 2106 |
-| 49 | Rotana Cinema KSA | 2107 |
-| 50 | Rotana Cinema EGY HD | 2110 |
-| 51 | ZEE ALWAN Egypt | 7 |
-| 52 | ZEE AFLAM | 5 |
-| 53 | One Movies | 6610 |
-| 54 | MBC MASR HD | 101 |
-| 55 | MBC MASR 2 HD | 102 |
-| 56 | MBC IRAQ HD | 105 |
+| 7 | Sada El Balad | 1114 |
+| 8 | Sada El Balad 2 | 1115 |
+| 9 | Sada ElBalad 3 | 1113 |
+| 10 | Al Kahera Wal Nas | 490 |
+| 11 | Al Kahera Wal Nas +2 | 1301 |
+| 12 | Al-Nahar One | 1801 |
+| 13 | CBC | 1803 |
+| 14 | AL Oula HD | 502 |
+| 15 | Nile Sport | 607 |
+| 16 | beIN SPORTS | 2106 |
+| 17 | ONTIME SPORTS2 HD | 201 |
+| 18 | Mazzika | 1605 |
+| 19 | CBC Sofra | 1804 |
+| 20 | ON Drama | 208 |
+| 21 | dmc drama | 4905 |
+| 22 | MBC Bollywood | 8 |
+| 23 | Nile Drama | 606 |
+| 24 | Al-Nahar Drama | 1802 |
+| 25 | Panorama Drama | 2207 |
+| 26 | MBC Drama | 6 |
+| 27 | CBC Drama | 1805 |
+| 28 | Alhayat Muslsalat | 1807 |
+| 29 | MBC MASR DRAMA HD | 103 |
+| 30 | ZEE ALWAN. | 6 |
+| 31 | Alhayat 2 | 1311 |
+| 32 | AlHayat HD | 3208 |
+| 33 | Nawader TV | 8021 |
+| 34 | Panorama Drama 2 | 2208 |
+| 35 | MBC MASR | 1306 |
+| 36 | TeN TV | 601 |
+| 37 | ALFATH TV | 1602 |
+| 38 | ELMEHWAR-HD | 7308 |
+| 39 | Misr ElBald | 18 |
+| 40 | Nile Cinema | 614 |
+| 41 | Nile Comedy | 604 |
+| 42 | Rotana Classic | 2104 |
+| 43 | Rotana Khalijia | 2103 |
+| 44 | Rotana Drama | 2105 |
+| 45 | Rotana Music | 2101 |
+| 46 | Rotana Clip | 2102 |
+| 47 | Rotana Cinema EGY | 2106 |
+| 48 | Rotana Cinema KSA | 2107 |
+| 49 | Rotana Cinema EGY HD | 2110 |
+| 50 | ZEE ALWAN Egypt | 7 |
+| 51 | ZEE AFLAM | 5 |
+| 52 | One Movies | 6610 |
+| 53 | MBC MASR HD | 101 |
+| 54 | MBC MASR 2 HD | 102 |
+| 55 | MBC IRAQ HD | 105 |
+| 56 | MBC Action | 10 |
 | 57 | MBC 4 | 5 |
 | 58 | MBC 2 | 9 |
 | 59 | MBC 1 | 4 |
